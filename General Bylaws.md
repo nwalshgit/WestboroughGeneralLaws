@@ -844,7 +844,7 @@ the acceptance of corresponding earlier laws.
 | & (41B) | Increase Allowable Income for Deferrals | 2003
 | Ch. 59, § 5 (41C) | Property tax exemption age 70 $500/meet criteria | 1994
 | Ch. 59, § 5K | Senior Tax Work Off Amendment | 2015
-| Ch. 59, § 5N | Veterans Tax Work Off | 2015
+| Ch. 59, § 5N | Veterans Tax Work Off, 125 hrs | 2015, 2020 ATM
 | Ch. 59, § 59A | Environmental Cleanup Tax Abatement | 2010
 | Ch. 59, § 57C | Quarterly Tax Billing | 1992 | Acts of 89
 | Ch. 59, § 5 (41D) | Prop. Tax Exemption, Income Increase | 2019
