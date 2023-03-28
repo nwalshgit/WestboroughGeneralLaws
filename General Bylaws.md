@@ -88,7 +88,7 @@ __2020 Sept Special Town Meeting__
 * [__ARTICLE 15 – Revolving Funds__](#article-15--revolving-funds) .............................................................................................. 19
 * [__ARTICLE 16 – Marijuana Not Medically Prescribed__](#article-16--marijuana-not-medically-prescribed) ............................................................... 20
 * [__ARTICLE 17 – Reserved__](#article-17--reserved) ........................................................................................................... 20
-* [__ARTICLE 18 – Reserved__](#article-18--reserved) ........................................................................................................... 20
+* [__ARTICLE 18 – Community Development Department__](#article-18--community-development-department) ........................................................................................................... 20
 * [__ARTICLE 19 – Reserved__](#article-19--reserved) ........................................................................................................... 20
 * [__ARTICLE 20 – Reserved__](#article-20--reserved) ........................................................................................................... 20
 * [__ACTIVITY REGULATIONS__](#activity-regulations) ........................................................................................................ 22
@@ -1026,7 +1026,19 @@ marijuana-related businesses, shall be prohibited within the Town of Westborough
 
 ## ARTICLE 17 – RESERVED
 
-## ARTICLE 18 – RESERVED
+## ARTICLE 18 – COMMUNITY DEVELOPMENT DEPARTMENT
+### Section 1 Community Development Department and Community Development Director
+There shall be a Community Development Department, to include the functions and departments
+of the Building, Economic Development, and Conservation, to be headed by and under the
+supervision of a Community Development Director. The office of Community Development
+Director shall be filled by appointment of the Town Manager.
+
+The Community Development Director is responsible for overseeing and coordinating the Town’s
+development activities in cooperation with the Town Planner and the Planning Board. The
+Community Development Director supervises the Building Commissioner, Conservation Director,
+and Economic Development Coordinator, or other such title as may be given to the heads of these
+departments, and may also perform the functions of a Building Commissioner, as set forth and
+pursuant to their respective job descriptions. 
 
 ## ARTICLE 19 – RESERVED
 
