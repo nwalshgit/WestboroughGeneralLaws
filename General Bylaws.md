@@ -800,6 +800,7 @@ the acceptance of corresponding earlier laws.
 | Ch. 32D | Group Life & Health Insurance | 1968 | 1968 Ch.100
 | Ch. 39, § 15 | Town Meeting Procedure | 1997 | 1996 Ch.448 S.2
 | Ch. 39, §23D | Adjudicatory hearings, Attendance | 2007
+| Ch. 40, § 5B (P4) | Stabilization Fund | 2020 |2020 ATM
 | Ch. 40, § 6B | Uniforms-Police & Foreman | 1965
 | Ch. 40, § 7 | Removal of Snow & Ice & Assessment of Cost | 1921
 | Ch. 40, § 8A | Commission to Promote Business & Industry | 1955 | 1954.Ch. 297
