@@ -1011,12 +1011,12 @@ The Town of Westborough shall authorize the following Revolving Funds:
 
 | Revolving Fund                              | Purpose                                          | Funds to be Deposited From        | Authorized to Expend Funds     | Maximum Expenditure | 
 | :------------------------------------------ | :----------------------------------------------- | :-------------------------------- | :----------------------------- | ------------------: |
-| Fire Department                             | EMS Training                                     | Program Fees                      | Fire Chief                     | $4,000              |
+| Fire Department                             | EMS Training                                     | Program Fees                      | Fire Chief                     | $8,000              |
 | Youth and Family Services                   | To Provide Youth Activities such as Hot Summer Nights and Babysitter training | Program Fees | Youth Commission       | $15,000             |
 | Local Emergency Planning Committee          | To address hazardous materials spills and provide the Fire Department the means to bill insurance companies and refurbish supplies used in HazMat spills | Insurance and other Proceeds for Services | Local Emergency Planning Committee | $100,000
-| Council on Aging                            | To Provide Programs for Seniors                  | Program Fees                      | Council on Aging               | $15,000             |
-| Recreation                                  | To Provide Recreation Programs                   | Program Fees                      | Recreation Commission          | $400,000            |
-| Economic Development Small Business Grant   | To Provide grant assistance for small businesses | Billboard Fees                    | Economic Development Committee | $25,000             |
+| Council on Aging                            | To Provide Programs for Seniors                  | Program Fees                      | Council on Aging               | $30,000             |
+| Recreation                                  | To Provide Recreation Programs                   | Program Fees                      | Recreation Commission          | $500,000            |
+| Economic Development Small Business Grant   | To Provide grant assistance for small businesses | Billboard Fees                    | Economic Development Committee | $40,000             |
 
 ## ARTICLE 16 – MARIJUANA NOT MEDICALLY PRESCRIBED
 Consistent with MGL Ch. 94G, Section 3(a)(2), all types of marijuana establishments as defined in
