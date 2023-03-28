@@ -837,6 +837,7 @@ the acceptance of corresponding earlier laws.
 | Ch. 59, § 5 (17C) | Property Tax Exemptions Surviving Spouse/Elderly
 | Ch. 59, § 5 (17D) | Prop. Tax Exemption, age 70 $175/meet criteria | 1994
 | Ch. 59, § 5 (17E) | Prop. Tax Exemption, Asset Increase | 2019
+| Ch. 59, § 5 (22H) | Prop. Tax Exemption, Surviving Parents and Guardians | 2019 STM
 | Ch. 59, § 5 (5B) | Property Tax Exemption | 1983
 | & (37A)|  Appeals; Eligibility for Exemption Blind Persons | 2009
 | Ch. 59, § 5 (41A) | Property Tax Exemption for Elderly | 1984 | 1913, Ch 807
