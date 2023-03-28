@@ -800,6 +800,7 @@ the acceptance of corresponding earlier laws.
 | Ch. 32D | Group Life & Health Insurance | 1968 | 1968 Ch.100
 | Ch. 39, § 15 | Town Meeting Procedure | 1997 | 1996 Ch.448 S.2
 | Ch. 39, §23D | Adjudicatory hearings, Attendance | 2007
+| Ch. 40, § 5B (P4) | Stabilization Fund | 2020 |2020 ATM
 | Ch. 40, § 6B | Uniforms-Police & Foreman | 1965
 | Ch. 40, § 7 | Removal of Snow & Ice & Assessment of Cost | 1921
 | Ch. 40, § 8A | Commission to Promote Business & Industry | 1955 | 1954.Ch. 297
@@ -843,7 +844,7 @@ the acceptance of corresponding earlier laws.
 | Ch. 59, § 5 (41A) | Property Tax Exemption for Elderly | 1984 | 1913, Ch 807
 | & (41B) | Increase Allowable Income for Deferrals | 2003
 | Ch. 59, § 5 (41C) | Property tax exemption age 70 $500/meet criteria | 1994
-| Ch. 59, § 5K | Senior Tax Work Off Amendment | 2015
+| Ch. 59, § 5K | Senior Tax Work Off Amendment, 125 hrs | 2015 | 2015, 2020 ATM
 | Ch. 59, § 5N | Veterans Tax Work Off, 125 hrs | 2015, 2020 ATM
 | Ch. 59, § 59A | Environmental Cleanup Tax Abatement | 2010
 | Ch. 59, § 57C | Quarterly Tax Billing | 1992 | Acts of 89
@@ -1010,12 +1011,12 @@ The Town of Westborough shall authorize the following Revolving Funds:
 
 | Revolving Fund                              | Purpose                                          | Funds to be Deposited From        | Authorized to Expend Funds     | Maximum Expenditure | 
 | :------------------------------------------ | :----------------------------------------------- | :-------------------------------- | :----------------------------- | ------------------: |
-| Fire Department                             | EMS Training                                     | Program Fees                      | Fire Chief                     | $4,000              |
+| Fire Department                             | EMS Training                                     | Program Fees                      | Fire Chief                     | $8,000              |
 | Youth and Family Services                   | To Provide Youth Activities such as Hot Summer Nights and Babysitter training | Program Fees | Youth Commission       | $15,000             |
 | Local Emergency Planning Committee          | To address hazardous materials spills and provide the Fire Department the means to bill insurance companies and refurbish supplies used in HazMat spills | Insurance and other Proceeds for Services | Local Emergency Planning Committee | $100,000
-| Council on Aging                            | To Provide Programs for Seniors                  | Program Fees                      | Council on Aging               | $15,000             |
-| Recreation                                  | To Provide Recreation Programs                   | Program Fees                      | Recreation Commission          | $400,000            |
-| Economic Development Small Business Grant   | To Provide grant assistance for small businesses | Billboard Fees                    | Economic Development Committee | $25,000             |
+| Council on Aging                            | To Provide Programs for Seniors                  | Program Fees                      | Council on Aging               | $30,000             |
+| Recreation                                  | To Provide Recreation Programs                   | Program Fees                      | Recreation Commission          | $500,000            |
+| Economic Development Small Business Grant   | To Provide grant assistance for small businesses | Billboard Fees                    | Economic Development Committee | $40,000             |
 
 ## ARTICLE 16 – MARIJUANA NOT MEDICALLY PRESCRIBED
 Consistent with MGL Ch. 94G, Section 3(a)(2), all types of marijuana establishments as defined in
