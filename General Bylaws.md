@@ -12,7 +12,7 @@ __Town of Westborough General Bylaws__
 
 __As Amended__
 
-__2019 Annual Town Meeting__
+__2019 Special Town Meeting__
 
 ## CONTENTS
 * [__ORGANIZATIONAL__](#organizational) ..................................................................................................................... 1
@@ -358,7 +358,7 @@ __2019 Annual Town Meeting__
 
 ## GENERAL BYLAWS
 ## ADOPTED MARCH 18, 1946
-## WITH AMENDMENTS THROUGH ANNUAL TOWN MEETING 2019
+## WITH AMENDMENTS THROUGH SPECIAL TOWN MEETING 2019
 
 # ORGANIZATIONAL
 
