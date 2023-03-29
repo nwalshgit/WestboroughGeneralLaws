@@ -12,7 +12,7 @@ __Town of Westborough General Bylaws__
 
 __As Amended__
 
-__2020 November Special Town Meeting__
+__2021 Annual Town Meeting__
 
 ## CONTENTS
 * [__ORGANIZATIONAL__](#organizational) ..................................................................................................................... 1
@@ -23,7 +23,7 @@ __2020 November Special Town Meeting__
      * Section 4 Severance Provision ............................................................................................ 1
 * [__ARTICLE 2 – Town Meetings and the Procedure Thereat__](#article-2--town-meetings-and-the-procedure-thereat) ....................................................... 2
      * Section 1 Annual Town Meeting .......................................................................................... 2
-     * Section 2 Fall and Special Town Meetings .......................................................................... 2
+     * Section 2 Fall Town Meeting .......................................................................... 2
      * Section 3 Posting of Warrants ............................................................................................. 2
      * Section 4 Moderator Determination on Signs and Visitors at Town Meeting ....................... 3
      * Section 5 Town Meeting Quorum ........................................................................................ 3
@@ -48,7 +48,7 @@ __2020 November Special Town Meeting__
      * Section 3 Vacancies ............................................................................................................ 7
      * Section 4 Advisory Finance Committee Recommendations ................................................ 7
      * Section 5 Access to Information .......................................................................................... 7
-* [__ARTICLE 4 – Selectmen__](#article-4--selectmen) ............................................................................................................. 7
+* [__ARTICLE 4 – Select Board__](#article-4--select-board) ............................................................................................................. 7
      * Section 1 Powers and Duties ............................................................................................... 7
      * Section 2 Acquisition and Disposition of Real Estate .......................................................... 7
      * Section 3 Bonds and Disposition of Personal Property ....................................................... 8
@@ -124,7 +124,7 @@ __2020 November Special Town Meeting__
      * Section 6 Violation ............................................................................................................. 28
 * [__ARTICLE 26 – Alarm Systems__](#article-26--alarm-systems) ................................................................................................. 28
      * Section 1 Rules and Regulations ....................................................................................... 28
-     * Section 2 Approval by Selectmen ...................................................................................... 28
+     * Section 2 Approval by Select Board ...................................................................................... 28
 * [__ARTICLE 27 – Smoking in Public Places__](#article-27--smoking-in-public-places) ................................................................................ 28
      * Section 1 Definitions .......................................................................................................... 28
      * Section 2 Prohibition .......................................................................................................... 29
@@ -212,6 +212,7 @@ __2020 November Special Town Meeting__
      * Section 8 Nuisance Dogs and Dangerous Dogs ............................................................... 54
      * Section 9 Cats ................................................................................................................... 55
      * Section 10 Kennels .............................................................................................................. 56
+     * Section 11 Poultry .............................................................................................................. 56
 * [__ARTICLE 39 – Hunting__](#article-39--hunting) .............................................................................................................. 56
      * Section 1 Hunting Prohibited Without Permission, Exclusion for Bow Hunting ................. 56
      * Section 2 Written Permission Required ............................................................................. 56
@@ -253,7 +254,7 @@ __2020 November Special Town Meeting__
      * Section 1 Termination ........................................................................................................ 63
      * Section 2 Notice Provisions ............................................................................................... 63
      * Section 3 Notice of Hearing ............................................................................................... 63
-     * Section 4 Appeal to Selectmen .......................................................................................... 64
+     * Section 4 Appeal to Select Board .......................................................................................... 64
 * [__ARTICLE 50 – Underground Sprinkler Systems__](#article-50--underground-sprinkler-systems) .................................................................... 64
 * [__ARTICLE 51 – Water Use Restriction__](#article-51--water-use-restriction) ...................................................................................... 64
      * Section 1 Authority ............................................................................................................. 64
@@ -269,7 +270,7 @@ __2020 November Special Town Meeting__
 * [__ARTICLE 52 – Sewer Regulations__](#article-52--sewer-regulations) ........................................................................................... 67
      * Section 1 Collection System Rules and Regulations ......................................................... 67
      * Section 2 Treatment Plant Board Rules and Regulations ................................................. 67
-     * Section 3 Rules and Regulations – Approval by Board of Selectmen ............................... 67
+     * Section 3 Rules and Regulations – Approval by Select Board ............................... 67
      * Section 4 Penalties For Violation ....................................................................................... 67
      * Section 5 Enforcement ...................................................................................................... 67
      * Section 6 Fixtures Installed in Basements ......................................................................... 67
@@ -358,7 +359,7 @@ __2020 November Special Town Meeting__
 
 ## GENERAL BYLAWS
 ## ADOPTED MARCH 18, 1946
-## WITH AMENDMENTS THROUGH SPECIAL TOWN MEETING 2020 NOV
+## WITH AMENDMENTS THROUGH ANNUAL TOWN MEETING 2021
 
 # ORGANIZATIONAL
 
@@ -383,27 +384,24 @@ provisions of these Bylaws shall not be affected thereby.
 ## ARTICLE 2 – TOWN MEETINGS AND THE PROCEDURE THEREAT
 ### SECTION 1 ANNUAL TOWN MEETING
 The Annual Meeting for the election of Town Officers and all other matters to be determined by
-ballot shall be held on the first Tuesday in May in 2011, and the first Tuesday in March 2012 and
-each year thereafter. The polls shall be open from 8:00 a.m. to 8:00 p.m., and it shall be so stated
+ballot shall be held the second Tuesday in March unless otherwise determined by the Select Board,
+with such revised date to be not less than 65 days from the date the Board votes to determine it.
+The polls shall be open from 8:00 a.m. to 8:00 p.m. unless otherwise determined by the Select Board
+and it shall be so stated
 in the warrant calling the meeting. All other business of the Annual Meeting shall be considered at
 the adjournment thereof as follows. (STM 2010)
 
 The Annual Town Meeting for the consideration of all business, other than the election of Town
-Officers or other matters to be determined by ballot, shall be held during the week designated by
-the Selectmen as "Town Meeting Week", commencing at 1:00 p.m. on the second Saturday
-following the Election of Officers. The meeting shall be recessed not later than 5:00 p.m. to
-reconvene at 7:00 p.m.; adjournment of the session shall be to the following Monday night at 7:00
-p.m. and then to each succeeding night at 7:00 p.m. until completion of the warrant.
-In the event that all articles in the warrant have not been acted on by the end of the Thursday night
-session, the meeting shall stand adjourned to a time and date agreeable to the meeting. In the
-event of a secular or other holiday during the Town Meeting Week, that session shall be
-adjourned to the next night that shall be agreeable to the meeting by majority vote. No quorum or
+Officers or other matters to be determined by ballot, shall be held 9:00am on the second Saturday
+following the Election of Officers unless otherwise determined by the Select Board.
+In the event that all articles in the warrant have not been acted on by the end of Town Meeting,
+the meeting shall stand adjourned to a time and date agreeable to the meeting. No quorum or
 minimum number of voters shall be required for this meeting. (STM 2010)
 
-### SECTION 2 FALL AND SPECIAL TOWN MEETINGS
-A special meeting for the consideration of such business as the Selectmen may place upon the
-warrant shall ordinarily be held on the third Monday in October commencing at 7:00 p.m. In the
-event of a secular or other holiday, the Selectmen may determine an alternative date in October
+### SECTION 2 FALL TOWN MEETING
+A special meeting for the consideration of such business as the Select Board may place upon the
+warrant shall ordinarily be held on the third Monday in October commencing at 7:00 p.m.
+An alternative date may be determined by the Select Board
 for the commencement of the meeting. In the event that all articles in the warrant have not been
 acted upon by the end of the first session, the meeting shall stand adjourned to a time and date
 agreeable to the meeting as established by majority vote. No quorum or minimum number of
@@ -424,7 +422,7 @@ permission of both the Moderator and the organization ordinarily responsible for
 School Department). (ATM 1996)
 
 ### SECTION 5 TOWN MEETING QUORUM
-No Town Meeting other than those described in Section 1 of the Article 2 shall take any action,
+No Town Meeting other than those described in Section 1 and 2 of Article 2 shall take any action,
 except to adjourn, unless there are 50 voters present, and the Moderator shall announce whether
 or not a quorum is present immediately after the meeting is called to order. (STM 2010)
 
@@ -590,32 +588,32 @@ Departments.
 In the discharge of its duty, said Committee shall have free access to all books of record and
 accounts of any office or department of the Town.
 
-## ARTICLE 4 – SELECTMEN
+## ARTICLE 4 – SELECT BOARD
 ### SECTION 1 POWERS AND DUTIES
-The Selectmen shall have full authority as agents of the Town to institute, prosecute and defend
+The Select Board shall have full authority as agents of the Town to institute, prosecute and defend
 any and all claims, actions and proceedings to which the Town is a party, or in which the interest
 of the Town are or may be involved, and to compromise claims against the Town, unless
 otherwise ordered by a vote of the Town.
 
 ### SECTION 2 ACQUISITION AND DISPOSITION OF REAL ESTATE
 Whenever it shall be necessary to execute any deed conveying land, or any other instrument
-required to carry into effect any vote of the Town, the same shall be executed by the Selectmen in
+required to carry into effect any vote of the Town, the same shall be executed by the Select Board in
 behalf of the Town, unless the Town shall vote otherwise. 
 
 ### SECTION 3 BONDS AND DISPOSITION OF PERSONAL PROPERTY
-The Selectmen shall have the sole custody of all bonds required of the officers of the Town.
+The Select Board shall have the sole custody of all bonds required of the officers of the Town.
 
-The Selectmen may from time to time declare certain Town property to be surplus through the
+The Select Board may from time to time declare certain Town property to be surplus through the
 signatures of the majority of the entire Board on a Declaration of Surplus Property listing of these
 items. The Disposal of these goods must conform to all Massachusetts General Laws as
 amended. (ATM 2007)
 
 ### SECTION 4 AUTHORITY AS CHIEF EXECUTIVE OFFICERS
-The Selectmen shall have the general direction and management of the property and affairs of the
+The Select Board shall have the general direction and management of the property and affairs of the
 Town in all matters not otherwise provided for by law or by these Bylaws.
 
 ### SECTION 5 TAX TITLE PROPERTY
-The Board of Selectmen are hereby authorized to sell at public sales any of the property which the
+The Select Board are hereby authorized to sell at public sales any of the property which the
 Town may have acquired, or may hereafter acquire, through procedure based upon non-payment
 of taxes or under proceedings for the sale of lands of low value, and to impose upon such property
 such restrictions, reservations or conditions as shall be deemed in the best interest of the Town,
@@ -627,7 +625,7 @@ The Town Warrant and its actions thereon shall be caused to be printed in the An
 the Town Officers.
 
 ### SECTION 7 COUNCIL ON AGING
-The Selectmen are allowed to provide for a local Council for Aging pursuant to Massachusetts
+The Select Board are allowed to provide for a local Council for Aging pursuant to Massachusetts
 General Laws, Chapter 40, Section 8B. (ATM 1997)
 
 ## ARTICLE 5 – TOWN MANAGER
@@ -636,7 +634,7 @@ staffing within the office of the Town Manager subject to the constraints of the
 Administration Plan and appropriations as voted by the Town Meeting. (ATM 1987) 
 
 ## ARTICLE 6 – HUMAN RESOURCES MANAGEMENT
-Subject to the approval of the Board of Selectmen, the Town Manager shall adopt rules and
+Subject to the approval of the Select Board, the Town Manager shall adopt rules and
 regulations establishing a human resource management system. The human resource
 management system shall make use of modern concepts of personnel management and shall
 include, but not be limited to, the following elements: a method of administration; personnel
@@ -656,7 +654,7 @@ prevail over the rules and regulations adopted under this Section. (ATM 2016)
 There shall be a Finance Department, to include the functions and departments of the Town
 Accountant, Treasurer/Collector, and Assessing, to be headed by and under the supervision of a
 Finance Director. The Town Accountant, appointed under Section 4-2(b)(iii) of the Town Charter
-by the Town Manager with the concurrence of the Board of Selectmen, shall serve as the Finance
+by the Town Manager with the concurrence of the Select Board, shall serve as the Finance
 Director and be referred to as such for purposes of these bylaws. Except as otherwise provided
 by the Town Charter, the Finance Director shall have all of the powers and duties of a town
 accountant under the General Laws of the Commonwealth of Massachusetts, and such additional
@@ -687,8 +685,8 @@ the Town Meeting.
 
 ### SECTION 2 COLLECTION OF WATER AND SEWER FEES
 The Town Treasurer/Collector shall have the responsibility of collecting all monies from water and
-sewer services and other collections that may be, from time to time, directed by the Board of
-Selectmen
+sewer services and other collections that may be, from time to time, directed by the Select
+Board
 
 ### SECTION 3 RENEWAL OF CERTAIN LICENSES AND PERMITS
 * (A) The Town Treasurer/Collector hereinafter referred to as the "Treasurer/Collector" shall
@@ -728,7 +726,7 @@ compliance with said agreement. Failure to comply with said agreement shall be g
 for the suspension or revocation of said license or permit; provided however, that the
 holder be given notice and a hearing as required by applicable provisions of law.
 
-* (D) The Board of Selectmen may waive such denial, suspension or revocation if it finds there
+* (D) The Select Board may waive such denial, suspension or revocation if it finds there
 is no direct or indirect business interest by the property owner, its officers or stockholders,
 if any, or members of his immediate family, as defined in Section One of Chapter 262 of
 the Mass. General Laws in the business or activity conducted in or on said property.
@@ -747,7 +745,7 @@ the Mass. General Laws in the business or activity conducted in or on said prope
 
 ## ARTICLE 9 – DEPARTMENT HEAD EMPLOYMENT CONTRACT
 ### SECTION 1 CONTRACTS FOR CERTAIN DEPARTMENT HEADS AUTHORIZED
-The Town, acting by and through its Board of Selectmen, as authorized by and pursuant to the
+The Town, acting by and through its Select Board, as authorized by and pursuant to the
 Westborough Home Rule Charter, may provide an employment contract for a period of up to three
 (3) years, to provide for the salary, fringe benefits and other conditions of employment, including,
 but not limited to, severance pay, relocation expenses, reimbursement of expenses incurred in 
@@ -764,10 +762,10 @@ described herein, the Town shall be bound to fund the remaining term of the cont
 
 ### SECTION 4 REMOVAL
 Nothing contained in this Section shall affect the respective appointment or removal powers of the
-Board of Selectmen over the department head, nor shall it grant tenure to him.
+Select Board over the department head, nor shall it grant tenure to him.
 
 ### SECTION 5 ADOPTION OF RULES AND REGULATIONS
-The Board of Selectmen may adopt rules and regulations to carry out this bylaw.
+The Select Board may adopt rules and regulations to carry out this bylaw.
 
 ### SECTION 6 DEPARTMENT HEAD CONTRACTS
 This bylaw may be referred to as the Department Head Employment Contract Bylaw. (ATM 2008)
@@ -800,6 +798,7 @@ the acceptance of corresponding earlier laws.
 | Ch. 32D | Group Life & Health Insurance | 1968 | 1968 Ch.100
 | Ch. 39, § 15 | Town Meeting Procedure | 1997 | 1996 Ch.448 S.2
 | Ch. 39, §23D | Adjudicatory hearings, Attendance | 2007
+| Ch. 40, § 3 (P2) | Revolving Account | 2021 |2021 ATM
 | Ch. 40, § 5B (P4) | Stabilization Fund | 2020 |2020 ATM
 | Ch. 40, § 6B | Uniforms-Police & Foreman | 1965
 | Ch. 40, § 7 | Removal of Snow & Ice & Assessment of Cost | 1921
@@ -809,6 +808,7 @@ the acceptance of corresponding earlier laws.
 | Ch. 40, § 8D | Establish Historical Commission | 1978
 | Ch. 40, § 8E | Youth Commission | 2016
 | Ch. 40, § 8G | Police Mutual Aid | 2014
+| Ch. 40, § 8J | Commision on Disabilities | 2021 ATM
 | Ch. 40, § 11 | Forest Fire Prevention | 1915 | RL Ch25 §17
 | Ch. 40, § 12 | Land for Public Bathhouse | 1966
 | Ch. 40, § 21D | Non-criminal Disposition | 1992
@@ -819,7 +819,7 @@ the acceptance of corresponding earlier laws.
 | Ch. 40, § 57 | Granting & Renewing Certain Licenses and Permits | 1986
 | Ch. 40A § 20 | Board of Appeals | 1964
 | Ch. 40B | CMRPC | 1968
-| Ch. 41, § 1-2 | Selectmen | 1931
+| Ch. 41, § 1-2 | Select Board | 1931
 | Ch. 41, § 55 | Accounting System | 1931
 | Ch. 41, § 81A | Planning Bd. Subdivision Control | 1955
 | Ch. 41, § 81U | Monies Rec’d Subdivision Default | 1991
@@ -926,7 +926,7 @@ obligated to repay.
 Whenever the Town is given notice of the proposed sale or conversion to another use of MGL
 Chapter 61, 61A and/or 61B land, as the case may be, and, within the option period, the Town has
 received an unconditional gift or grant equivalent to the purchase price or the fair value of such
-land, as the case may be, for the purchase of such land, the Board of Selectmen shall, with the
+land, as the case may be, for the purchase of such land, the Select Board shall, with the
 option period, give requisite notice of exercise, of the Town's option to the owner. Thereafter, at a
 town meeting, the Town shall vote to determine the municipal purpose, if any, for which such land
 is to be held by the Town and, if appropriate, whether the Conservation Commission shall mange
@@ -941,12 +941,12 @@ land, but subject to a contingency that the cooperating entity is to be repaid, 
 cash or its equivalent, in installments or otherwise or, failing such repayment, by conveyance of
 such land, or portions thereof, or certain rights therein, to the cooperating entity to be forever held
 by the cooperating entity in accordance with its land conservation purpose, all as negotiated by
-the Board of Selectmen with the cooperating entity, the Board of Selectmen shall give requisite
+the Select Board with the cooperating entity, the Select Board shall give requisite
 notice to the owner of the exercise of the Town's option.
 
-The Board of Selectmen shall then take custody of such land and, thereafter, the Town shall vote
-to determine whether the Town will ratify such repayment terms as were negotiated by the Board
-of Selectmen with the cooperating entity. If the Town does not vote to ratify such repayment
+The Select Board shall then take custody of such land and, thereafter, the Town shall vote
+to determine whether the Town will ratify such repayment terms as were negotiated by the Select
+Board with the cooperating entity. If the Town does not vote to ratify such repayment
 terms the Town, after actually receiving from the cooperating entity funding equivalent to the
 purchase price or the fair value of such land, as required, shall convey to the cooperating entity all
 of its right, title and interest in such land unless such cooperating entity previously agreed to
@@ -963,15 +963,15 @@ another use of MGL Chapter 61, 61A and/or 61B land, as the case may be, and, wit
 period, the Town receives from a cooperating entity partial funding and/or a binding written pledge
 for partial funding to acquire such land, whether or not the cooperating entity seeks
 reimbursement or repayment in any form for such partial funding and/or binding written pledge for
-such partial funding, the Board of Selectmen is authorized and encouraged to bring before the
-Town, at a Town Meeting called within the option period, terms negotiated by the Board of
-Selectmen with such cooperating entity for the acquisition of such land, to see if the Town will vote
+such partial funding, the Select Board is authorized and encouraged to bring before the
+Town, at a Town Meeting called within the option period, terms negotiated by the Select
+Board with such cooperating entity for the acquisition of such land, to see if the Town will vote
 to ratify and confirm such terms. Thereafter, if need be, the Town shall vote to determine the
 municipal purpose, if any, for which such land shall be held by the Town and, if appropriate,
 whether the Conservation Commission shall manage such land.
 
 ## ARTICLE 12 – LEGAL EXPENSES
-The Board of Selectmen shall cause to be published in each Westborough Annual Report in a
+The Select Board shall cause to be published in each Westborough Annual Report in a
 Section entitled "Legal Expenses" all sums expended for legal services in the conduct of the
 Town's affairs. Included in the above shall be listed all matters in litigation, law firm, and a total of
 all legal costs relative to this litigation for the past calendar year of the Annual Report. Excluded 
@@ -981,7 +981,7 @@ expenses for the collection of taxes. (ATM 1994)
 ## ARTICLE 13 – RESIDENCY REQUIREMENT FOR APPOINTMENT
 Any applicant for appointment to a regular Town body (such as a committee, board, commission,
 or authority) must be a resident of the Town of Westborough to be eligible for appointment unless
-the Town Meeting, General Bylaws, Town Charter, Board of Selectmen or State Law indicate that
+the Town Meeting, General Bylaws, Town Charter, Select Board or State Law indicate that
 non-residents with relevant qualifications may serve on said committee, board, commission or
 authority. If a member is no longer a resident of the Town, or a non-resident no longer has
 relevant qualifications that individual shall be deemed to have vacated the position.
@@ -996,12 +996,11 @@ airmen who have served the country in war, or persons who have rendered military
 Commonwealth in time of war and shall have custody and care thereof after their construction.
 
 ### SECTION 2 MEMBERSHIP
-The Committee shall consist of six (6) members consisting of a member of the Board of
-Selectmen and three (3) members who shall be veterans and two (2) who shall not be veterans.
+The Committee shall consist of six (6) members consisting of the Chair of the Select Board
+and three (3) members who shall be veterans and two (2) who shall not be veterans.
 The elected incumbents in the office of Trustee for Soldiers’ Memorials shall hold the office of
-committee member until his or her elected term expires. Upon expiration of the term of an
-incumbent, the Board of Selectmen shall appoint a successor member to the Committee for a
-term of three (3) years.
+committee member until his or her elected term expires. Any vacancy occuring in the town board
+shall be filled for the unexpired term by the remaining members.
 
 ### SECTION 3 RULES AND REGULATIONS
 The Committee may make such rules and regulations relative to the use of said memorials, as it
@@ -1018,6 +1017,7 @@ The Town of Westborough shall authorize the following Revolving Funds:
 | Council on Aging                            | To Provide Programs for Seniors                  | Program Fees                      | Council on Aging               | $30,000             |
 | Recreation                                  | To Provide Recreation Programs                   | Program Fees                      | Recreation Commission          | $500,000            |
 | Economic Development Small Business Grant   | To Provide grant assistance for small businesses | Billboard Fees                    | Economic Development Committee | $40,000             |
+| Town Facility Rental                        | Town Facility Maintenance                        | Rental Fees                       | DPW Director                   | $25,000             |
 
 ## ARTICLE 16 – MARIJUANA NOT MEDICALLY PRESCRIBED
 Consistent with MGL Ch. 94G, Section 3(a)(2), all types of marijuana establishments as defined in
@@ -1040,14 +1040,14 @@ Laws Chapter 44, Section 55C, as revised from time to time, and the authority gr
 
 ### SECTION 2 APPOINTMENT AND TENURE OF TRUSTEES
 * (A) There shall be a Board of Trustees (the “Board”) consisting of no fewer than five (5) and no more
-than seven (7) Trustees appointed by the Board of Selectmen. One of the Trustees shall be a
-member of the Board of Selectmen, who shall serve as the representative of the Board of
-Selectmen.
+than seven (7) Trustees appointed by the Select Board. One of the Trustees shall be a
+member of the Select Board, who shall serve as the representative of the Select
+Board.
 
      The Trustees shall be appointed for a term not to exceed two (2) years, such term to end on June
 30 of the expiration year, except that at least two of the initial Trustees shall serve for one (1)
 year, to provide for staggered terms, and Trustees may be re-appointed at the discretion of the
-Board of Selectmen for succeeding terms, with no limits on the number of terms that a Trustee
+Select Board for succeeding terms, with no limits on the number of terms that a Trustee
 can serve. In the event of a vacancy in the position of Trustee, the appointment shall be made in
 accordance with the provisions hereof.
 
@@ -1058,14 +1058,14 @@ change to the Town Clerk.
      Any Trustee may resign by written instrument signed and acknowledged by such Trustee and
 duly filed with the Town Clerk. If a Trustee shall die, resign, or for any other reason cease to be a
 Trustee hereunder before his/her term of office expires, any successor Trustee shall be appointed
-by the Board of Selectmen to fill such vacancy, provided that in each case, the said appointment
+by the Select Board to fill such vacancy, provided that in each case, the said appointment
 and acceptance in writing by the Trustee so appointed is filed with the Town Clerk. No such
 appointment shall be required so long as there are at least five (5) Trustees in office. Upon the
 appointment of any succeeding Trustee and the filing of such appointment, the title to the Trust
 estate shall thereupon and without the necessity of any conveyance be vested in such succeeding
 Trustee jointly with the remaining Trustees. If any Trustee is absent from five (5) consecutive
 regularly scheduled meetings of the Trust, except in the case of illness, the Chair may notify the
-Board of Selectmen, who may terminate said Trustee of the Trust position.
+Select Board, who may terminate said Trustee of the Trust position.
 
 ### SECTION 3 MEETINGS OF THE TRUSTEES
 The Trust shall meet at least quarterly at such time and such place as the Board shall determine. Special
@@ -1179,7 +1179,7 @@ total or partial satisfaction of any indebtedness or other obligation, and subje
 provisions of this act, to continue to hold the same for such period of time as the
 Trustees may deem appropriate.
 
-* (B) Notwithstanding anything to the contrary herein, Board of Selectmen approval shall be required
+* (B) Notwithstanding anything to the contrary herein, Select Board approval shall be required
 for any of the following actions:
 
  1. Any single action that expends or commits 50% or more of the Trust assets,
@@ -1214,8 +1214,8 @@ directed by the Board.
 In accordance with General Laws Chapter 44, Section 55C, the books and records of the Trust shall be
 audited annually by an independent auditor in accordance with accepted accounting practices. The Trust
 shall be audited as part of the Town audit. Cost associated with the independent audit shall be borne by
-the Trust. Upon receipt of the audit by the Board, a copy shall be provided forthwith to the Board of
-Selectmen.
+the Trust. Upon receipt of the audit by the Board, a copy shall be provided forthwith to the Select
+Board.
 
 ### SECTION 7 DURATION OF THE TRUST
 The Trust shall continue so long as authorized under the Laws of the Commonwealth of Massachusetts.
@@ -1224,8 +1224,8 @@ provided that an instrument of termination together with a certified copy of the
 duly recorded with the Worcester South District Registry of Deeds and the Worcester South Registry
 District of the Land Court. Upon termination of the Trust, subject to the payment of or making provisions
 for the payment of all obligations and liabilities of the Trust and the Trustees, the net assets of the Trust
-shall be transferred to the Town and held by the Board of Selectmen for affordable housing purposes. In
-making any such distribution, the Trustees may, subject to the approval of the Board of Selectmen, sell all
+shall be transferred to the Town and held by the Select Board for affordable housing purposes. In
+making any such distribution, the Trustees may, subject to the approval of the Select Board, sell all
 or any portion of the Trust property and distribute the net proceeds thereof or they may distribute any of
 the assets in kind. The powers of the Trustees shall continue until the affairs of the Trust are concluded. 
 
@@ -1253,7 +1253,7 @@ pursuant to their respective job descriptions.
 ### SECTION 1 JUNK DEALERS
 No person shall be a collector of, or a dealer in junk, old metals, or second-hand articles, or a
 keeper of a shop for the purchase, sale or barter of junk, old metals, or second-hand articles,
-unless licensed therefore by the Selectmen.
+unless licensed therefore by the Select Board.
 
 ## ARTICLE 22 – DUMPS
 ### SECTION 1 REFUSE DUMPS PROHIBITED
@@ -1325,7 +1325,7 @@ employed or represents.
 applicant will engage.
 
 * (E) Period of time for which the certificate is applied, in any event not to exceed twelve (12)
-months, said time period to be at the discretion of the Board of Selectmen.
+months, said time period to be at the discretion of the Select Board.
 
 * (F) Date or approximate date of the latest previous application for certificate under this
 ordinance, if any.
@@ -1353,19 +1353,19 @@ issued hereunder has previously been revoked as herein provided.
 
 ### SECTION 6 SEVEN (7) DAY WAITING PERIOD
 All applications for a Certificate of Registration shall be made at least seven (7) days before desire
-date of initial soliciting and the Police Chief shall approve said applications. The Board of
-Selectmen may waive this seven (7) day requirement. 
+date of initial soliciting and the Police Chief shall approve said applications. The Select
+Board may waive this seven (7) day requirement. 
 
 ### SECTION 7 PERMANENT RECORD
 The Police Department shall keep a permanent record of all applicants and issuances of
 Certificates of Registration for soliciting.
 
 ### SECTION 8 REVOCATION OF CERTIFICATE
-Any Certificate of Registration issued hereunder shall be revoked by the Board of Selectmen if the
+Any Certificate of Registration issued hereunder shall be revoked by the Select Board if the
 holder of the Certificate is convicted of a violation of any of the provisions of this ordinance, or has
 made a false material statement in application, or otherwise becomes disqualified for the
 Issuance of a Certificate of Registration under the terms of this bylaw. Immediately upon such
-revocation, written notice thereof shall be given by the Board of Selectmen to the holder of the
+revocation, written notice thereof shall be given by the Select Board to the holder of the
 Certificate in person or by certified mail addressed to his or her residence address set forth in the
 application.
 
@@ -1382,12 +1382,12 @@ contained in the bylaw, may comply with the following directions, to wit:
 Notice of the determination of the occupant of the refusal of invitation to solicitors, to any resident,
 may be given in the manner following:
 
-* (A) A weatherproof card or sign, approximately three inches by four inches in size, shall be
+* (A) A weatherproof card or sign, approximately three inches by five inches in size, shall be
 exhibited upon or near the main entrance door to the residence, indicating the
 determination by the occupant, containing the applicable words as follows: “NO
 SOLICITORS INVITED”
 
-* (B) The letters shall be at least one (1) inch in height. Cards shall be provided by the Town
+* (B) The letters shall be at least one half (1/2) inch in height. Cards shall be provided by the Town
 Clerk's Office of the Town to persons requesting at the cost thereof.
 
 * (C) A card or sign so exhibited shall constitute sufficient notice to any solicitor of the
@@ -1395,7 +1395,7 @@ determination by the occupant of the residence of the information contained ther
 
 ### SECTION 11 DUTY OF SOLICITORS
 It shall be the duty of every solicitor upon going onto any premises in the municipality upon which
-a residence as herein defined is located, to first examine the notice provided for in this ordinance,
+a residence as herein defined is located, to first examine the notice provided for in this law,
 if any is attached, and be governed by the statement contained on any notice.
 
 * (A) Upon reading the sign, the solicitor shall immediately and peacefully depart. Any solicitor
@@ -1407,16 +1407,16 @@ It is hereby declared to be unlawful for any person to go upon any premises and 
 upon or near any door or create any sound in any other manner calculated to attract the attention
 of the occupant of such residence, for the purpose of securing an audience with the occupant
 thereof and engage in soliciting as herein defined, in defiance of the notice exhibited at the
-residence in accordance with the provisions of Section 6 of this bylaw.
+residence in accordance with the provisions of Section 10 of this bylaw.
 
 ### SECTION 13 FEE FOR SOLICITATION
-Upon approval by the Board of Selectmen of the application for a Certificate of Registration, the
+Upon approval by the Select Board of the application for a Certificate of Registration, the
 applicant shall pay to the Town a fee in the amount of TWENTY-FIVE DOLLARS except that the
-Board of Selectmen shall waive said fee for any charitable, religious, social, political action, or
+Select Board shall waive said fee for any charitable, religious, social, political action, or
 non-profit group, including but not limited to Veteran's groups, hospitals, United Way, YMCA, and
 the American Red Cross. In the event that any organization or group shall have more than one
 solicitor, the fee shall be TWENTY-FIVE DOLLARS per solicitor unless such fee is waived by the
-Board of Selectmen as provided above.
+Select Board as provided above.
 
 ### SECTION 14 TIME LIMIT ON SOLICITING
 It is hereby declared to be unlawful for any person whether registered under this ordinance or not,
@@ -1427,7 +1427,7 @@ prior to nine a.m. (9 a.m.) or after nine p.m. (9 PM) of any weekday.
 
 ### SECTION 15 PERMITS
 The Town shall provide each solicitor with a badge-size permit for solicitation which must be
-displayed conspicuously on the outer garment of the solicitor unless the Board of Selectmen
+displayed conspicuously on the outer garment of the solicitor unless the Select Board
 otherwise waives this requirement.
 
 ### SECTION 16 PENALTY 
@@ -1472,9 +1472,9 @@ court, at which time they shall be returned to the person entitled to lawful pos
 The Chief of the Police Department may promulgate Rules and Regulations for the installation
 and management of alarm systems connected to the Police Department facility.
 
-### SECTION 2 APPROVAL BY SELECTMEN
+### SECTION 2 APPROVAL BY SELECT BOARD
 Rules and Regulations promulgated under this bylaw by the Police Chief shall be subject to the
-approval by the Board of Selectmen. (ATM 1982)
+approval by the Select Board. (ATM 1982)
 
 ## ARTICLE 27 – SMOKING IN PUBLIC PLACES
 ### SECTION 1 DEFINITIONS
@@ -1523,8 +1523,8 @@ ten dollars ($10.00), nor more than thirty dollars ($30.00) for each offense.
 these regulations shall be subject to:
 
  1. A fine of up to two hundred dollars ($200.00) each day of non-compliance, and
- 2. Suspension of any license issued by the Board of Health or the Board of
-Selectmen for that public place for a period of up to two (2) days for each day of
+ 2. Suspension of any license issued by the Board of Health or the Select
+Board for that public place for a period of up to two (2) days for each day of
 non-compliance.
 
 ### SECTION 6 SEVERABILITY
@@ -1692,14 +1692,14 @@ warrant and bring such person before the appropriate court. (ATM 1990)
 ## ARTICLE 29 – SANDRA POND RESERVOIR REGULATIONS
 The Sandra Pond Reservoir and adjacent conservation areas are exclusively owned and
 maintained by the Town of Westborough. The Sandra Pond Reservoir and adjacent conservation
-properties are under the explicit control of the Board of Selectmen with preservation authority to
+properties are under the explicit control of the Select Board with preservation authority to
 the Manager of the Department of Public Works and Bylaw enforcement to the Chief of Police.
 Minuteman Park is the narrow strip of land between the Reservoir and Upton Road and is used
 expressly for passive recreation. The Bowman Street conservation area is a hiking and nature
 walk area.
 
 The following activities are regulated at the Sandra Pond Reservoir and surrounding property
-unless specifically allowed by the Board of Selectmen or the Manager of the Department of Public
+unless specifically allowed by the Select Board or the Manager of the Department of Public
 Works.
 
 ### SECTION 1 ALCOHOL PROHIBITED
@@ -1760,10 +1760,10 @@ Fishing License and a Sandra Pond Fishing Permit (or Stamp) as issued by the Tow
 Clerk. All license-holders must comply with the fishing laws as defined in MGL Chapter
 131 and all applicable Sections.
 
-* (B) The Board of Selectmen shall set a yearly permit fee, the receipts of which will go toward
+* (B) The Select Board shall set a yearly permit fee, the receipts of which will go toward
 the fish-stocking program of Sandra Pond Reservoir.
 
-* (C) The Board of Selectmen at the request of the Chief of Police shall appoint Wardens to
+* (C) The Select Board at the request of the Chief of Police shall appoint Wardens to
 represent the Town for the sole purpose of enforcing the Sandra Pond Reservoir Bylaws.
 
 * (D) Wardens will not have arrest powers or carry a firearm.
@@ -1976,7 +1976,7 @@ and deny the permit without prejudice, except in the case of an appeal. The Comm
 inform the applicant and Department of Environmental Protection (DEP) of such a decision in
 writing.
 
-The applicant may appeal the selection of an outside consultant to the Board of Selectmen, who
+The applicant may appeal the selection of an outside consultant to the Select Board, who
 may disqualify the consultant only on the grounds that the consultant has a conflict of interest or is
 not properly qualified. The minimum qualifications shall consist of either an educational degree or
 three or more years of practice in the field at issue, or a related field. The applicant shall make
@@ -2245,7 +2245,7 @@ actions. Any person who violates provisions of this bylaw may be ordered to rest
 to its original condition and take other action deemed necessary to remedy such violations, or
 may be fined, or both.
 
-Upon request of the Commission, the Board of Selectmen and town counsel shall take legal
+Upon request of the Commission, the Select Board and town counsel shall take legal
 action for enforcement under civil law. Upon request of the Commission, the chief of police shall
 take legal action for enforcement under criminal law.
 
@@ -2340,15 +2340,15 @@ permissible.
 
 ### SECTION 4 EFFECTIVE DATE
 This bylaw shall take effect six (6) months following Town Meeting approval of the bylaw. Upon
-application of the owner or the owner's representative, the Board of Selectmen or their designee
+application of the owner or the owner's representative, the Select Board or their designee
 may exempt a grocery retail store from the requirements of this section for a period of up to six (6)
-months upon a finding by the Board of Selectmen or their designee that (1) the requirements of
+months upon a finding by the Select Board or their designee that (1) the requirements of
 this section would cause undue hardship; or (2) a grocery or retail store requires additional time in
 order to draw down an existing inventory of checkout bags.
 
 ### SECTION 5 ENFORCEMENT
-Enforcement of this bylaw shall be the responsibility of the Board of Selectmen or their designee.
-The Board of Selectmen or their designee shall determine the monitoring process to be followed,
+Enforcement of this bylaw shall be the responsibility of the Select Board or their designee.
+The Select Board or their designee shall determine the monitoring process to be followed,
 which may be limited to responding to citizen reports, incorporating the process into other town
 duties as appropriate.
 
@@ -2384,7 +2384,7 @@ The Town Manager shall annually appoint an Animal Control Officer who shall be s
 the Town Clerk. The Animal Control Officer and/or his assistants are not required to be a
 resident of the Town.
 
-For purposes of this Bylaw and M.G.L. c. 140, §157, the Board of Selectmen shall be the Hearing
+For purposes of this Bylaw and M.G.L. c. 140, §157, the Select Board shall be the Hearing
 Authority. 
 
 ### SECTION 2 DEFINITIONS
@@ -2396,7 +2396,7 @@ by their plain language.
 owner or keeper and not under the care and control of its owner or keeper.
 
 * (B) “Animal Control Officer” – Shall be that person or persons appointed by the Town
-Manager with concurrence of the Board of Selectmen to enforce this Bylaw and the
+Manager with concurrence of the Select Board to enforce this Bylaw and the
 General Laws relating to the regulation of animals.
 
 * (C) “Care and Control” – A dog shall be considered to be under care and control if it is on the
@@ -2427,6 +2427,59 @@ or by confinement within a building or a fenced barrier from which the dog canno
 escape or is under control by use of a collar and leash or a functioning electronic collar
 while in range and in sight of the owner or keeper.
 
+"Adult" - For purpose of this by-law adult poultry are defined as poultry that have attained
+the following ages:
+
+| :-------------------- | :-------- |
+| Chickens              | 12 weeks  |
+| Ducks                 | 14 weeks  |
+| Geese and Guinea fowl | 22 weeks  |
+| Turkeys               | 32 weeks  |
+| Qualis and Pheasants  | 10 weeks  |
+| Exotic Birds          | 15 months |
+
+"Chicken" - A member of the family Gallus domesticus.
+
+“Coop” - A structure for the housing of chickens, poultry, exotic birds, or fowl.
+
+“Exotic Birds” - Birds such as, but not limited to, peacocks, emus and Ostrich and other birds that are
+not normally kept inside the home as pets. Exotic birds that typically are housed in a residence as
+household pets such as, but not limited to, parakeets, parrots, cockatoos, and canaries, are not considered
+poultry for the purposes of this bylaw.
+
+“Falconry” - A sport involving training and use of raptors in hunting or similar exercise by Falconers.
+
+“Flight pen” - An enclosed pen used for quail or pheasant that allows access to fresh air and natural
+sunlight and space to exercise and fly but prevents the birds from flying away.
+
+“Fowl” - Birds hunted as game or used for racing, such as, but not limited to quail, pheasant.
+
+“Poultry” - All birds that are raised and kept for agricultural purposes, including but not limited to,
+chickens (hens and roosters), turkeys, capons, ducks, geese, pheasants, peacocks, guinea fowl, fowl,
+ratites, and all wild game birds raised and kept in accordance with state and local law.
+
+“Residential lot” - A parcel of land in single ownership and comprised of two contiguous acres or less
+and whose principal use is residential or that is vacant or uninhabited and is in a residential area.
+
+“Ratites” - Ostrich, Emu, or Rhea, Cassowary, Kiwi.
+
+“Rooster” - An adult male chicken that is not caponized.
+
+“Run” - An enclosed area that allows access to fresh air, natural sunlight and exercise during daytime
+hours but prevents poultry from wandering onto neighboring properties.
+
+“Sand box” - a structure filled with clean sand for poultry that normally sand bathe, such as chickens and
+quail.
+
+“Structure” - An open or closed structure providing protection from wind, cold, rain and sun considered
+appropriate for the species of poultry in question as set forth herein, and in accordance with applicable
+Federal and State laws on the keeping of such animals. This includes, but is not limited to, barns, stables,
+coops, hutches, pens runs and sandboxes.
+
+“Useable lot size” - portion of a lot that is not occupied by the main residence, driveway, walkway,
+patio, deck or other outbuilding (except a barn); or semi-permanent recreational equipment such as a
+pool or paved courtyard.
+
 ### SECTION 3 LICENSE AND TAGS
 * (A) Any owner or keeper of a dog six (6) months of age or older shall by January 1 cause the
 dog to be registered, numbered, described and licensed with the Town Clerk in
@@ -2443,7 +2496,7 @@ requirement under said section or a notarized letter from a veterinarian that ei
 these certifications was issued relative to such dog. Exemptions to vaccinations must
 be renewed annually.
 
-* (C) The fee for such a License shall be established by the Board of Selectmen.
+* (C) The fee for such a License shall be established by the Select Board.
 
 * (D) Should any owner of a dog required to be licensed under M.G.L. c. 140 § 137 or section
 3 of this Bylaw in the Town of Westborough fail to license his dog by January 1, the
@@ -2458,8 +2511,8 @@ any dog, whether licensed or unlicensed, to be unrestrained on private property.
 No person shall permit any dog, licensed or unlicensed, on any public property within the Town,
 including but not limited-to public ways, recreation areas, parks, public water supply properties
 and cemeteries, unless the dog is properly restrained. Notwithstanding the foregoing, dogs
-need not be restrained on those public lands as specifically identified and voted by the Board of
-Selectmen. A dog is under restraint for purposes of this Bylaw if it is accompanied by its owner 
+need not be restrained on those public lands as specifically identified and voted by the Select
+Board. A dog is under restraint for purposes of this Bylaw if it is accompanied by its owner 
 or other person responsible for the dog, who is in full control of such dog through use of a leash
 or functioning electronic collar while in range and in sight of the owner or keeper.
 
@@ -2487,10 +2540,10 @@ amended from time-to-time, provided that the Animal Control Officer determines t
 reasonable efforts have been made to locate the owner and/or keeper and there are no
 reasonable alternatives to such action.
 
-* (D) The Board of Selectmen, or its authorized agent, may order any dog which a
+* (D) The Select Board, or its authorized agent, may order any dog which a
 reasonable person would believe is affected with a contagious disease, to be
 quarantined or isolated for at least ten (10) days upon the premises of the owner or of the
-person in whose charge it is found, or in such other place as the Board of Selectman or
+person in whose charge it is found, or in such other place as the Select Board or
 agent may designate. Animals in quarantine shall not be released without the Animal
 Inspector’s approval.
 
@@ -2514,7 +2567,7 @@ authorized by town meeting.
 become a public nuisance within the Town of Westborough.
 
 * (B) The Animal Control Officer may investigate all complaints to the Animal Control Officer
-of the Town, the Town of Westborough Police Department, or the Board of Selectmen
+of the Town, the Town of Westborough Police Department, or the Select Board
 that any dog owned or kept within the Town of Westborough is a Nuisance Dog or
 Dangerous Dog, as those terms are defined in M.G.L. c.140, §§136A and 157, as may
 be amended from time-to-time.
@@ -2527,23 +2580,23 @@ c.140, §157, as may be amended from time-to-time. The Animal Control Officer wi
 make an effort to notify the owner of said complaint.
 
 * (D) Any person aggrieved by an order of the Animal Control Officer, may request a hearing
-before the Board of Selectmen. Said request shall be in writing and received by the
-Board of Selectmen within seven (7) days after issuance of such an order. A copy of the
+before the Select Board. Said request shall be in writing and received by the
+Select Board within seven (7) days after issuance of such an order. A copy of the
 hearing request shall also be delivered to the Animal Control Officer. If no such request
 is filed within the time specified herein, the order of the Animal Control Officer shall be
 final.
 
-* (E) Upon receipt of a timely request, the Board of Selectmen shall convene a public hearing,
+* (E) Upon receipt of a timely request, the Select Board shall convene a public hearing,
 which shall include an examination of the complainant under oath, to determine whether
 the dog is a Nuisance Dog or Dangerous Dog. Based on the credible evidence and
-testimony presented at said public hearing, the Board of Selectmen may affirm the
+testimony presented at said public hearing, the Select Board may affirm the
 Animal Control Officer’s order, reverse and nullify the Animal Control Officer’s order, or
 issue any such order as it deems necessary to ensure the protection of public safety
 and/or eliminate a nuisance, as provided in M.G.L. c.140, §157, as may be amended
 from time-to-time.
 
-* (F) Nothing in this By-law is intended to limit or restrict the authority of the Board of
-Selectmen to act in accordance with M.G.L. c. 140, §157, as may be amended from 
+* (F) Nothing in this By-law is intended to limit or restrict the authority of the Select
+Board to act in accordance with M.G.L. c. 140, §157, as may be amended from 
 time-to-time.
 
 ### SECTION 9 CATS
@@ -2564,7 +2617,7 @@ any police officer of the Town, and impounded. Any domestic cat that is wearing
 identification and has bitten or scratched any person or domestic animal, and the owner
 cannot be immediately reached, may be sought out, caught and confined by the Animal
 Control Officer or any police officer of the Town, and impounded. Fees and fines shall
-be as established by the Board of Selectmen.
+be as established by the Select Board.
 
 * (D) After a period of not less than seven (7) days, any such impounded cat may be subject to
 euthanasia or adoption in the same manner as dogs, as outlined in M.G.L. c. 140, §151A
@@ -2605,6 +2658,216 @@ being maintained in a sanitary and humane manner or if records are not properly 
 required by law, the Animal Control Officer or Board of Health shall, by order, revoke or
 suspend the license for the kennel.
 
+### SECTION 11 POULTRY
+* A. Purpose: The purpose of this Bylaw is to regulate the keeping of poultry for personal use on
+residential lots of two (2) acres or less in size. This Bylaw is intended to further the objectives of
+and to act in concert with any existing federal, state and local laws concerning the maintenance
+of property, the keeping of poultry and the abatement and prevention of nuisances within the
+Town. Nothing in this Bylaw is intended to limit or restrict the authority of the Board of Health,
+the Animal Control Officer, Animal Inspector, or the Health Agent to act in accordance with any
+other law within their jurisdiction, including but not limited to, the authority of the Board of
+Health to abate nuisances.
+
+* B. Applicability: This Bylaw shall apply to the keeping of poultry on residential lots, primarily for
+personal use where sale of the animal or animals or their byproducts, such as eggs, etc., is
+incidental to the principal use of the property and the reason for keeping the animal.
+
+* C. General Regulations:
+ 1. All owners and/or keepers of poultry on residential lots must comply with applicable local and state
+laws and regulations, as may be amended from time to time.
+
+ 2. All poultry shall be effectively controlled so as not to become a nuisance, due to noise, odor or other
+condition, or a danger to their own health or the public health. Allowing waste to pollute any wetland
+or waterway shall be prohibited.
+
+ 3. No owner and/or keeper of poultry shall willfully or through neglect suffer, allow or permit any
+infestation of insects, or vermin, or allow any condition which interferes with the use and enjoyment
+of abutting properties through unreasonable noise, odor or other offensive condition.
+
+ 4. All areas in which poultry are kept shall be subject to inspection by the Animal Control
+Officer/Animal Inspector, and any other inspectional agent of the Town, as applicable.
+
+ 5. All adult poultry shall be included in the annual animal census and barn inspections conducted by
+the Animal Inspector.
+
+ 6. No owner and/or keeper shall permit any poultry, on any public property within the Town, including
+but not limited-to public ways, recreation areas, parks, public water supply properties, and
+cemeteries, or on private property without permission of the owner thereof.
+
+ 7. Chicken coops must be located at least 5 feet away from abutting property lines.
+     * a. Poultry, excluding chickens, housing shall be located at least 10 feet away from abutting
+property lines.
+     * b. Exotic bird housing shall be located at least 50 feet away from abutting property lines.
+
+ 8. Poultry must be kept in a structure and must not create nuisances, including noise disturbances
+between the hours of 10pm and 7am. Hens may perch in a run provided they are quiet.
+
+ 9. Chickens must come from Salmonella Pullorum Certified Clean Flocks. The owner or keeper shall
+provide a copy of said certification to the Animal Inspector or Board of Health Inspector upon
+request.
+
+* D. Standards of Care.
+ 1. All poultry shall be maintained in a clean and healthy condition, shall be properly vaccinated and
+immunized and shall not be subject to abuse, mistreatment or malnourishment.
+
+ 2. Outdoor structures must be provided for poultry and may be attached to the coop, but may be
+closed off between 10pm and 7am to keep the poultry safely in their coops. Coops may also be
+located inside of larger structures rather than attached to them. Enclosed shelter must be
+provided to protect poultry from the elements and flying predators such as hawks or eagles.
+
+ 3. No structure or combination of structures may occupy more than 25% of the useable lot size.
+
+ 4. Poultry must have access to fresh food and water.
+
+ 5. Poultry shall not be subjected to de-beaking or forced molting.
+
+ 6. Structures for chickens must have an interior floor space of one and one half (1 ½) square feet of
+floor space per chicken, with one (1) foot of linear perch space per chicken.
+
+ 7. Structures must include access to a minimum of four (4) square feet of outdoor pen/run per
+chicken.
+
+ 8. Manure management.
+     * a. Owners and/or keepers must prevent noxious odors.
+     * b. Owners and/or keepers must prevent runoff into abutting yards, wetlands, or other
+sensitive conservation areas.
+     * c. In no case shall more than one half cord (4'x 4' x 4') of poultry manure and bedding be
+accumulated on the property at one time without a stable permit.
+     * d. Composted manure may be tilled in for fertilizer.
+
+ 9. Structures for poultry shall be of sufficient size, as set forth herein, and appropriate design to
+accommodate the poultry or exotic birds in a safe and healthy manner, and provide protection
+from the elements and predators. Structures used for the keeping of poultry and exotic birds must
+be maintained in a clean and sanitary manner, free from decaying food, filth, feces, vermin
+infestation and stagnant water. Structures must be maintained in a manner to ensure that they are
+weather tight and secure.
+
+* E. Density Requirements.
+ 1. Minimum space requirements for chickens:
+ 
+     | Total chickens                | 6         | 12         | 18         | 24         | 36         | 50         |
+     | :---------------------------- | :-------- | :--------- | :--------- | :--------- | :--------- | :--------- |
+     | Interior floor space minimum  | 9 sq.ft.  | 18 sq.ft.  | 27 sq.ft.  | 36 sq.ft.  | 54 sq.ft.  | 75 sq.ft.  |
+     | Interior linear minimum perch | 6 ft.     | 12 ft.     | 18 ft.     | 24 ft.     | 36 ft.     | 50 ft.     |
+     | Outdoor run/pen minimum       | 24 sq.ft. | 48 sq.ft.  | 72 sq.ft.  | 96 sq.ft.  | 144 sq.ft  | 200 sq.ft. |
+     | Total Minimum Structure Size  | 33 sq.ft. | 66 sq.ft.  | 99 sq.ft.  | 132 sq.ft. | 198 sq.ft. | 275 sq.ft. |
+
+ 2. Housing Requirements: Poultry shelters and structures shall meet the following minimum
+sizes. For animals not listed below, the applicant shall provide a shelter of sufficient size to ensure
+that the animal has shelter from the weather and sufficient room for the animal to be housed and in a
+humane manner in accordance with best management practices:
+     * a) Quail: 1 Square foot of run or flight pen and 1 square foot of coop space per bird and
+access to a clean sandbox.
+     * b) Pheasant: 20 square feet of run and 4 square feet coop space per bird.
+     * c) Turkeys: A minimum of 1/2 acre lot and 25 square feet of run per bird and 6-10 square
+feet of coop space per bird, with a minimum of 5x8 roosting area with 20 linear foot of
+total roost space.
+     * d) Ducks: A minimum of 1/2 acre lot and a structure with a minimum of 24 square feet and
+4 square feet per bird inside the coop. The enclosure doors must be approximately 24
+inches wide and there must be 50 square feet of pasture or yard space per bird.
+     * e) Geese: A minimum of 1/2 acre lot and 3.5ft by 4.5ft coop for a pair. Up to five geese may
+be kept in a 4x6 foot structure.
+
+ 3. Maximum number of poultry. No person shall own or keep on a single residential lot more than
+the number of poultry set forth below.
+     * a) Chicken flock size by lot size:
+
+     | Lot Size                | Under 1/8 acre | 1/8- ¼ acre | ¼ - ½ acre | ½-1 acre | 1-2 acre |
+     | :---------------------- | :------------- | :---------- | :--------- | :------- | :------- |
+     | Maximum number of birds | 6              | 18          | 24         | 36       | 50       |
+
+     * b) Other Adult Poultry: The following maximum number of other adult poultry, not
+chickens, shall be permitted on any single residential lot:
+
+     |                                     | Number allowed by lot size:                         |
+     | Type of Adult Poultry, not Chickens | 1/8-1/4 Acres | ¼-1/2 Acres | ½-1 Acres | 1-2 Acres |
+     | :---------------------------------- | :------------ | :---------- | :-------- | :-------- |
+     | Ducks, Geese                        | 0             | 0           | 6         | 12        |
+     | Turkey                              | 0             | 0           | 6         | 12        |
+     | Pheasant, Quail                     | 0             | 24          | 36        | 50        |
+     | Peacock, or Ratites                 | 0             | 0           | 0         | 0         |
+
+     * c) If multiple species of poultry are kept on a single residential lot, the minimum requisite
+square footage shall be calculated by the totaling the space required for each species as set
+in Section E.2 and E.3.
+
+     * d) Each species of poultry shall have its own separate coop for shelter, as well as a nesting
+and perch space; provided, however, and that they may be kept in a single larger structure
+such as a barn or shed. Yard space may be shared.
+
+* F. Slaughtering.
+ 1. The slaughtering of any poultry shall be conducted outside of the view of abutters,
+neighbors or other poultry.
+
+ 2. Slaughtering must be performed in a safe, humane and sanitary manner.
+
+ 3. Poultry on residential lots shall not be slaughtered for commercial purposes.
+
+ 4. Poultry may be taken to a slaughterhouse or butcher for processing.
+
+* G. Enforcement and Penalties.
+ 1. The Board of Selectmen and/or Animal Control Officer or their designees shall enforce the
+provisions of this Bylaw.
+
+ 2. If there is a violation of this Bylaw the Board of Selectmen and/or Animal Control Officer, or
+their designees, may issue a written order to the owner and/or keeper of poultry to desist, abate
+and correct the offending violations.
+
+ 3. Any person who violates this Bylaw may be penalized by non-criminal disposition as provided
+by Massachusetts General Laws, Chapter 40, Section 21D and the Town’s Non- Criminal
+Disposition bylaw. If non-criminal disposition is elected, then any person who violates the
+provisions of this regulation shall be subject to penalties as follows:
+
+     First Offense - fifty dollars ($50.00)
+
+     Second Offense – one hundred dollars ($100.00)
+
+     Third Offense - three hundred dollars ($300.00)
+
+     Fourth and Further Offenses - five hundred dollars ($500.00)
+
+     Each week shall constitute a separate offense. If more than one, each condition
+violated shall constitute a separate offense.
+
+ 4. The Town may enforce this Bylaw or enjoin violations thereof through any lawful process, and
+the election of one remedy by the Town shall not preclude enforcement through any other lawful
+means
+
+* H. Exemptions.
+The following shall be exempt from density requirements of this Bylaw.
+
+ 1. Individual properties or facilities that are under the direct care of the MSPCA or other
+organization incorporated for the prevention of cruelty to animals.
+
+ 2. Veterinary Practices and/or Animal Hospitals.
+
+ 3. Facilities for the raising of quail or pheasant for the purpose of stocking hunting areas.
+
+ 4. Facilities raising meat poultry which will be slaughtered prior to 16 weeks of age for
+chickens, quail or pheasant: 20 weeks of age for Ducks and up to 30 weeks for Heritage
+Turkeys and Geese.
+
+ 5. Licensed Rehabilitators.
+
+ 6. Falconers.
+
+ 7. Small pet exotic birds normally housed inside the residence such as, but not limited to,
+parakeets, parrots, love birds, canaries, cockatoo, cockatiel, and pet finches.
+
+* I. Compliance Deadline.
+Keepers and/or owners of poultry and exotic animals shall have 12 months from the effective date of this
+bylaw to comply with the size of structure and maximum number of birds allowed under its provisions.
+Structures existing prior to the adoption of this bylaw may be deemed acceptable on written
+authorization of the Animal Inspector provided they do not occupy more than 25% of the useable lot
+size. All other portions of this bylaw shall take effect in accordance with Massachusetts General Laws
+Chapter 40, Section 32.
+
+* J. Severability.
+The provisions of this Bylaw shall be deemed severable, so that the invalidity of any one provision of the
+Bylaw shall not affect the validity of another provision, and if any part of this bylaw shall be adjudged
+unconstitutional, inconsistent with state law, or otherwise invalid, such judgment shall not affect any
+other valid part of this Bylaw.
+
 ## ARTICLE 39 – HUNTING
 ### SECTION 1 HUNTING PROHIBITED WITHOUT PERMISSION, EXCLUSION FOR BOW HUNTING
 No person, except by written permission of the land owner, shall be allowed to hunt or shoot on
@@ -2622,7 +2885,7 @@ apparatus or other emergency vehicles to any building or structure where an emer
 
 ### SECTION 2 FIRE LANE PROHIBITION
 It shall be unlawful to obstruct or park a vehicle in any Fire Lane. Subject to the approval of the
-Selectmen, Fire Lanes may be designated by the Fire Chief on any private property where public
+Select Board, Fire Lanes may be designated by the Fire Chief on any private property where public
 vehicle access is permitted.
 
 ### SECTION 3 FIRE LANE PAVEMENT MARKINGS
@@ -2648,7 +2911,7 @@ General Laws, Chapter 90, Section 20A-1/2, as amended. (ATM 1983)
 ## ARTICLE 46 – USE OF PUBLIC WAYS AND PLACES
 ### SECTION 1 CONSTRUCTION, FIRE HYDRANTS AND DRIVEWAYS
 No person shall break or dig up the ground, alter or construct an entrance to any portion of any
-way which the Town is obliged to keep in repair without a written permit from the Selectmen.
+way which the Town is obliged to keep in repair without a written permit from the Select Board.
 
 * (A) No person or municipal department shall alter, relocate or remove an existing hydrant
 without first obtaining permission in writing from the Fire Chief.
@@ -2674,17 +2937,17 @@ person, family or property, or in the performance of any duty required or author
 
 ### SECTION 4 COASTING PROHIBITED
 No person shall coast upon or across any street, sidewalk or other part of any public way except
-at such times and at such places as may from time to time be designated by the Selectmen.
+at such times and at such places as may from time to time be designated by the Select Board.
 
 ### SECTION 7 SIGNS AND STRUCTURES OVER PUBLIC WAYS
 All awnings, signs or other structures projecting into or over a public way for a distance of more
 than six inches, shall be at least seven feet above the sidewalk or traveled way, and then only by
-permission of the Selectmen.
+permission of the Select Board.
 
 ### SECTION 8 MERCHANDISE SALE ON SIDEWALKS
 No person shall occupy for display or for sale of merchandise or other thing any part of the
 sidewalk in front of the building used by him in the conduct of his business, except by permission
-of the Selectmen.
+of the Select Board.
 
 ### SECTION 11 BUILDING NUMBERING
 All single or multi-family dwellings shall be conspicuously marked with identifying numbers legible
@@ -2693,7 +2956,7 @@ The Board of Assessors may also assign numbers to any building on any street in 
 
 ### SECTION 12 DANCE HALL LICENSING REQUIRED
 No dances shall be held within the Town of Westborough in those buildings specifically
-constructed and operated as dance halls unless licensed by the Board of Selectmen.
+constructed and operated as dance halls unless licensed by the Select Board.
 
 ### SECTION 14 LITTERING PROHIBITED 
 No person shall place on or in or throw into a public way, the sidewalk of a public way or a public
@@ -2850,12 +3113,12 @@ shall be restored by the Town as soon as practicable.
 ### SECTION 3 NOTICE OF HEARING
 Such notice of termination shall be sent by the Town through its Collector of Taxes and such
 notice shall state the amount outstanding and the right of the person receiving such notice to
-request a hearing before the Board of Selectmen as provided in Section 4. 
+request a hearing before the Select Board as provided in Section 4. 
 
-### SECTION 4 APPEAL TO SELECTMEN
+### SECTION 4 APPEAL TO SELECT BOARD
 Within thirty (30) days of receipt of the termination notice sent by the Collector of Taxes, the
-person receiving such notice may request a hearing before the Board of Selectmen. After such
-hearing, the Board of Selectmen may abate the bill in whole or in part, rescind the termination
+person receiving such notice may request a hearing before the Select Board. After such
+hearing, the Select Board may abate the bill in whole or in part, rescind the termination
 notice, extend the time period before such termination of service would take place or take any
 action the Board deems appropriate. (ATM 1989)
 
@@ -2898,7 +3161,7 @@ water system, irrespective of any person's responsibility for billing purposes f
 particular facility.
 
 ### SECTION 4 DECLARATION OF A STATE OF WATER SUPPLY CONSERVATION
-The Town, through its Town Manager or by a majority vote of its Board of Selectmen may declare
+The Town, through its Town Manager or by a majority vote of its Select Board may declare
 a State of Water Supply Conservation upon a determination by the DPW that a shortage of water
 exists and conservation measures are appropriate to ensure an adequate supply of water to all
 water consumers. Public notice of a State of Water Conservation shall be given under Section 6
@@ -2934,8 +3197,8 @@ Conservation shall also be simultaneously provided to the Massachusetts Departme
 Environmental Protection.
 
 ### SECTION 7 TERMINATION OF A STATE OF WATER SUPPLY CONSERVATION: NOTICE
-A State of Water Supply Conservation may be terminated by a majority vote of the Board of
-Selectmen, upon a determination that the water supply shortage no longer exists. Public
+A State of Water Supply Conservation may be terminated by a majority vote of the Select
+Board, upon a determination that the water supply shortage no longer exists. Public
 notification of the termination of a State of Water Supply Conservation shall be given in the same
 manner required by Section 6.
 
@@ -2948,7 +3211,7 @@ to bring about an end to the State of Emergency.
 ### SECTION 9 PENALTIES
 Any person violating this Bylaw shall be liable to the Town in the amount of $50.00 for the first
 violation and $100.00 for each subsequent violation which shall inure to the Town for such uses
-as the Board of Selectmen may direct. Fines shall be recovered by indictment, or on complaint
+as the Select Board may direct. Fines shall be recovered by indictment, or on complaint
 before the District Court, or by non-criminal disposition in accordance with Section 21D of Chapter
 40 of the Massachusetts General Laws.
 
@@ -2971,9 +3234,9 @@ The Westborough Treatment Plant Board may promulgate Rules and Regulations for t
 operation of the Wastewater Treatment Plant including pre-treatment regulations as may be
 required pursuant to Federal and/or State regulations.
 
-### SECTION 3 RULES AND REGULATIONS – APPROVAL BY BOARD OF SELECTMEN
-Rules and Regulations promulgated under this Bylaw shall be subject to approval of the Board of
-Selectmen.
+### SECTION 3 RULES AND REGULATIONS – APPROVAL BY SELECT BOARD
+Rules and Regulations promulgated under this Bylaw shall be subject to approval of the Select
+Board.
 
 ### SECTION 4 PENALTIES FOR VIOLATION
 Penalties for violation of Rules and Regulations adopted under this Bylaw shall be set forth in
@@ -3125,7 +3388,7 @@ the main to the building or buildings serviced.
 ### SECTION 10 WAIVER
 Under circumstances where a private property owner extends sewer in a public way through a
 public bidding process for their own service, a Committee consisting of the DPW Manager, Chair
-of the Board of Selectmen and Town Manager may waive all or a portion of the sewer privilege fee
+of the Select Board and Town Manager may waive all or a portion of the sewer privilege fee
 in Section 5 above to the extent of the cost paid by the private property owner.
 Town Counsel and Town Engineer shall serve on this Committee in a non-voting advisory
 capacity.
@@ -3653,10 +3916,10 @@ costs, including administrative costs, incurred by the Town. Said notice shall b
 sent within thirty (30) days of completion of all measures necessary to abate the
 violation or to perform remediation. The violator or owner shall also be notified that
 they may, within thirty (30) days of receipt of said notice, file an appeal in writing to
-the Board of Selectmen objecting to either the amount or basis of the costs
+the Select Board objecting to either the amount or basis of the costs
 incurred. If the amount due is not received by the expiration of the time in which to
-file an appeal or within thirty (30) days following a decision by the board of
-Selectmen affirming or reducing the costs, or from a final decision of a court of
+file an appeal or within thirty (30) days following a decision by the Select
+Board affirming or reducing the costs, or from a final decision of a court of
 competent jurisdiction, the costs shall become a special assessment against the
 property owner and shall constitute a lien on the owner’s property for the amount of
 said costs. Interest shall begin to accrue on any unpaid costs at the statutory rate
@@ -3998,31 +4261,31 @@ period. (ATM 2008)
 
 ## ARTICLE 56 – PUBLIC SHADE TREES
 ### SECTION 1 CONSERVATION OF PUBLIC SHADE TREES
-It shall be the policy of the Board of Selectmen to encourage the conservation of public shade
+It shall be the policy of the Select Board to encourage the conservation of public shade
 trees in the Town of Westborough and to work for a planned program of replacement for public
 shade trees that have been removed because of disease or public nuisance, construction or
 danger, and further, it shall be the policy of the Board to encourage residents, businesses and
 private builders to conserve and to plant shade trees. Public shade trees shall be those trees as
 defined by MGL Ch. 87 § 1.
 
-* (A) The Board of Selectmen shall request the DPW Manager or his designee to notify the
+* (A) The Select Board shall request the DPW Manager or his designee to notify the
 Board and any abutters at least seven (7) days in advance of any public hearing called for
 the purpose of presenting cause why a non-diseased public shade tree should be
 removed and should tag said tree in a conspicuous manner.
 
-* (B) The Board of Selectmen shall request the DPW Manager or his designee to annually list
+* (B) The Select Board shall request the DPW Manager or his designee to annually list
 those public shade trees which, in his opinion, constitute a public nuisance or danger or
 are diseased and submit said list to the Board on or before September 1 of each year.
 
-* (C) The DPW Manager or his designee shall prepare and submit to the Board of Selectmen by
+* (C) The DPW Manager or his designee shall prepare and submit to the Select Board by
 November 1, a recommendation and a specific site location plan for public shade tree
 replacements and additions and a proposed planting budget for said replacements and
 additions.
 
-* (D) The Board of Selectmen shall encourage all private builders and municipal building
+* (D) The Select Board shall encourage all private builders and municipal building
 committees and municipal agencies to plant and conserve public shade trees.
 
-* (E) The Board of Selectmen shall encourage residents of Westborough to plant public and
+* (E) The Select Board shall encourage residents of Westborough to plant public and
 private shade trees and, from time to time, shall issue public statements that support this
 procedure and perform a public service by informing residents of best procedures for
 conservation and planting of shade trees.
@@ -4065,7 +4328,7 @@ Administration Plan.
 
 ### SECTION 4 FEES
 Fees for Inspections and/or permits issued by the Department shall be determined from time to
-time by the Board of Selectmen; the fee schedule will be on file with the Town Clerk and in the
+time by the Select Board; the fee schedule will be on file with the Town Clerk and in the
 Office of the Building Department.
 
 ## ARTICLE 63 – BUILDING CODE
@@ -4217,7 +4480,7 @@ National holidays), between the hours of 8:00 AM and 6:00 PM, with the exception
 only construction activities may begin at 7:00 AM (8:00 AM on Saturday). No starting or idling of
 equipment shall be allowed prior to 7:00 AM. Deliveries to the site shall not be allowed prior to
 7:00 AM. There shall be no construction activities on Sunday. Notwithstanding the foregoing,
-different hours of construction operations may be granted by the Board of Selectmen for
+different hours of construction operations may be granted by the Select Board for
 municipal projects or for other projects by the appropriate permit granting authority.
 
 ### SECTION 2 PERMIT REQUIRED
@@ -4246,13 +4509,13 @@ any, amount of monthly payments, payment schedule, late penalties and other term
 obligations may consist of outstanding real estate taxes or other financing packages negotiated
 with the Town. 
 
-Agreements must be signed by the Board of Selectmen and property owner and must be
+Agreements must be signed by the Select Board and property owner and must be
 notarized and attested to by the Town Clerk. Copies must be provided to the Massachusetts
 Commissioner of Revenue, Massachusetts Department of Environmental Protection, United
 States Environmental Protection Agency, Board of Assessors and the property owner.
 
 ### SECTION 4 APPROVAL OF AGREEMENTS
-All agreements must be approved by a majority vote of the Board of Selectmen.
+All agreements must be approved by a majority vote of the Select Board.
 
 ## ARTICLE 68 – RESERVED
 
