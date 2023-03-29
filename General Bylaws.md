@@ -1441,12 +1441,13 @@ Chapter 40, Section 21 of the General Laws of Massachusetts.
 ### SECTION 1 PROHIBITION IN TOWN BUILDINGS AND TOWN PROPERTY
 No person shall keep, use, consume or have in his possession any alcoholic beverage as defined
 in Chapter 138, Section 1 of the Massachusetts General Laws, in any building or structure or on
-any property owned by the Town of Westborough and used for municipal purposes.
+any property owned by the Town of Westborough and used for municipal purposes unless authorized
+by permit duly issued by the Select Board.
 
 ### SECTION 2 PROHIBITION IN PROPERTY LEASED BY THE TOWN
 No person shall consume any alcoholic beverage as defined in Section 1 in any portion of any
 structure in the Town of Westborough leased, rented, or otherwise used by said Town for
-municipal purposes.
+municipal purposes unless authorized by permit duly issued by the Select Board.
 
 ### SECTION 3 PROHIBITION IN PUBLIC WAYS
 No person shall consume any alcoholic beverage as defined in Section 1 while in or upon any
@@ -1459,13 +1460,15 @@ licensees without the permission of the owner or person in control thereof.
 
 ### SECTION 5 USE IN PUBLIC PARKS – EXCEPTIONS
 No person shall keep, use, consume, or have in his possession any alcoholic beverage as defined
-in Section 1 in any public park or playground in the Town of Westborough, except as may be
-provided in Section 4. 
+in Section 1 in any public park or playground in the Town of Westborough unless authorized
+by permit duly issued by the Select Board. 
 
 ### SECTION 6 VIOLATION
-All alcoholic beverages being used in violation of this Bylaw shall be seized and safely held until
-final adjudication of the charge against the person or persons arrested or summoned before the
-court, at which time they shall be returned to the person entitled to lawful possession.
+Per police procedures, all alcoholic beverages being used in violation of this Bylaw shall be seized
+and destroyed, or processed and held until final adjudication of the charge against the person or
+persons arrested or summoned before the court, at which time they may be returned to the person
+entitled to lawful possession. The Chief of Police or designee may return any seized alcohol prior to
+final adjudication for purposes they deem reasonable.
 
 ## ARTICLE 26 – ALARM SYSTEMS
 ### SECTION 1 RULES AND REGULATIONS
