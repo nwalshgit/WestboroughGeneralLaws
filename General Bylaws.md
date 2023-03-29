@@ -2826,7 +2826,7 @@ provisions of this regulation shall be subject to penalties as follows:
 
      Fourth and Further Offenses - five hundred dollars ($500.00)
 
-     Each day or portion thereof shall constitute a separate offense. If more than one, each condition
+     Each week shall constitute a separate offense. If more than one, each condition
 violated shall constitute a separate offense.
 
  4. The Town may enforce this Bylaw or enjoin violations thereof through any lawful process, and
