@@ -2822,9 +2822,7 @@ provisions of this regulation shall be subject to penalties as follows:
 
      Second Offense – one hundred dollars ($100.00)
 
-     Third Offense - three hundred dollars ($300.00)
-
-     Fourth and Further Offenses - five hundred dollars ($500.00)
+     Third and Further Offenses - three hundred dollars ($300.00)
 
      Each week shall constitute a separate offense. If more than one, each condition
 violated shall constitute a separate offense.
