@@ -809,6 +809,7 @@ the acceptance of corresponding earlier laws.
 | Ch. 40, § 8D | Establish Historical Commission | 1978
 | Ch. 40, § 8E | Youth Commission | 2016
 | Ch. 40, § 8G | Police Mutual Aid | 2014
+| Ch. 40, § 8J | Commision on Disabilities | 2021 ATM
 | Ch. 40, § 11 | Forest Fire Prevention | 1915 | RL Ch25 §17
 | Ch. 40, § 12 | Land for Public Bathhouse | 1966
 | Ch. 40, § 21D | Non-criminal Disposition | 1992
