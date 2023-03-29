@@ -12,7 +12,7 @@ __Town of Westborough General Bylaws__
 
 __As Amended__
 
-__2020 Sept Special Town Meeting__
+__2020 November Special Town Meeting__
 
 ## CONTENTS
 * [__ORGANIZATIONAL__](#organizational) ..................................................................................................................... 1
@@ -87,8 +87,8 @@ __2020 Sept Special Town Meeting__
      * Section 3 Rules and Regulations ....................................................................................... 19
 * [__ARTICLE 15 – Revolving Funds__](#article-15--revolving-funds) .............................................................................................. 19
 * [__ARTICLE 16 – Marijuana Not Medically Prescribed__](#article-16--marijuana-not-medically-prescribed) ............................................................... 20
-* [__ARTICLE 17 – Reserved__](#article-17--reserved) ........................................................................................................... 20
-* [__ARTICLE 18 – Reserved__](#article-18--reserved) ........................................................................................................... 20
+* [__ARTICLE 17 – Affordable Housing Trust__](#article-17--affordable-housing-trust) ........................................................................................................... 20
+* [__ARTICLE 18 – Community Development Department__](#article-18--community-development-department) ........................................................................................................... 20
 * [__ARTICLE 19 – Reserved__](#article-19--reserved) ........................................................................................................... 20
 * [__ARTICLE 20 – Reserved__](#article-20--reserved) ........................................................................................................... 20
 * [__ACTIVITY REGULATIONS__](#activity-regulations) ........................................................................................................ 22
@@ -358,7 +358,7 @@ __2020 Sept Special Town Meeting__
 
 ## GENERAL BYLAWS
 ## ADOPTED MARCH 18, 1946
-## WITH AMENDMENTS THROUGH SEPTEMBER SPECIAL TOWN MEETING 2020
+## WITH AMENDMENTS THROUGH SPECIAL TOWN MEETING 2020 NOV
 
 # ORGANIZATIONAL
 
@@ -829,6 +829,7 @@ the acceptance of corresponding earlier laws.
 | Ch. 44 | Annual Audit | 1934
 | Ch. 44, § 53C | Payment of Off-Duty Police Ofcrs | 1972
 | Ch. 44, § 53D | Revolving Account-Recreation | 1981
+| Ch. 44, § 55C | Affordable Housing Trust Fund | 2020 | 2020 STM
 | Ch. 48, § 42 - 44 | Appointment of Fire Chief | 1968
 | Ch. 48, § 59A | Fire Dept. Response - Aid to Other Cities and Towns | 1949
 | Ch. 53, § 9A | Nomination Papers | 1975
@@ -1024,9 +1025,223 @@ MGL Ch. 94G, Section 1(j), to include all marijuana cultivators, marijuana testi
 marijuana product manufacturers, marijuana retailers or any other types of licensed
 marijuana-related businesses, shall be prohibited within the Town of Westborough.
 
-## ARTICLE 17 – RESERVED
+## ARTICLE 17 – AFFORDABLE HOUSING TRUST
+### Affordable Housing Trust Fund
+Pursuant to the authority of General Laws Chapter 44, Section 55C, there is hereby created a local
+municipal affordable housing trust fund to be known as the "Westborough Affordable Housing Trust
+Fund" (the “Trust").
 
-## ARTICLE 18 – RESERVED
+### SECTION 1 PURPOSE
+The purpose of the Trust shall be to provide for the creation and preservation of affordable housing in
+Westborough for the benefit of low- and moderate-income households, to support efforts to improve
+housing affordability for Westborough in general, and to fund community housing as defined in General
+Laws, Chapter 44B. The Trust shall be governed by a Board of Trustees in accordance with General
+Laws Chapter 44, Section 55C, as revised from time to time, and the authority granted by Town Meeting.
+
+### SECTION 2 APPOINTMENT AND TENURE OF TRUSTEES
+* (A) There shall be a Board of Trustees (the “Board”) consisting of no fewer than five (5) and no more
+than seven (7) Trustees appointed by the Board of Selectmen. One of the Trustees shall be a
+member of the Board of Selectmen, who shall serve as the representative of the Board of
+Selectmen.
+
+     The Trustees shall be appointed for a term not to exceed two (2) years, such term to end on June
+30 of the expiration year, except that at least two of the initial Trustees shall serve for one (1)
+year, to provide for staggered terms, and Trustees may be re-appointed at the discretion of the
+Board of Selectmen for succeeding terms, with no limits on the number of terms that a Trustee
+can serve. In the event of a vacancy in the position of Trustee, the appointment shall be made in
+accordance with the provisions hereof.
+
+     Trustee appointments must comply with Article 13 of Westborough Town By-laws. Any Trustee
+who ceases to comply with said Article 13 shall promptly provide a written notification of the
+change to the Town Clerk.
+
+     Any Trustee may resign by written instrument signed and acknowledged by such Trustee and
+duly filed with the Town Clerk. If a Trustee shall die, resign, or for any other reason cease to be a
+Trustee hereunder before his/her term of office expires, any successor Trustee shall be appointed
+by the Board of Selectmen to fill such vacancy, provided that in each case, the said appointment
+and acceptance in writing by the Trustee so appointed is filed with the Town Clerk. No such
+appointment shall be required so long as there are at least five (5) Trustees in office. Upon the
+appointment of any succeeding Trustee and the filing of such appointment, the title to the Trust
+estate shall thereupon and without the necessity of any conveyance be vested in such succeeding
+Trustee jointly with the remaining Trustees. If any Trustee is absent from five (5) consecutive
+regularly scheduled meetings of the Trust, except in the case of illness, the Chair may notify the
+Board of Selectmen, who may terminate said Trustee of the Trust position.
+
+### SECTION 3 MEETINGS OF THE TRUSTEES
+The Trust shall meet at least quarterly at such time and such place as the Board shall determine. Special
+meetings may be called by the Chair or by a quorum of the Board of Trustees. Notice of any meeting of
+the Trust shall be filed with the Town Clerk and posted in accordance with the Open Meeting Law,
+Chapter 39, Sections 18-25.
+
+A quorum of the Board of Trustees shall be the majority of the number of Trustees then serving under this
+Trust.
+
+The Chair may establish sub-committees and/or ad hoc task related committees to carry out the purposes
+of the Trust. Chairpersons of the sub-committees may be selected by the members of the sub-committees.
+
+### SECTION 4 ACTS OF THE TRUSTEES
+Provided that a quorum of the Board is present, a majority of Trustees present and voting may exercise
+any or all of the powers of the Trustees hereunder and may execute on behalf of the Board any and all
+instruments with the same effect as though executed by all the Trustees. No Trustee shall be required to
+give bond. No license of court shall be required to confirm the validity of any transaction entered into by
+the Board with respect to the Trust estate.
+
+### SECTION 5 POWERS OF THE TRUSTEES
+* (A) The powers of the Board of Trustees shall include the following powers, which shall be carried
+out in accordance with and in furtherance of the provisions of General Laws Chapter 44,
+Section 55C as outlined below:
+
+ 1. to accept and receive real property, personal property or money, by gift, grant,
+contributions, devise, or transfer from any person, firm, corporation or other public
+or private entity or organization or tendered to the Trust in connection with
+provisions of any by-law or any general or special laws or any other source, including
+money from General Laws Chapter 44B, the Community Preservation Act (“Chapter
+44B), provided, however, that any such money received from Chapter 44B shall be
+used exclusively for community housing and shall remain subject to all the rules,
+regulations and limitations of that chapter when expended by the trust, and such
+funds shall be accounted for separately by the Trust; and provided further, that at the
+end of each fiscal year, the Trust shall ensure that all expenditures of funds received
+from said Chapter 44B are reported to the Community Preservation Committee for
+inclusion in the community preservation initiatives report, form CP-3, to the
+Department of revenue;
+
+ 2. to sell, lease, exchange, transfer or convey any personal, mixed, or real property at
+public auction or by private contract for such consideration and on such terms as to
+credit or otherwise, and to make such contracts and enter into such undertaking
+relative to Trust property as the Board deems advisable notwithstanding the length
+of any such lease or contract;
+
+ 3. to execute, acknowledge and deliver deeds, assignments, transfers, pledges, leases,
+covenants, contracts, promissory notes, releases and other instruments sealed or
+unsealed, necessary, proper or incident to any transaction in which the Board engages
+for the accomplishment of the purposes of the Trust;
+
+ 4. to borrow money on such terms and conditions and from such sources as the Board
+deem advisable, to mortgage and pledge Trust assets as collateral, to the extent of
+the Trust's assets;
+
+ 5. to construct, manage or improve real property; and to abandon any property which
+the Board determines not to be worth retaining;
+
+ 6. to purchase and retain real or personal property, including without restriction
+investments that yield a high rate of income or no income;
+
+ 7. to hold all or part of the Trust property uninvested for such purposes and for such
+time as the Board may deem appropriate;
+
+ 8. to become the lottery and monitoring agent for affordable housing and accept
+compensation for those services into the Fund;
+
+ 9. to monitor the expiring use of any affordable housing in Westborough;
+
+ 10. to compensate Town employees for services provided as authorized by the Town
+Manager and in accordance with applicable laws, including, but not limited to,
+dedicated staff to Trustees, engineering support for project specific activities, and
+other Town services, as requested by the Board to the Town Manager;
+
+ 11. to employ advisors and agents, including but not limited to accountants, appraisers
+and lawyers as the Board deems necessary;
+
+ 12. to pay reasonable compensation and expenses to all advisors and agents and to
+apportion such compensation between income and principal as the Board deems
+advisable;
+
+ 13. to participate or join or form a partnership, corporation or any other legally organized
+entity to accomplish the purposes of this Trust and to participate in any
+reorganization, recapitalization, merger or similar transactions; and to give proxies
+or powers of attorney with or without power of substitution to vote any securities or
+certificates of interest; and to consent to any contract, lease, mortgage, purchase or
+sale of property, by or between any corporation, and any other corporation, person
+or entity;
+
+ 14. to apportion receipts and charges between income and principal as the Board deems
+advisable, to amortize premiums and establish sinking funds for such purpose, and
+to create reserves for depreciation depletion or otherwise;
+
+ 15. to deposit any security with any protective reorganization committee, and to delegate
+to such committee such powers and authority with relation thereto as the Board may
+deem proper and to pay, out of Trust property, such portion of expenses and
+compensation of such committee as the Trustees may deem necessary and
+appropriate;
+
+ 16. to carry property for accounting purposes other than acquisition date values;
+
+ 17. to make distributions or divisions of principal in kind;
+
+ 18. to extend the time for payment of any obligation to the Trust,
+
+ 19. to establish criteria and/or qualifications for recipients and expenditures in
+accordance with Trust's stated purposes; and
+
+ 20. to compromise, defend, enforce, release, settle or otherwise adjust claims in favor or
+against the Trust, including claims for taxes, and to accept any property, either in
+total or partial satisfaction of any indebtedness or other obligation, and subject to the
+provisions of this act, to continue to hold the same for such period of time as the
+Trustees may deem appropriate.
+
+* (B) Notwithstanding anything to the contrary herein, Board of Selectmen approval shall be required
+for any of the following actions:
+
+ 1. Any single action that expends or commits 50% or more of the Trust assets,
+including any action to purchase real or personal property, to borrow money, or to
+mortgage or pledge Trust assets as collateral;
+
+ 2. If the Trust has cumulatively expended or committed 80% of Trust assets, any
+action, including any action to purchase real or personal property, to borrow
+money, or to mortgage or pledge, that expends or commits additional Trust assets
+as collateral; or
+
+ 3. Any sale or other disposition or real or personal property in excess of 50% of the
+Trust's assets.
+
+* (C) If authorized under Subsection (B), the Trustees shall have full power and authority, at any time
+and from time to time and without the necessity of applying to any court for leave to do so, to
+expend the 100% of the Trust funds, both principal and interest, to the extent that all funds
+hereunder may be expended, if the Trustees deem such expenditure appropriate. All expenditures
+shall be made in conformance with the terms of this Trust and General Laws Chapter 44, Section
+55C.
+
+### SECTION 6 TREASURER/COLLECTOR AS CUSTODIAN
+The Town of Westborough Treasurer/Collector shall be the custodian of the Trust funds and shall
+maintain separate accounts and records for said funds. Any income or proceeds received from the
+investment of funds shall be credited to and become part of the Trust.
+
+Expenditures by the Trust shall be processed through the warrant but shall be controlled by the provisions
+of General Laws Chapter 44, Section 55C. The yearly approved budget, and any approved budget
+revisions will be recorded by the Town Treasurer/Collector. The Finance Director shall issue checks as
+directed by the Board.
+
+In accordance with General Laws Chapter 44, Section 55C, the books and records of the Trust shall be
+audited annually by an independent auditor in accordance with accepted accounting practices. The Trust
+shall be audited as part of the Town audit. Cost associated with the independent audit shall be borne by
+the Trust. Upon receipt of the audit by the Board, a copy shall be provided forthwith to the Board of
+Selectmen.
+
+### SECTION 7 DURATION OF THE TRUST
+The Trust shall continue so long as authorized under the Laws of the Commonwealth of Massachusetts.
+Notwithstanding the foregoing, the Trust may be terminated by a majority vote of Town Meeting,
+provided that an instrument of termination together with a certified copy of the Town Meeting vote are
+duly recorded with the Worcester South District Registry of Deeds and the Worcester South Registry
+District of the Land Court. Upon termination of the Trust, subject to the payment of or making provisions
+for the payment of all obligations and liabilities of the Trust and the Trustees, the net assets of the Trust
+shall be transferred to the Town and held by the Board of Selectmen for affordable housing purposes. In
+making any such distribution, the Trustees may, subject to the approval of the Board of Selectmen, sell all
+or any portion of the Trust property and distribute the net proceeds thereof or they may distribute any of
+the assets in kind. The powers of the Trustees shall continue until the affairs of the Trust are concluded. 
+
+## ARTICLE 18 – COMMUNITY DEVELOPMENT DEPARTMENT
+### Section 1 Community Development Department and Community Development Director
+There shall be a Community Development Department, to include the functions and departments
+of the Building, Economic Development, and Conservation, to be headed by and under the
+supervision of a Community Development Director. The office of Community Development
+Director shall be filled by appointment of the Town Manager.
+
+The Community Development Director is responsible for overseeing and coordinating the Town’s
+development activities in cooperation with the Town Planner and the Planning Board. The
+Community Development Director supervises the Building Commissioner, Conservation Director,
+and Economic Development Coordinator, or other such title as may be given to the heads of these
+departments, and may also perform the functions of a Building Commissioner, as set forth and
+pursuant to their respective job descriptions. 
 
 ## ARTICLE 19 – RESERVED
 
