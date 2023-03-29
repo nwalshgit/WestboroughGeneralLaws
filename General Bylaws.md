@@ -995,12 +995,11 @@ airmen who have served the country in war, or persons who have rendered military
 Commonwealth in time of war and shall have custody and care thereof after their construction.
 
 ### SECTION 2 MEMBERSHIP
-The Committee shall consist of six (6) members consisting of a member of the Select
-Board and three (3) members who shall be veterans and two (2) who shall not be veterans.
+The Committee shall consist of six (6) members consisting of the Chair of the Select Board
+and three (3) members who shall be veterans and two (2) who shall not be veterans.
 The elected incumbents in the office of Trustee for Soldiers’ Memorials shall hold the office of
-committee member until his or her elected term expires. Upon expiration of the term of an
-incumbent, the Select Board shall appoint a successor member to the Committee for a
-term of three (3) years.
+committee member until his or her elected term expires. Any vacancy occuring in the town board
+shall be filled for the unexpired term by the remaining members.
 
 ### SECTION 3 RULES AND REGULATIONS
 The Committee may make such rules and regulations relative to the use of said memorials, as it
