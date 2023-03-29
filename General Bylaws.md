@@ -12,7 +12,7 @@ __Town of Westborough General Bylaws__
 
 __As Amended__
 
-__2020 November Special Town Meeting__
+__2021 Annual Town Meeting__
 
 ## CONTENTS
 * [__ORGANIZATIONAL__](#organizational) ..................................................................................................................... 1
@@ -212,6 +212,7 @@ __2020 November Special Town Meeting__
      * Section 8 Nuisance Dogs and Dangerous Dogs ............................................................... 54
      * Section 9 Cats ................................................................................................................... 55
      * Section 10 Kennels .............................................................................................................. 56
+     * Section 11 Poultry .............................................................................................................. 56
 * [__ARTICLE 39 – Hunting__](#article-39--hunting) .............................................................................................................. 56
      * Section 1 Hunting Prohibited Without Permission, Exclusion for Bow Hunting ................. 56
      * Section 2 Written Permission Required ............................................................................. 56
@@ -358,7 +359,7 @@ __2020 November Special Town Meeting__
 
 ## GENERAL BYLAWS
 ## ADOPTED MARCH 18, 1946
-## WITH AMENDMENTS THROUGH SPECIAL TOWN MEETING 2020 NOV
+## WITH AMENDMENTS THROUGH ANNUAL TOWN MEETING 2021
 
 # ORGANIZATIONAL
 
