@@ -424,7 +424,7 @@ permission of both the Moderator and the organization ordinarily responsible for
 School Department). (ATM 1996)
 
 ### SECTION 5 TOWN MEETING QUORUM
-No Town Meeting other than those described in Section 1 of the Article 2 shall take any action,
+No Town Meeting other than those described in Section 1 and 2 of Article 2 shall take any action,
 except to adjourn, unless there are 50 voters present, and the Moderator shall announce whether
 or not a quorum is present immediately after the meeting is called to order. (STM 2010)
 
