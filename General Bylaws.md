@@ -2427,6 +2427,59 @@ or by confinement within a building or a fenced barrier from which the dog canno
 escape or is under control by use of a collar and leash or a functioning electronic collar
 while in range and in sight of the owner or keeper.
 
+"Adult" - For purpose of this by-law adult poultry are defined as poultry that have attained
+the following ages:
+
+| :-------------------- | :-------- |
+| Chickens              | 12 weeks  |
+| Ducks                 | 14 weeks  |
+| Geese and Guinea fowl | 22 weeks  |
+| Turkeys               | 32 weeks  |
+| Qualis and Pheasants  | 10 weeks  |
+| Exotic Birds          | 15 months |
+
+"Chicken" - A member of the family Gallus domesticus.
+
+“Coop” - A structure for the housing of chickens, poultry, exotic birds, or fowl.
+
+“Exotic Birds” - Birds such as, but not limited to, peacocks, emus and Ostrich and other birds that are
+not normally kept inside the home as pets. Exotic birds that typically are housed in a residence as
+household pets such as, but not limited to, parakeets, parrots, cockatoos, and canaries, are not considered
+poultry for the purposes of this bylaw.
+
+“Falconry” - A sport involving training and use of raptors in hunting or similar exercise by Falconers.
+
+“Flight pen” - An enclosed pen used for quail or pheasant that allows access to fresh air and natural
+sunlight and space to exercise and fly but prevents the birds from flying away.
+
+“Fowl” - Birds hunted as game or used for racing, such as, but not limited to quail, pheasant.
+
+“Poultry” - All birds that are raised and kept for agricultural purposes, including but not limited to,
+chickens (hens and roosters), turkeys, capons, ducks, geese, pheasants, peacocks, guinea fowl, fowl,
+ratites, and all wild game birds raised and kept in accordance with state and local law.
+
+“Residential lot” - A parcel of land in single ownership and comprised of two contiguous acres or less
+and whose principal use is residential or that is vacant or uninhabited and is in a residential area.
+
+“Ratites” - Ostrich, Emu, or Rhea, Cassowary, Kiwi.
+
+“Rooster” - An adult male chicken that is not caponized.
+
+“Run” - An enclosed area that allows access to fresh air, natural sunlight and exercise during daytime
+hours but prevents poultry from wandering onto neighboring properties.
+
+“Sand box” - a structure filled with clean sand for poultry that normally sand bathe, such as chickens and
+quail.
+
+“Structure” - An open or closed structure providing protection from wind, cold, rain and sun considered
+appropriate for the species of poultry in question as set forth herein, and in accordance with applicable
+Federal and State laws on the keeping of such animals. This includes, but is not limited to, barns, stables,
+coops, hutches, pens runs and sandboxes.
+
+“Useable lot size” - portion of a lot that is not occupied by the main residence, driveway, walkway,
+patio, deck or other outbuilding (except a barn); or semi-permanent recreational equipment such as a
+pool or paved courtyard.
+
 ### SECTION 3 LICENSE AND TAGS
 * (A) Any owner or keeper of a dog six (6) months of age or older shall by January 1 cause the
 dog to be registered, numbered, described and licensed with the Town Clerk in
@@ -2604,6 +2657,216 @@ dogs six (6) months old and older.
 being maintained in a sanitary and humane manner or if records are not properly kept as
 required by law, the Animal Control Officer or Board of Health shall, by order, revoke or
 suspend the license for the kennel.
+
+### SECTION 11 POULTRY
+* A. Purpose: The purpose of this Bylaw is to regulate the keeping of poultry for personal use on
+residential lots of two (2) acres or less in size. This Bylaw is intended to further the objectives of
+and to act in concert with any existing federal, state and local laws concerning the maintenance
+of property, the keeping of poultry and the abatement and prevention of nuisances within the
+Town. Nothing in this Bylaw is intended to limit or restrict the authority of the Board of Health,
+the Animal Control Officer, Animal Inspector, or the Health Agent to act in accordance with any
+other law within their jurisdiction, including but not limited to, the authority of the Board of
+Health to abate nuisances.
+
+* B. Applicability: This Bylaw shall apply to the keeping of poultry on residential lots, primarily for
+personal use where sale of the animal or animals or their byproducts, such as eggs, etc., is
+incidental to the principal use of the property and the reason for keeping the animal.
+
+* C. General Regulations:
+ 1. All owners and/or keepers of poultry on residential lots must comply with applicable local and state
+laws and regulations, as may be amended from time to time.
+
+ 2. All poultry shall be effectively controlled so as not to become a nuisance, due to noise, odor or other
+condition, or a danger to their own health or the public health. Allowing waste to pollute any wetland
+or waterway shall be prohibited.
+
+ 3. No owner and/or keeper of poultry shall willfully or through neglect suffer, allow or permit any
+infestation of insects, or vermin, or allow any condition which interferes with the use and enjoyment
+of abutting properties through unreasonable noise, odor or other offensive condition.
+
+ 4. All areas in which poultry are kept shall be subject to inspection by the Animal Control
+Officer/Animal Inspector, and any other inspectional agent of the Town, as applicable.
+
+ 5. All adult poultry shall be included in the annual animal census and barn inspections conducted by
+the Animal Inspector.
+
+ 6. No owner and/or keeper shall permit any poultry, on any public property within the Town, including
+but not limited-to public ways, recreation areas, parks, public water supply properties, and
+cemeteries, or on private property without permission of the owner thereof.
+
+ 7. Chicken coops must be located at least 5 feet away from abutting property lines.
+     * a. Poultry, excluding chickens, housing shall be located at least 10 feet away from abutting
+property lines.
+     * b. Exotic bird housing shall be located at least 50 feet away from abutting property lines.
+
+ 8. Poultry must be kept in a structure and must not create nuisances, including noise disturbances
+between the hours of 10pm and 7am. Hens may perch in a run provided they are quiet.
+
+ 9. Chickens must come from Salmonella Pullorum Certified Clean Flocks. The owner or keeper shall
+provide a copy of said certification to the Animal Inspector or Board of Health Inspector upon
+request.
+
+* D. Standards of Care.
+ 1. All poultry shall be maintained in a clean and healthy condition, shall be properly vaccinated and
+immunized and shall not be subject to abuse, mistreatment or malnourishment.
+
+ 2. Outdoor structures must be provided for poultry and may be attached to the coop, but may be
+closed off between 10pm and 7am to keep the poultry safely in their coops. Coops may also be
+located inside of larger structures rather than attached to them. Enclosed shelter must be
+provided to protect poultry from the elements and flying predators such as hawks or eagles.
+
+ 3. No structure or combination of structures may occupy more than 25% of the useable lot size.
+
+ 4. Poultry must have access to fresh food and water.
+
+ 5. Poultry shall not be subjected to de-beaking or forced molting.
+
+ 6. Structures for chickens must have an interior floor space of one and one half (1 ½) square feet of
+floor space per chicken, with one (1) foot of linear perch space per chicken.
+
+ 7. Structures must include access to a minimum of four (4) square feet of outdoor pen/run per
+chicken.
+
+ 8. Manure management.
+     * a. Owners and/or keepers must prevent noxious odors.
+     * b. Owners and/or keepers must prevent runoff into abutting yards, wetlands, or other
+sensitive conservation areas.
+     * c. In no case shall more than one half cord (4'x 4' x 4') of poultry manure and bedding be
+accumulated on the property at one time without a stable permit.
+     * d. Composted manure may be tilled in for fertilizer.
+
+ 9. Structures for poultry shall be of sufficient size, as set forth herein, and appropriate design to
+accommodate the poultry or exotic birds in a safe and healthy manner, and provide protection
+from the elements and predators. Structures used for the keeping of poultry and exotic birds must
+be maintained in a clean and sanitary manner, free from decaying food, filth, feces, vermin
+infestation and stagnant water. Structures must be maintained in a manner to ensure that they are
+weather tight and secure.
+
+* E. Density Requirements.
+ 1. Minimum space requirements for chickens:
+ 
+     | Total chickens                | 6         | 12         | 18         | 24         | 36         | 50         |
+     | :---------------------------- | :-------- | :--------- | :--------- | :--------- | :--------- | :--------- |
+     | Interior floor space minimum  | 9 sq.ft.  | 18 sq.ft.  | 27 sq.ft.  | 36 sq.ft.  | 54 sq.ft.  | 75 sq.ft.  |
+     | Interior linear minimum perch | 6 ft.     | 12 ft.     | 18 ft.     | 24 ft.     | 36 ft.     | 50 ft.     |
+     | Outdoor run/pen minimum       | 24 sq.ft. | 48 sq.ft.  | 72 sq.ft.  | 96 sq.ft.  | 144 sq.ft  | 200 sq.ft. |
+     | Total Minimum Structure Size  | 33 sq.ft. | 66 sq.ft.  | 99 sq.ft.  | 132 sq.ft. | 198 sq.ft. | 275 sq.ft. |
+
+ 2. Housing Requirements: Poultry shelters and structures shall meet the following minimum
+sizes. For animals not listed below, the applicant shall provide a shelter of sufficient size to ensure
+that the animal has shelter from the weather and sufficient room for the animal to be housed and in a
+humane manner in accordance with best management practices:
+     * a) Quail: 1 Square foot of run or flight pen and 1 square foot of coop space per bird and
+access to a clean sandbox.
+     * b) Pheasant: 20 square feet of run and 4 square feet coop space per bird.
+     * c) Turkeys: A minimum of 1/2 acre lot and 25 square feet of run per bird and 6-10 square
+feet of coop space per bird, with a minimum of 5x8 roosting area with 20 linear foot of
+total roost space.
+     * d) Ducks: A minimum of 1/2 acre lot and a structure with a minimum of 24 square feet and
+4 square feet per bird inside the coop. The enclosure doors must be approximately 24
+inches wide and there must be 50 square feet of pasture or yard space per bird.
+     * e) Geese: A minimum of 1/2 acre lot and 3.5ft by 4.5ft coop for a pair. Up to five geese may
+be kept in a 4x6 foot structure.
+
+ 3. Maximum number of poultry. No person shall own or keep on a single residential lot more than
+the number of poultry set forth below.
+     * a) Chicken flock size by lot size:
+
+     | Lot Size                | Under 1/8 acre | 1/8- ¼ acre | ¼ - ½ acre | ½-1 acre | 1-2 acre |
+     | :---------------------- | :------------- | :---------- | :--------- | :------- | :------- |
+     | Maximum number of birds | 6              | 18          | 24         | 36       | 50       |
+
+     * b) Other Adult Poultry: The following maximum number of other adult poultry, not
+chickens, shall be permitted on any single residential lot:
+
+     |                                     | Number allowed by lot size:                         |
+     | Type of Adult Poultry, not Chickens | 1/8-1/4 Acres | ¼-1/2 Acres | ½-1 Acres | 1-2 Acres |
+     | :---------------------------------- | :------------ | :---------- | :-------- | :-------- |
+     | Ducks, Geese                        | 0             | 0           | 6         | 12        |
+     | Turkey                              | 0             | 0           | 6         | 12        |
+     | Pheasant, Quail                     | 0             | 24          | 36        | 50        |
+     | Peacock, or Ratites                 | 0             | 0           | 0         | 0         |
+
+     * c) If multiple species of poultry are kept on a single residential lot, the minimum requisite
+square footage shall be calculated by the totaling the space required for each species as set
+in Section E.2 and E.3.
+
+     * d) Each species of poultry shall have its own separate coop for shelter, as well as a nesting
+and perch space; provided, however, and that they may be kept in a single larger structure
+such as a barn or shed. Yard space may be shared.
+
+* F. Slaughtering.
+ 1. The slaughtering of any poultry shall be conducted outside of the view of abutters,
+neighbors or other poultry.
+
+ 2. Slaughtering must be performed in a safe, humane and sanitary manner.
+
+ 3. Poultry on residential lots shall not be slaughtered for commercial purposes.
+
+ 4. Poultry may be taken to a slaughterhouse or butcher for processing.
+
+* G. Enforcement and Penalties.
+ 1. The Board of Selectmen and/or Animal Control Officer or their designees shall enforce the
+provisions of this Bylaw.
+
+ 2. If there is a violation of this Bylaw the Board of Selectmen and/or Animal Control Officer, or
+their designees, may issue a written order to the owner and/or keeper of poultry to desist, abate
+and correct the offending violations.
+
+ 3. Any person who violates this Bylaw may be penalized by non-criminal disposition as provided
+by Massachusetts General Laws, Chapter 40, Section 21D and the Town’s Non- Criminal
+Disposition bylaw. If non-criminal disposition is elected, then any person who violates the
+provisions of this regulation shall be subject to penalties as follows:
+
+     First Offense - fifty dollars ($50.00)
+
+     Second Offense – one hundred dollars ($100.00)
+
+     Third Offense - three hundred dollars ($300.00)
+
+     Fourth and Further Offenses - five hundred dollars ($500.00)
+
+     Each day or portion thereof shall constitute a separate offense. If more than one, each condition
+violated shall constitute a separate offense.
+
+ 4. The Town may enforce this Bylaw or enjoin violations thereof through any lawful process, and
+the election of one remedy by the Town shall not preclude enforcement through any other lawful
+means
+
+* H. Exemptions.
+The following shall be exempt from density requirements of this Bylaw.
+
+ 1. Individual properties or facilities that are under the direct care of the MSPCA or other
+organization incorporated for the prevention of cruelty to animals.
+
+ 2. Veterinary Practices and/or Animal Hospitals.
+
+ 3. Facilities for the raising of quail or pheasant for the purpose of stocking hunting areas.
+
+ 4. Facilities raising meat poultry which will be slaughtered prior to 16 weeks of age for
+chickens, quail or pheasant: 20 weeks of age for Ducks and up to 30 weeks for Heritage
+Turkeys and Geese.
+
+ 5. Licensed Rehabilitators.
+
+ 6. Falconers.
+
+ 7. Small pet exotic birds normally housed inside the residence such as, but not limited to,
+parakeets, parrots, love birds, canaries, cockatoo, cockatiel, and pet finches.
+
+* I. Compliance Deadline.
+Keepers and/or owners of poultry and exotic animals shall have 12 months from the effective date of this
+bylaw to comply with the size of structure and maximum number of birds allowed under its provisions.
+Structures existing prior to the adoption of this bylaw may be deemed acceptable on written
+authorization of the Animal Inspector provided they do not occupy more than 25% of the useable lot
+size. All other portions of this bylaw shall take effect in accordance with Massachusetts General Laws
+Chapter 40, Section 32.
+
+* J. Severability.
+The provisions of this Bylaw shall be deemed severable, so that the invalidity of any one provision of the
+Bylaw shall not affect the validity of another provision, and if any part of this bylaw shall be adjudged
+unconstitutional, inconsistent with state law, or otherwise invalid, such judgment shall not affect any
+other valid part of this Bylaw.
 
 ## ARTICLE 39 – HUNTING
 ### SECTION 1 HUNTING PROHIBITED WITHOUT PERMISSION, EXCLUSION FOR BOW HUNTING
