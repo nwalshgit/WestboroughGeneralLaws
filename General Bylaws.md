@@ -1382,12 +1382,12 @@ contained in the bylaw, may comply with the following directions, to wit:
 Notice of the determination of the occupant of the refusal of invitation to solicitors, to any resident,
 may be given in the manner following:
 
-* (A) A weatherproof card or sign, approximately three inches by four inches in size, shall be
+* (A) A weatherproof card or sign, approximately three inches by five inches in size, shall be
 exhibited upon or near the main entrance door to the residence, indicating the
 determination by the occupant, containing the applicable words as follows: “NO
 SOLICITORS INVITED”
 
-* (B) The letters shall be at least one (1) inch in height. Cards shall be provided by the Town
+* (B) The letters shall be at least one half (1/2) inch in height. Cards shall be provided by the Town
 Clerk's Office of the Town to persons requesting at the cost thereof.
 
 * (C) A card or sign so exhibited shall constitute sufficient notice to any solicitor of the
@@ -1395,7 +1395,7 @@ determination by the occupant of the residence of the information contained ther
 
 ### SECTION 11 DUTY OF SOLICITORS
 It shall be the duty of every solicitor upon going onto any premises in the municipality upon which
-a residence as herein defined is located, to first examine the notice provided for in this ordinance,
+a residence as herein defined is located, to first examine the notice provided for in this law,
 if any is attached, and be governed by the statement contained on any notice.
 
 * (A) Upon reading the sign, the solicitor shall immediately and peacefully depart. Any solicitor
@@ -1407,7 +1407,7 @@ It is hereby declared to be unlawful for any person to go upon any premises and 
 upon or near any door or create any sound in any other manner calculated to attract the attention
 of the occupant of such residence, for the purpose of securing an audience with the occupant
 thereof and engage in soliciting as herein defined, in defiance of the notice exhibited at the
-residence in accordance with the provisions of Section 6 of this bylaw.
+residence in accordance with the provisions of Section 10 of this bylaw.
 
 ### SECTION 13 FEE FOR SOLICITATION
 Upon approval by the Board of Selectmen of the application for a Certificate of Registration, the
