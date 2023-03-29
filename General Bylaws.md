@@ -23,7 +23,7 @@ __2020 November Special Town Meeting__
      * Section 4 Severance Provision ............................................................................................ 1
 * [__ARTICLE 2 – Town Meetings and the Procedure Thereat__](#article-2--town-meetings-and-the-procedure-thereat) ....................................................... 2
      * Section 1 Annual Town Meeting .......................................................................................... 2
-     * Section 2 Fall and Special Town Meetings .......................................................................... 2
+     * Section 2 Fall Town Meeting .......................................................................... 2
      * Section 3 Posting of Warrants ............................................................................................. 2
      * Section 4 Moderator Determination on Signs and Visitors at Town Meeting ....................... 3
      * Section 5 Town Meeting Quorum ........................................................................................ 3
@@ -383,27 +383,24 @@ provisions of these Bylaws shall not be affected thereby.
 ## ARTICLE 2 – TOWN MEETINGS AND THE PROCEDURE THEREAT
 ### SECTION 1 ANNUAL TOWN MEETING
 The Annual Meeting for the election of Town Officers and all other matters to be determined by
-ballot shall be held on the first Tuesday in May in 2011, and the first Tuesday in March 2012 and
-each year thereafter. The polls shall be open from 8:00 a.m. to 8:00 p.m., and it shall be so stated
+ballot shall be held the second Tuesday in March unless otherwise determined by the Select Board,
+with such revised date to be not less than 65 days from the date the Board votes to determine it.
+The polls shall be open from 8:00 a.m. to 8:00 p.m. unless otherwise determined by the Select Board
+and it shall be so stated
 in the warrant calling the meeting. All other business of the Annual Meeting shall be considered at
 the adjournment thereof as follows. (STM 2010)
 
 The Annual Town Meeting for the consideration of all business, other than the election of Town
-Officers or other matters to be determined by ballot, shall be held during the week designated by
-the Select Board as "Town Meeting Week", commencing at 1:00 p.m. on the second Saturday
-following the Election of Officers. The meeting shall be recessed not later than 5:00 p.m. to
-reconvene at 7:00 p.m.; adjournment of the session shall be to the following Monday night at 7:00
-p.m. and then to each succeeding night at 7:00 p.m. until completion of the warrant.
-In the event that all articles in the warrant have not been acted on by the end of the Thursday night
-session, the meeting shall stand adjourned to a time and date agreeable to the meeting. In the
-event of a secular or other holiday during the Town Meeting Week, that session shall be
-adjourned to the next night that shall be agreeable to the meeting by majority vote. No quorum or
+Officers or other matters to be determined by ballot, shall be held 9:00am on the second Saturday
+following the Election of Officers unless otherwise determined by the Select Board.
+In the event that all articles in the warrant have not been acted on by the end of Town Meeting,
+the meeting shall stand adjourned to a time and date agreeable to the meeting. No quorum or
 minimum number of voters shall be required for this meeting. (STM 2010)
 
-### SECTION 2 FALL AND SPECIAL TOWN MEETINGS
+### SECTION 2 FALL TOWN MEETING
 A special meeting for the consideration of such business as the Select Board may place upon the
-warrant shall ordinarily be held on the third Monday in October commencing at 7:00 p.m. In the
-event of a secular or other holiday, the Select Board may determine an alternative date in October
+warrant shall ordinarily be held on the third Monday in October commencing at 7:00 p.m.
+An alternative date may be determined by the Select Board
 for the commencement of the meeting. In the event that all articles in the warrant have not been
 acted upon by the end of the first session, the meeting shall stand adjourned to a time and date
 agreeable to the meeting as established by majority vote. No quorum or minimum number of
