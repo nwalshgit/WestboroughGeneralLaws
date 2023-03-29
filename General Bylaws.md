@@ -800,6 +800,7 @@ the acceptance of corresponding earlier laws.
 | Ch. 32D | Group Life & Health Insurance | 1968 | 1968 Ch.100
 | Ch. 39, § 15 | Town Meeting Procedure | 1997 | 1996 Ch.448 S.2
 | Ch. 39, §23D | Adjudicatory hearings, Attendance | 2007
+| Ch. 40, § 3 (P2) | Revolving Account | 2021 |2021 ATM
 | Ch. 40, § 5B (P4) | Stabilization Fund | 2020 |2020 ATM
 | Ch. 40, § 6B | Uniforms-Police & Foreman | 1965
 | Ch. 40, § 7 | Removal of Snow & Ice & Assessment of Cost | 1921
@@ -1018,6 +1019,7 @@ The Town of Westborough shall authorize the following Revolving Funds:
 | Council on Aging                            | To Provide Programs for Seniors                  | Program Fees                      | Council on Aging               | $30,000             |
 | Recreation                                  | To Provide Recreation Programs                   | Program Fees                      | Recreation Commission          | $500,000            |
 | Economic Development Small Business Grant   | To Provide grant assistance for small businesses | Billboard Fees                    | Economic Development Committee | $40,000             |
+| Town Facility Rental                        | Town Facility Maintenance                        | Rental Fees                       | DPW Director                   | $25,000             |
 
 ## ARTICLE 16 – MARIJUANA NOT MEDICALLY PRESCRIBED
 Consistent with MGL Ch. 94G, Section 3(a)(2), all types of marijuana establishments as defined in
