@@ -12,7 +12,7 @@ __Town of Westborough General Bylaws__
 
 __As Amended__
 
-__2021 Annual Town Meeting__
+__2021 Special Town Meeting__
 
 ## CONTENTS
 * [__ORGANIZATIONAL__](#organizational) ..................................................................................................................... 1
@@ -44,7 +44,7 @@ __2021 Annual Town Meeting__
      * Section 20 Town Meeting Recordation .................................................................................. 6
 * [__ARTICLE 3 – Advisory Finance Committee__](#article-3--advisory-finance-committee) .............................................................................. 6
      * Section 1 Membership ......................................................................................................... 6
-     * Section 2 Term of Office ...................................................................................................... 7 
+     * Section 2 Term of Office ...................................................................................................... 7
      * Section 3 Vacancies ............................................................................................................ 7
      * Section 4 Advisory Finance Committee Recommendations ................................................ 7
      * Section 5 Access to Information .......................................................................................... 7
@@ -77,7 +77,7 @@ __2021 Annual Town Meeting__
 * [__ARTICLE 11 – Alternative Methods of Dealing with MGL Chapters 61, 61A, and 61B__](#article-11--alternative-methods-of-dealing-with-mgl-chapters-61-61a-and-61b) ....... 15
      * Section 1 Definitions .......................................................................................................... 16
      * Section 2 Acceptance ........................................................................................................ 16
-     * Section 3 Cooperating Entities .......................................................................................... 16 
+     * Section 3 Cooperating Entities .......................................................................................... 16
      * Section 4 Land To Be Acquired by the Town .................................................................... 17
 * [__ARTICLE 12 – Legal Expenses__](#article-12--legal-expenses) ................................................................................................ 17
 * [__ARTICLE 13 – Residency Requirement for Appointment__](#article-13--residency-requirement-for-appointment) ...................................................... 19
@@ -110,7 +110,7 @@ __2021 Annual Town Meeting__
      * Section 9 Notice of Regulating Soliciting ........................................................................... 25
      * Section 10 Soliciting Prohibited ........................................................................................... 25
      * Section 11 Duty of Solicitors ................................................................................................ 26
-     * Section 12 Uninvited Soliciting Is Prohibited ......................................................................... 26 
+     * Section 12 Uninvited Soliciting Is Prohibited ......................................................................... 26
      * Section 13 Fee for Solicitation .............................................................................................. 26
      * Section 14 Time Limit on Soliciting ........................................................................................ 26
      * Section 15 Permits ............................................................................................................... 26
@@ -143,7 +143,7 @@ __2021 Annual Town Meeting__
      * Section 8 Ice Fishing, Snowmobiling and Scuba Diving .................................................... 31
      * Section 9 Aircraft ............................................................................................................... 31
      * Section 10 Safe Use of Boats, Flow of Traffic ..................................................................... 31
-     * Section 11 Moorings ............................................................................................................ 31 
+     * Section 11 Moorings ............................................................................................................ 31
      * Section 12 Boat Rentals ...................................................................................................... 31
      * Section 13 Speed ................................................................................................................ 32
      * Section 14 Water-skiing ....................................................................................................... 32
@@ -175,7 +175,7 @@ __2021 Annual Town Meeting__
      * Section 2 Noncriminal Enforcement .................................................................................. 37
 * [__ARTICLE 32 – Non-Zoning Wetlands Protection__](#article-32--non-zoning-wetlands-protection) .................................................................... 38
      * Section 1 Purpose ............................................................................................................. 38
-     * Section 2 Jurisdiction ......................................................................................................... 39 
+     * Section 2 Jurisdiction ......................................................................................................... 39
      * Section 3 Exemptions and Exceptions .............................................................................. 39
      * Section 4 Applications and Fees ....................................................................................... 40
      * Section 5 Notice and Hearings .......................................................................................... 41
@@ -208,7 +208,7 @@ __2021 Annual Town Meeting__
      * Section 4 Restraint ............................................................................................................ 52
      * Section 5 Impoundment/Notice to Owner .......................................................................... 53
      * Section 6 Fines and Fees .................................................................................................. 53
-     * Section 7 Disposition of Funds .......................................................................................... 54 
+     * Section 7 Disposition of Funds .......................................................................................... 54
      * Section 8 Nuisance Dogs and Dangerous Dogs ............................................................... 54
      * Section 9 Cats ................................................................................................................... 55
      * Section 10 Kennels .............................................................................................................. 56
@@ -242,7 +242,7 @@ __2021 Annual Town Meeting__
 * [__ARTICLE 47 – Cemeteries__](#article-47--cemeteries) ........................................................................................................ 60
      * Section 1 Management ...................................................................................................... 60
      * Section 2 Perpetual Care ................................................................................................... 60
-     * Section 3 Segregation of Perpetual Care Funds ............................................................... 60 
+     * Section 3 Segregation of Perpetual Care Funds ............................................................... 60
      * Section 4 Regulations ........................................................................................................ 61
 * [__ARTICLE 48 - Extension of Water Mains__](#article-48---extension-of-water-mains) ................................................................................ 61
      * Section 1 Water Connection and Extensions .................................................................... 61
@@ -275,7 +275,7 @@ __2021 Annual Town Meeting__
      * Section 5 Enforcement ...................................................................................................... 67
      * Section 6 Fixtures Installed in Basements ......................................................................... 67
 * [__ARTICLE 53 – Sewer Cost Apportionment__](#article-53--sewer-cost-apportionment) ............................................................................. 68
-     * Section 1 Purpose ............................................................................................................. 68 
+     * Section 1 Purpose ............................................................................................................. 68
      * Section 2 Sewer Privilege Fee ........................................................................................... 68
      * Section 3 Payment of Fee ................................................................................................. 68
      * Section 4 Per Unit Fee ....................................................................................................... 68
@@ -308,7 +308,7 @@ __2021 Annual Town Meeting__
      * Section 7 Prohibited Activities ........................................................................................... 86
      * Section 8 Exemptions ........................................................................................................ 87
      * Section 9 Emergency Suspension of Storm Drainage System Access ............................. 88
-     * Section 10 Notification of Spills ........................................................................................... 88 
+     * Section 10 Notification of Spills ........................................................................................... 88
      * Section 11 Enforcement ...................................................................................................... 88
      * Section 12 Severability ........................................................................................................ 89
      * Section 13 Transitional Provisions ....................................................................................... 90
@@ -340,7 +340,7 @@ __2021 Annual Town Meeting__
      * Section 5 Enforcement and Remedies .............................................................................. 95
      * Section 6 Severability ........................................................................................................ 95
 * [__ARTICLE 65 – Handicapped Access Bylaw__](#article-65--handicapped-access-bylaw) ............................................................................ 95
-     * Section 1 Public Meetings to be Accessible ...................................................................... 95 
+     * Section 1 Public Meetings to be Accessible ...................................................................... 95
      * Section 2 Posting ............................................................................................................... 95
      * Section 3 Compliance ........................................................................................................ 95
 * [__ARTICLE 66 – Construction Activity__](#article-66--construction-activity) ....................................................................................... 95
@@ -359,7 +359,7 @@ __2021 Annual Town Meeting__
 
 ## GENERAL BYLAWS
 ## ADOPTED MARCH 18, 1946
-## WITH AMENDMENTS THROUGH ANNUAL TOWN MEETING 2021
+## WITH AMENDMENTS THROUGH SPECIAL TOWN MEETING 2021
 
 # ORGANIZATIONAL
 
@@ -379,7 +379,7 @@ a fine up to an amount provided in MGLA Chapter 40, Section 21 as from time to t
 ### SECTION 4 SEVERANCE PROVISION
 If any Article or Section of any Article of these Bylaws is declared unconstitutional or illegal by any
 court, or is disapproved by any state authority having jurisdiction, the validity of the remaining
-provisions of these Bylaws shall not be affected thereby. 
+provisions of these Bylaws shall not be affected thereby.
 
 ## ARTICLE 2 – TOWN MEETINGS AND THE PROCEDURE THEREAT
 ### SECTION 1 ANNUAL TOWN MEETING
@@ -410,7 +410,7 @@ voters shall be required for this meeting. (STM 2010)
 ### SECTION 3 POSTING OF WARRANTS
 Warrants for Town Meeting shall be served by posting attested copies of the same in at least two
 public places, by a time prior to the date at which the town meeting is to convene that is in
-compliance with the Massachusetts General Laws. 
+compliance with the Massachusetts General Laws.
 
 ### SECTION 4 MODERATOR DETERMINATION ON SIGNS AND VISITORS AT TOWN MEETING
 At the discretion of the Moderator, a portion of the hall may be reserved for visitors and open to
@@ -443,7 +443,7 @@ meeting, or in case he is called away from the meeting.
 ### SECTION 10 ORDER OF MOTIONS
 The Moderator, in presenting motions that differ only in the amount of money involved, shall
 ordinarily put the largest sum first and, in questions that differ only in the amount of time involved,
-shall ordinarily put the longest time first. 
+shall ordinarily put the longest time first.
 
 ### SECTION 11 PRECEDENCE OF MOTIONS
 When a question is before the meeting, the following set of motions shall be used as a guide, and
@@ -459,7 +459,7 @@ shall ordinarily have precedence in their numerical order:
 8. Pass over
 9. Amend
 10. Main motion
- 
+
 But the treatment and order of receipt, of these and all other motions made in a Town Meeting
 shall be left to the final decision of the Moderator.
 
@@ -521,7 +521,7 @@ stated time.
 All committees shall be appointed by the Moderator unless otherwise specifically directed by the
 meeting, and all committees so appointed shall be directed to report within a definite time. If a
 committee does not report within the time stated, it shall be considered discharged unless in the
-meantime the Town shall have granted an extension of time. 
+meantime the Town shall have granted an extension of time.
 
 ### SECTION 19 VOTE COUNTING METHODS
 When a question is put, the sense of the meeting shall be determined by a show of hands of the
@@ -562,7 +562,7 @@ There shall be an Advisory Finance Committee consisting of nine voters of the To
 whom shall be a Town officer now elected by ballot, or an appointed official or a Town employee.
 Said Committee shall choose its own officers and shall serve without pay, except the clerk, who
 shall receive reasonable compensation for his services. The clerk of said Committee may or may
-not be a member of the Committee. 
+not be a member of the Committee.
 
 ### SECTION 2 TERM OF OFFICE
 The Moderator, after each Annual Town Meeting, shall appoint three members of said Committee
@@ -598,7 +598,7 @@ otherwise ordered by a vote of the Town.
 ### SECTION 2 ACQUISITION AND DISPOSITION OF REAL ESTATE
 Whenever it shall be necessary to execute any deed conveying land, or any other instrument
 required to carry into effect any vote of the Town, the same shall be executed by the Select Board in
-behalf of the Town, unless the Town shall vote otherwise. 
+behalf of the Town, unless the Town shall vote otherwise.
 
 ### SECTION 3 BONDS AND DISPOSITION OF PERSONAL PROPERTY
 The Select Board shall have the sole custody of all bonds required of the officers of the Town.
@@ -631,7 +631,7 @@ General Laws, Chapter 40, Section 8B. (ATM 1997)
 ## ARTICLE 5 – TOWN MANAGER
 The Town Manager shall have the responsibility and authority to provide and appoint adequate
 staffing within the office of the Town Manager subject to the constraints of the Salary
-Administration Plan and appropriations as voted by the Town Meeting. (ATM 1987) 
+Administration Plan and appropriations as voted by the Town Meeting. (ATM 1987)
 
 ## ARTICLE 6 – HUMAN RESOURCES MANAGEMENT
 Subject to the approval of the Select Board, the Town Manager shall adopt rules and
@@ -669,7 +669,7 @@ Said purchase order must be on a form approved by the Chief Procurement Officer 
 Director. When issuing such a purchase order, a copy shall be sent to the vendor, a copy to the
 Finance Director's Office, and a copy to be retained by the department. (ATM 1994)
 
-### SECTION 3 REVENUE TURNOVER 
+### SECTION 3 REVENUE TURNOVER
 Any department collecting funds on behalf of the Town shall transfer those funds directly to the
 Town Treasurer on forms provided by the Finance Director on a weekly basis. Any department
 collecting more than one thousand dollars ($1,000.00) in any period less than one week shall,
@@ -708,7 +708,7 @@ Treasurer/Collector; provided however, that written notice is given to the party
 Treasurer/Collector, as required by applicable provisions of law, and the party is given a
 hearing, to be held no earlier than fourteen(14) days after said notice. Said list shall be
 prima facie evidence for denial, revocation or suspension of said license or permit to any
-party. The Treasurer/Collector shall have the right to intervene in any hearing conducted 
+party. The Treasurer/Collector shall have the right to intervene in any hearing conducted
 with respect to such license denial, revocation or suspension. Any findings made by the
 licensing authority with respect to such license denial, revocation or suspension shall be
 made only for the purpose of such proceeding and shall not be relevant to or introduced in
@@ -748,7 +748,7 @@ the Mass. General Laws in the business or activity conducted in or on said prope
 The Town, acting by and through its Select Board, as authorized by and pursuant to the
 Westborough Home Rule Charter, may provide an employment contract for a period of up to three
 (3) years, to provide for the salary, fringe benefits and other conditions of employment, including,
-but not limited to, severance pay, relocation expenses, reimbursement of expenses incurred in 
+but not limited to, severance pay, relocation expenses, reimbursement of expenses incurred in
 the performance of duties or office, indemnification, liability and disability insurance, and leave, for
 the Department of Director of the Department of Public Works.
 
@@ -783,7 +783,7 @@ the acceptance of corresponding earlier laws.
 | Ch. 32A, § 10B | Retiree's Insurance | 1962 | 1962, Ch. 647 |
 | Ch. 32B | Group Insurance | 1956 |
 | Ch. 32B | Group Insurance | 1969 |
-| Ch. 32B | Group Insurance | 1970 | 
+| Ch. 32B | Group Insurance | 1970 |
 | Ch. 32B, § 4 (sub.B2) | Credit for time for Call Firefighter and Reserve Police Officer for Retirement | 1996 | Acts of 95
 | Ch.32B, § 7A | Group Life & Health Insurance | 1986
 | Ch.32B, § 8A | Sharing Ins. Refunds or Dividends | 1966
@@ -891,7 +891,7 @@ the acceptance of corresponding earlier laws.
 | A. of '85, Ch.188 §13 | Prof. Development Grant | 1986
 | A. of '90, Ch.291 | Enhanced 911 | 1991
 
-## ARTICLE 11 – ALTERNATIVE METHODS OF DEALING WITH MGL CHAPTERS 61, 61A, AND 61B 
+## ARTICLE 11 – ALTERNATIVE METHODS OF DEALING WITH MGL CHAPTERS 61, 61A, AND 61B
 The intent of this Bylaw is that the Town acquire MGL Chapter 61, 61A, and 61B land whenever
 possible.
 
@@ -932,7 +932,7 @@ town meeting, the Town shall vote to determine the municipal purpose, if any, fo
 is to be held by the Town and, if appropriate, whether the Conservation Commission shall mange
 such land.
 
-### SECTION 3 COOPERATING ENTITIES 
+### SECTION 3 COOPERATING ENTITIES
 Whenever the Town is given notice of the proposed sale or conversion to another use of MGL
 Chapter 61, 61A and/or 61B land, as the case may be, and, within the option period, the Town
 receives from a cooperating entity funding and/or a binding written pledge for funding equivalent
@@ -974,9 +974,9 @@ whether the Conservation Commission shall manage such land.
 The Select Board shall cause to be published in each Westborough Annual Report in a
 Section entitled "Legal Expenses" all sums expended for legal services in the conduct of the
 Town's affairs. Included in the above shall be listed all matters in litigation, law firm, and a total of
-all legal costs relative to this litigation for the past calendar year of the Annual Report. Excluded 
+all legal costs relative to this litigation for the past calendar year of the Annual Report. Excluded
 from the operation of the Bylaw shall be the legal expenses of the School Committee and legal
-expenses for the collection of taxes. (ATM 1994) 
+expenses for the collection of taxes. (ATM 1994)
 
 ## ARTICLE 13 – RESIDENCY REQUIREMENT FOR APPOINTMENT
 Any applicant for appointment to a regular Town body (such as a committee, board, commission,
@@ -1009,7 +1009,7 @@ deems necessary.
 ## ARTICLE 15 – REVOLVING FUNDS
 The Town of Westborough shall authorize the following Revolving Funds:
 
-| Revolving Fund                              | Purpose                                          | Funds to be Deposited From        | Authorized to Expend Funds     | Maximum Expenditure | 
+| Revolving Fund                              | Purpose                                          | Funds to be Deposited From        | Authorized to Expend Funds     | Maximum Expenditure |
 | :------------------------------------------ | :----------------------------------------------- | :-------------------------------- | :----------------------------- | ------------------: |
 | Fire Department                             | EMS Training                                     | Program Fees                      | Fire Chief                     | $8,000              |
 | Youth and Family Services                   | To Provide Youth Activities such as Hot Summer Nights and Babysitter training | Program Fees | Youth Commission       | $15,000             |
@@ -1227,7 +1227,7 @@ for the payment of all obligations and liabilities of the Trust and the Trustees
 shall be transferred to the Town and held by the Select Board for affordable housing purposes. In
 making any such distribution, the Trustees may, subject to the approval of the Select Board, sell all
 or any portion of the Trust property and distribute the net proceeds thereof or they may distribute any of
-the assets in kind. The powers of the Trustees shall continue until the affairs of the Trust are concluded. 
+the assets in kind. The powers of the Trustees shall continue until the affairs of the Trust are concluded.
 
 ## ARTICLE 18 – COMMUNITY DEVELOPMENT DEPARTMENT
 ### Section 1 Community Development Department and Community Development Director
@@ -1241,11 +1241,11 @@ development activities in cooperation with the Town Planner and the Planning Boa
 Community Development Director supervises the Building Commissioner, Conservation Director,
 and Economic Development Coordinator, or other such title as may be given to the heads of these
 departments, and may also perform the functions of a Building Commissioner, as set forth and
-pursuant to their respective job descriptions. 
+pursuant to their respective job descriptions.
 
 ## ARTICLE 19 – RESERVED
 
-## ARTICLE 20 – RESERVED 
+## ARTICLE 20 – RESERVED
 
 ## ACTIVITY REGULATIONS
 
@@ -1277,7 +1277,7 @@ location shall be prohibited except by permit from the Chief of Police. Said Per
 fee not inconsistent with Chapter 101 of the Massachusetts General Laws. Individuals, religious,
 charitable, or non-profit organizations and persons servicing a parade or an event sponsored by a
 Department of the Town within the Town shall be exempt from this Bylaw. A violation shall be
-$100. (See ARTICLE 31) (ATM 2010) 
+$100. (See ARTICLE 31) (ATM 2010)
 
 ## ARTICLE 24 – LICENSING OF SOLICITORS AND CANVASSERS
 For the purpose of this Bylaw, the following as used herein shall be considered to have the
@@ -1314,7 +1314,7 @@ Application for a Certificate of Registration shall be made upon a form provided
 Department of the Town. The applicant shall truthfully state in full the information requested on
 the application, to wit:
 
-* (A) Name and address of present place of residence of applicant and business address. 
+* (A) Name and address of present place of residence of applicant and business address.
 
 * (B) Name and address of the person, firm or corporation or association whom the applicant is
 employed or represents.
@@ -1354,7 +1354,7 @@ issued hereunder has previously been revoked as herein provided.
 ### SECTION 6 SEVEN (7) DAY WAITING PERIOD
 All applications for a Certificate of Registration shall be made at least seven (7) days before desire
 date of initial soliciting and the Police Chief shall approve said applications. The Select
-Board may waive this seven (7) day requirement. 
+Board may waive this seven (7) day requirement.
 
 ### SECTION 7 PERMANENT RECORD
 The Police Department shall keep a permanent record of all applicants and issuances of
@@ -1391,7 +1391,7 @@ SOLICITORS INVITED”
 Clerk's Office of the Town to persons requesting at the cost thereof.
 
 * (C) A card or sign so exhibited shall constitute sufficient notice to any solicitor of the
-determination by the occupant of the residence of the information contained thereon. 
+determination by the occupant of the residence of the information contained thereon.
 
 ### SECTION 11 DUTY OF SOLICITORS
 It shall be the duty of every solicitor upon going onto any premises in the municipality upon which
@@ -1430,7 +1430,7 @@ The Town shall provide each solicitor with a badge-size permit for solicitation 
 displayed conspicuously on the outer garment of the solicitor unless the Select Board
 otherwise waives this requirement.
 
-### SECTION 16 PENALTY 
+### SECTION 16 PENALTY
 Any person who violates this Bylaw may be arrested without a warrant in the place where the
 offense is committed pursuant to M.G.L. Chapter 272, Section 59. The penalty for such a
 violation of this Bylaw shall be a fine not to exceed Two Hundred Dollars ($200), which may be
@@ -1441,12 +1441,13 @@ Chapter 40, Section 21 of the General Laws of Massachusetts.
 ### SECTION 1 PROHIBITION IN TOWN BUILDINGS AND TOWN PROPERTY
 No person shall keep, use, consume or have in his possession any alcoholic beverage as defined
 in Chapter 138, Section 1 of the Massachusetts General Laws, in any building or structure or on
-any property owned by the Town of Westborough and used for municipal purposes.
+any property owned by the Town of Westborough and used for municipal purposes unless authorized
+by permit duly issued by the Select Board.
 
 ### SECTION 2 PROHIBITION IN PROPERTY LEASED BY THE TOWN
 No person shall consume any alcoholic beverage as defined in Section 1 in any portion of any
 structure in the Town of Westborough leased, rented, or otherwise used by said Town for
-municipal purposes.
+municipal purposes unless authorized by permit duly issued by the Select Board.
 
 ### SECTION 3 PROHIBITION IN PUBLIC WAYS
 No person shall consume any alcoholic beverage as defined in Section 1 while in or upon any
@@ -1459,13 +1460,15 @@ licensees without the permission of the owner or person in control thereof.
 
 ### SECTION 5 USE IN PUBLIC PARKS – EXCEPTIONS
 No person shall keep, use, consume, or have in his possession any alcoholic beverage as defined
-in Section 1 in any public park or playground in the Town of Westborough, except as may be
-provided in Section 4. 
+in Section 1 in any public park or playground in the Town of Westborough unless authorized
+by permit duly issued by the Select Board.
 
 ### SECTION 6 VIOLATION
-All alcoholic beverages being used in violation of this Bylaw shall be seized and safely held until
-final adjudication of the charge against the person or persons arrested or summoned before the
-court, at which time they shall be returned to the person entitled to lawful possession.
+Per police procedures, all alcoholic beverages being used in violation of this Bylaw shall be seized
+and destroyed, or processed and held until final adjudication of the charge against the person or
+persons arrested or summoned before the court, at which time they may be returned to the person
+entitled to lawful possession. The Chief of Police or designee may return any seized alcohol prior to
+final adjudication for purposes they deem reasonable.
 
 ## ARTICLE 26 – ALARM SYSTEMS
 ### SECTION 1 RULES AND REGULATIONS
@@ -1494,7 +1497,7 @@ function and not the owner or proprietor has control over the seating arrangemen
 not be construed as a public place.
 
 “Smoking” – Means the possession of a lighted tobacco product, including a cigarette, cigar, pipe,
-or any other lighted smoking equipment. 
+or any other lighted smoking equipment.
 
 ### SECTION 2 PROHIBITION
 No person shall smoke in any public place except that smoking shall be permitted in specifically
@@ -1529,7 +1532,7 @@ non-compliance.
 
 ### SECTION 6 SEVERABILITY
 If any provision of these regulations is declared invalid or unenforceable, the other provisions
-shall not be affected thereby but shall continue in full force and effect. (ATM 1985) 
+shall not be affected thereby but shall continue in full force and effect. (ATM 1985)
 
 ## ARTICLE 28 – RULES & REGULATIONS FOR LAKE CHAUNCY
 ### SECTION 1 POWERBOATS
@@ -1565,7 +1568,7 @@ the shore.
 ### SECTION 6 INDECENT ACTS
 No person shall annoy another person, or utter any profane, threatening or abusive language, or
 loud outcry except for emergency; or have possession of or drink any intoxicating liquor or do any
-obscene or indecent act on the waters of Lake Chauncy. 
+obscene or indecent act on the waters of Lake Chauncy.
 
 ### SECTION 7 POLLUTION
 No person shall throw, drop or place in the waters of Lake Chauncy or its tributaries, any waste
@@ -1604,7 +1607,7 @@ waterway.
 ### SECTION 12 BOAT RENTALS
 No person shall engage in the business of renting any type of boat(s) or canoe(s) or permit their
 premises to be used for launching or dock facilities by other than members of their family or social
-guests without the permission of the Town of Westborough. 
+guests without the permission of the Town of Westborough.
 32
 
 ### SECTION 13 SPEED
@@ -1646,7 +1649,7 @@ prohibited.
 
 * (E) Skiers should not be dropped off within 150 feet of lined buoys designating beach area
 except in life threatening emergency. The public access ramp (Oak Street) should be
-used for skiers, not the Lyman Street ramp. 
+used for skiers, not the Lyman Street ramp.
 
 ### SECTION 15 PARKING LOT LIMITATIONS
 The number of vehicles occupying the parking lot and adjoining access ramp area (Oak Street)
@@ -1681,7 +1684,7 @@ The operation of jet skis, surf jets, and wet bikes, or any other personal water
 all times. As used in this bylaw, “personal watercraft” shall mean a vessel propelled by a water jet
 pump or other machinery as its primary source of motor propulsion, which is designed to be
 operated by a person sitting, standing or kneeling on the vessel, rather than being operated in the
-conventional manner by a person sitting or standing inside the vessel. (ATM 2007) 
+conventional manner by a person sitting or standing inside the vessel. (ATM 2007)
 
 ### SECTION 21 PENALTIES
 Whoever shall violate any of the above rules and regulations shall be subject to a fine of not less
@@ -1716,7 +1719,7 @@ Use of the conservation area is limited to foot traffic only. Non-motorized bicy
 the Minuteman Park.
 
 ### SECTION 5 DISCHARGE OF FIREARMS
-Possession of firearms or discharging same is prohibited unless authorized by the Police Chief. 
+Possession of firearms or discharging same is prohibited unless authorized by the Police Chief.
 
 ### SECTION 6 TAMPERING WITH TOWN PROPERTY
 No person(s) shall tamper with or damage any gate, barrier, lock, sign, building, or other property
@@ -1793,7 +1796,7 @@ to dispose of such recyclable material in designated areas so that it may be rec
 For the purposes of this Bylaw, the term "recyclable material" shall mean: glass and metal
 containers, yard waste, paper, and any other material the Board of Health may determine can be
 recycled. The Board of Health shall have the authority to add, alter, or delete, recyclable
-materials to be separated as markets for recycled goods change. 
+materials to be separated as markets for recycled goods change.
 
 ### SECTION 3 PRIOR BYLAWS, RULES, REGULATIONS, ETC. REPEALED
 All bylaws, rules, regulations, or other documents inconsistent with the provisions of this Bylaw
@@ -1913,7 +1916,7 @@ the Wetlands Protection Act regulations at 310 CMR 10.04 and for mosquito contro
 
 The applications and permits required by this bylaw shall not be required for maintaining,
 repairing, or replacing, but not substantially changing or enlarging, an existing and lawfully
-located structure or facility used in the service of the public to provide electric, gas, water, 
+located structure or facility used in the service of the public to provide electric, gas, water,
 telephone, telegraph, or other telecommunication services, provided that written notice has been
 given to the Conservation Commission prior to commencement of work, and provided that the
 work conforms to any performance standards and design specifications in regulations adopted by
@@ -1957,7 +1960,7 @@ including engineers, wetlands scientists, wildlife biologists or other experts i
 review of proposed projects. Such funds shall be deposited with the town treasurer, who shall
 create an account specifically for this purpose. Additional consultant fees may be requested
 where the requisite review is more expensive than originally calculated or where new information
-requires additional consultant services. 
+requires additional consultant services.
 
 Only costs relating to consultant work done in connection with a project for which a consultant fee
 has been collected shall be paid from this account, and expenditures may be made at the sole
@@ -2003,7 +2006,7 @@ given at the expense of the applicant, at least five business days prior to the 
 newspaper of general circulation in the municipality. The Commission shall commence the public
 hearing within 21 days from receipt of a completed permit application, unless an extension is
 authorized in writing by the applicant. The Commission shall have authority to continue the
-hearing to a specific date announced at the hearing, for reasons stated at the hearing, which may 
+hearing to a specific date announced at the hearing, for reasons stated at the hearing, which may
 include the need for additional information from the applicant or others as deemed necessary by
 the Commission in its discretion, based on comments and recommendations of the boards and
 officials listed in §VI.
@@ -2047,7 +2050,7 @@ of this bylaw. It may also deny a permit: for failure to submit necessary inform
 requested by the Commission; for failure to comply with the procedures, design specifications,
 performance standards, and other requirements in regulations of the Commission; or for failure to
 avoid, minimize or mitigate unacceptable significant or cumulative effects upon the resource area
-values protected by this bylaw. Due consideration shall be given to any demonstrated hardship on 
+values protected by this bylaw. Due consideration shall be given to any demonstrated hardship on
 the applicant by reason of denial, as presented at the public hearing. The Commission may waive
 specifically identified and requested procedures, design specifications, performance standards,
 or other requirements set forth in its regulations, provided that: the Commission finds in writing
@@ -2094,7 +2097,7 @@ importance of the habitat area considering (but not limited to) such factors as 
 areas suitable for wildlife, importance of wildlife “corridors” in the area, or actual or possible
 presence of rare plant or animal species in the area. The work shall be performed by an individual
 who at least meets the qualifications set out in the wildlife habitat Section of the Wetlands
-Protection Act regulations (310 CMR 10.60). 
+Protection Act regulations (310 CMR 10.60).
 
 The Commission shall presume that all areas meeting the definition of “vernal pools” under §IX of
 this bylaw, including the adjacent area, perform essential habitat functions. This presumption may
@@ -2184,7 +2187,7 @@ under this bylaw.
 
 The term “person” shall include any individual, group of individuals, association, partnership,
 corporation, company, business organization, trust, estate, the Commonwealth or political
-subdivision thereof to the extent subject to town bylaws, administrative agency, public or 
+subdivision thereof to the extent subject to town bylaws, administrative agency, public or
 quasi-public corporation or body, this municipality, and any other legal entity, its legal
 representatives, agents, or assigns.
 
@@ -2227,7 +2230,7 @@ the benefit of this municipality whereby the permit conditions shall be performe
 observed before any lot may be conveyed other than by mortgage deed. This method
 shall be used only with the consent of the applicant.
 
-### SECTION 11 ENFORCEMENT 
+### SECTION 11 ENFORCEMENT
 No person shall remove, fill, dredge, build upon, degrade, or otherwise alter resource areas
 protected by this bylaw, or cause, suffer, or allow such activity, or leave in place unauthorized fill,
 or otherwise fail to restore illegally altered land to its original condition, or fail to comply with a
@@ -2353,7 +2356,7 @@ which may be limited to responding to citizen reports, incorporating the process
 duties as appropriate.
 
 Any grocery or retail store distributing plastic checkout bags in violation of this bylaw shall be
-subject to a noncriminal disposition fine as specified in Article 31 of the General Bylaws, 
+subject to a noncriminal disposition fine as specified in Article 31 of the General Bylaws,
 
 Noncriminal Disposition of Certain Violations of Bylaws and Rules and Regulations. Any such
 fines shall be paid to the Town of Westborough. No licenses shall be renewed for any
@@ -2385,7 +2388,7 @@ the Town Clerk. The Animal Control Officer and/or his assistants are not require
 resident of the Town.
 
 For purposes of this Bylaw and M.G.L. c. 140, §157, the Select Board shall be the Hearing
-Authority. 
+Authority.
 
 ### SECTION 2 DEFINITIONS
 Where not expressly defined herein, terms used in this Bylaw shall be interpreted as defined in
@@ -2420,7 +2423,7 @@ livestock, a domestic animal or a person, but such threat or attack was not a gr
 disproportionate reaction under all the circumstances.
 
 * (G) “Owner or Keeper” – Shall mean any person or persons, firm, association or corporation
-owning, keeping or harboring a dog. 
+owning, keeping or harboring a dog.
 
 * (H) “Restrain” – To limit, restrict and keep in control by means of a leash, collar, or harness,
 or by confinement within a building or a fenced barrier from which the dog cannot
@@ -2512,7 +2515,7 @@ No person shall permit any dog, licensed or unlicensed, on any public property w
 including but not limited-to public ways, recreation areas, parks, public water supply properties
 and cemeteries, unless the dog is properly restrained. Notwithstanding the foregoing, dogs
 need not be restrained on those public lands as specifically identified and voted by the Select
-Board. A dog is under restraint for purposes of this Bylaw if it is accompanied by its owner 
+Board. A dog is under restraint for purposes of this Bylaw if it is accompanied by its owner
 or other person responsible for the dog, who is in full control of such dog through use of a leash
 or functioning electronic collar while in range and in sight of the owner or keeper.
 
@@ -2554,7 +2557,7 @@ working purposes as long as said dogs are properly restrained.
 In addition to the remedy of impoundment as set forth herein, this Bylaw may be enforced by the
 Animal Control Officer or any police officer of the Town through any means available in law or
 equity, including but not limited to criminal indictment in accordance with M.G.L. c.40, §21, and
-noncriminal disposition in accordance with M.G.L. c. 40, §21D. 
+noncriminal disposition in accordance with M.G.L. c. 40, §21D.
 
 ### SECTION 7 DISPOSITION OF FUNDS
 Any funds collected pursuant to the provisions of M.G.L. c.140 and this Bylaw relating to dogs
@@ -2596,7 +2599,7 @@ and/or eliminate a nuisance, as provided in M.G.L. c.140, §157, as may be amend
 from time-to-time.
 
 * (F) Nothing in this By-law is intended to limit or restrict the authority of the Select
-Board to act in accordance with M.G.L. c. 140, §157, as may be amended from 
+Board to act in accordance with M.G.L. c. 140, §157, as may be amended from
 time-to-time.
 
 ### SECTION 9 CATS
@@ -2631,7 +2634,7 @@ captured, euthanized, and tested for rabies, provided that said animal has bitte
 scratched a person or domestic animal in the preceding fourteen (14) days and further,
 provided that the Animal Control Officer determines that all reasonable efforts have
 been made to locate the owner and/or keeper and there are no reasonable alternatives
-to such action. The Animal Inspector shall be notified of such cases. 
+to such action. The Animal Inspector shall be notified of such cases.
 
 ### SECTION 10 KENNELS
 * (A) Any resident or business that maintains more than three (3) dogs that are six (6) months
@@ -2744,7 +2747,7 @@ weather tight and secure.
 
 * E. Density Requirements.
  1. Minimum space requirements for chickens:
- 
+
      | Total chickens                | 6         | 12         | 18         | 24         | 36         | 50         |
      | :---------------------------- | :-------- | :--------- | :--------- | :--------- | :--------- | :--------- |
      | Interior floor space minimum  | 9 sq.ft.  | 18 sq.ft.  | 27 sq.ft.  | 36 sq.ft.  | 54 sq.ft.  | 75 sq.ft.  |
@@ -2822,9 +2825,7 @@ provisions of this regulation shall be subject to penalties as follows:
 
      Second Offense – one hundred dollars ($100.00)
 
-     Third Offense - three hundred dollars ($300.00)
-
-     Fourth and Further Offenses - five hundred dollars ($500.00)
+     Third and Further Offenses - three hundred dollars ($300.00)
 
      Each week shall constitute a separate offense. If more than one, each condition
 violated shall constitute a separate offense.
@@ -2874,7 +2875,7 @@ No person, except by written permission of the land owner, shall be allowed to h
 public or private property within the limits of the Town, except by use of bow and arrow during
 deer hunting season on public property as allowed by statute.
 
-### SECTION 2 WRITTEN PERMISSION REQUIRED 
+### SECTION 2 WRITTEN PERMISSION REQUIRED
 Written permission obtained in compliance with Section 1 above shall, at all times while hunting or
 shooting, be in the possession of the person to whom it was issued. (ATM 1983)
 
@@ -2923,7 +2924,7 @@ driveway approval provided, however, strict compliance with the requirements of 
 Bylaw may be waived when, in the judgment of the Planning Board, such action is in the
 public interest and not inconsistent with the purpose of this Bylaw. In waiving strict
 compliance, the Planning Board may require such alternative conditions as will serve
-substantially the same objective as the standards waived. (ATM/STM 1997) 
+substantially the same objective as the standards waived. (ATM/STM 1997)
 
 ### SECTION 2 PROHIBITED ACTIVITIES IN PUBLIC WAYS
 No person shall throw stones, snowballs, sticks or other missiles, or kick football or play any game
@@ -2958,7 +2959,7 @@ The Board of Assessors may also assign numbers to any building on any street in 
 No dances shall be held within the Town of Westborough in those buildings specifically
 constructed and operated as dance halls unless licensed by the Select Board.
 
-### SECTION 14 LITTERING PROHIBITED 
+### SECTION 14 LITTERING PROHIBITED
 No person shall place on or in or throw into a public way, the sidewalk of a public way or a public
 alley, filth, rubbish or other substance, including but not limited to cans, bottles, and other liquid
 containers. No person shall displace snow, leaves, brush, or discharge water from privately
@@ -2994,7 +2995,7 @@ any lot or lots shall be kept apart from other funds of the Town and shall be de
 Cemetery Perpetual Care Fund, and shall be invested by the Treasurer in such securities as are
 legal investments for savings banks in the commonwealth, and the interest, or such part as is
 deemed necessary by the Department of Director of the Department of Public Works, shall be
-expended annually for the care of the lot or lots. 
+expended annually for the care of the lot or lots.
 
 ### SECTION 4 REGULATIONS
 The Department of Director of the Department of Public Works shall have power to make from
@@ -3035,7 +3036,7 @@ an amount equal to eighty per cent (80%) of the cost of said extension refunded 
 shall not be required to furnish surety or to make any further payment to the Town.
 
 The provisions of Sections 1 and 2 of this Bylaw shall apply only to water mains installed on
-accepted streets or parts thereof that were accepted as Town ways prior to May 1, 1954. 
+accepted streets or parts thereof that were accepted as Town ways prior to May 1, 1954.
 
 ### SECTION 3 CONNECTION PAYMENT
 Upon vote of the Town to construct a water main in accordance with Section 1, the Department of
@@ -3073,7 +3074,7 @@ Town water system shall conform to Section 4 of this Bylaw and such rules and re
 Department of Director of the Department of Public Works than may apply to such installations.
 
 Approved water mains shall be installed on private or unaccepted streets, where Town water
-service is available, before that street may be accepted by the Town as a public way. 
+service is available, before that street may be accepted by the Town as a public way.
 
 ## ARTICLE 49 – TERMINATION OF WATER SERVICES
 ### SECTION 1 TERMINATION
@@ -3113,7 +3114,7 @@ shall be restored by the Town as soon as practicable.
 ### SECTION 3 NOTICE OF HEARING
 Such notice of termination shall be sent by the Town through its Collector of Taxes and such
 notice shall state the amount outstanding and the right of the person receiving such notice to
-request a hearing before the Select Board as provided in Section 4. 
+request a hearing before the Select Board as provided in Section 4.
 
 ### SECTION 4 APPEAL TO SELECT BOARD
 Within thirty (30) days of receipt of the termination notice sent by the Collector of Taxes, the
@@ -3151,7 +3152,7 @@ provisions, or conditions imposed by the Town or by the Department of Environmen
 entity.
 
 “State of Water Supply Emergency” – Shall mean a State of Water Supply Emergency declared
-by the Department of Environmental Protection under MGL Chapter 21G, Section 15-17. 
+by the Department of Environmental Protection under MGL Chapter 21G, Section 15-17.
 
 “State of Water Supply Conservation” – Shall mean a State of Water Supply Conservation
 declared by the Town pursuant to Section 4 of this Bylaw.
@@ -3191,7 +3192,7 @@ public notice thereof.
 Notification of any provision, restriction, requirement, or condition imposed by the Town as part of
 a State of Water Supply Conservation shall be published in a newspaper of general circulation
 within the Town or by such other means reasonably calculated to reach and inform all users of
-water of the State of Water Supply Conservation. Any restriction imposed under Section 5 shall 
+water of the State of Water Supply Conservation. Any restriction imposed under Section 5 shall
 not be effective until such notification is provided. Notification of the State of Water Supply
 Conservation shall also be simultaneously provided to the Massachusetts Department of
 Environmental Protection.
@@ -3222,7 +3223,7 @@ Supply Emergency declared by the Department of Environmental Protection.
 
 ### SECTION 10 SEVERABILITY
 The invalidity of any portion or provision of this Bylaw shall not invalidate any other portion or
-provision thereof. (ATM 1998) 
+provision thereof. (ATM 1998)
 
 ## ARTICLE 52 – SEWER REGULATIONS
 ### SECTION 1 COLLECTION SYSTEM RULES AND REGULATIONS
@@ -3253,7 +3254,7 @@ promulgated under Sec. 2 of this Bylaw. (ATM 1987)
 Bathroom fixtures, showers, sinks, tubs or washing machines installed in basements or lower
 building level that may be below the hydraulic grade line of the existing street sewers are installed
 at the building owner’s risk. The Town will not assume any responsibility for back-ups or flooding
-of fixtures or basements as a result of installation of these fixtures. 
+of fixtures or basements as a result of installation of these fixtures.
 
 ## ARTICLE 53 – SEWER COST APPORTIONMENT
 ### SECTION 1 PURPOSE
@@ -3291,7 +3292,7 @@ per unit.
 For the purpose of this Bylaw, the number of units to be assessed on each such connection shall
 be as follows:
 
-* (A) Residential: 
+* (A) Residential:
  1. Each single family building connected directly to the Town sewer system shall be
 assessed as one unit.
 
@@ -3335,7 +3336,7 @@ floors) has previously been connected to the Town sewer system and the use of
 the facility changes then the per unit fee assessed will be the difference between
 the fee required under the new use minus the fee required under the original use.
 For properties that had paid a fee under the prior Bylaw (prior to March 17, 2012),
-the difference shall be the fee required by the new use minus the fee previously 
+the difference shall be the fee required by the new use minus the fee previously
 paid. For properties of less than 3,000 square feet, there will be no additional
 sewer connection fee required.
 
@@ -3412,7 +3413,7 @@ downstream which would be borne by abutters, townspeople and the general public.
 quality, force, direction, timing or location of runoff flowing from the area. Such changes include:
 change from distributed runoff to confined, discrete discharge, change in the volume of runoff
 from the area; change in the peak rate of runoff from the area; and change in the recharge to
-groundwater on the area. 
+groundwater on the area.
 
 “Best Management Practice or BMP” – A structural, nonstructural, or vegetative measure which
 reduces erosion, sediment, peak storm discharge, and/or improves the quality of stormwater
@@ -3459,7 +3460,7 @@ Environmental Protection, and as amended, that coordinates the requirements pres
 state regulations promulgated under the authority of the Massachusetts Wetlands Protection Act
 G.L. Ch. 131 § 40 and Massachusetts Clean Waters Act G.L. Ch. 21, §. 23-56. The Policy
 addresses stormwater impacts through implementation of performance standards to reduce or
-prevent pollutants from reaching water bodies and control the quantity of runoff from a site. 
+prevent pollutants from reaching water bodies and control the quantity of runoff from a site.
 
 “Municipal Separate Storm Sewer System (MS4) or Municipal Storm Drain System” – The system
 of conveyances designed or used for collecting or conveying stormwater, including any road with
@@ -3506,7 +3507,7 @@ within any proposed subdivision or as depicted on a site plan.
 “Redevelopment” – Development, rehabilitation, expansion, demolition or phased projects that
 disturb the ground surface or increase the impervious area on previously developed sites.
 
-“Runoff” – Rainfall, snowmelt, or irrigation water flowing over the ground surface. 
+“Runoff” – Rainfall, snowmelt, or irrigation water flowing over the ground surface.
 
 “Sediment” – Solid material, whether mineral or organic, that is in suspension, is transported or
 has been moved from its site of origin by erosion.
@@ -3552,7 +3553,7 @@ activities;
  2. Implement measures to prevent the offsite discharge of sediment;
 
  3. Construction materials (paints, glue, thinners, etc.) shall be managed so as not to
-pollute stormwater. Containers/materials shall be stored and disposed of properly; 
+pollute stormwater. Containers/materials shall be stored and disposed of properly;
 75
 
  4. Implement other stormwater management measures at the direction of the DPW;
@@ -3655,7 +3656,7 @@ Services soil survey and available site soil samples
  14. A construction details sheet showing notes specifying materials to be used and
 construction specifications
 
-* (C) Site and activity description including: 
+* (C) Site and activity description including:
  1. Location
  2. Existing conditions
  3. Proposed conditions
@@ -3698,7 +3699,7 @@ grant or deny waiver shall be in writing and shall set forth the reasons for the
 
 ### SECTION 5 DESIGN STANDARDS
 The following standards shall be applied in planning for stormwater management and erosion
-control: 
+control:
 
 * (A) All measures in the plan shall meet, at a minimum, the Best Management Practices as set
 forth in the Stormwater Management handbook.
@@ -3746,7 +3747,7 @@ hay/mulch or soil netting shall be applied immediately upon removal of temporary
 measures and inspected weekly until stabilization is complete. Trapped sediment and
 other disturbed soil areas resulting from the removal of temporary measures shall be
 permanently stabilized within thirty days unless adverse weather conditions delay
-stabilization. 
+stabilization.
 
 ### SECTION 6 RESPONSIBILITY FOR INSTALLATION AND CONSTRUCTION
 * (A) The applicant shall have the responsibility to install, construct, inspect and dispose of all
@@ -3788,7 +3789,7 @@ control plans.
 * (B) The DPW, Conservation Commission, or its agent may require routine inspections to
 determine compliance with conditions of the permit and to ascertain if the owner is
 maintaining water quality protection measures. The DPW, Conservation Commission, or
-its agent shall notify the landowner before such inspections and shall attempt to arrange 
+its agent shall notify the landowner before such inspections and shall attempt to arrange
 for inspections at reasonable times for the landowner. The application for permit and
 acceptance of the permit shall be deemed to be consent for such inspections.
 
@@ -3832,7 +3833,7 @@ Commission, or its agent and shall be an ongoing requirement. The O&M Plan shall
 
 * (A) The name(s) of the owner(s) for all components of the system
 
-* (B) Maintenance agreements that specify: 
+* (B) Maintenance agreements that specify:
  1. The names and addresses of the person(s) responsible for operation and
 maintenance.
 
@@ -3878,7 +3879,7 @@ operational responsibility.
 
 ### SECTION 10 ENFORCEMENT, VIOLATIONS AND PENALTIES
 * (A) The DPW, Conservation Commission, or its agent shall be responsible for enforcing the
-provisions of this chapter. To this end, they shall have the authority to seek any or all of the 
+provisions of this chapter. To this end, they shall have the authority to seek any or all of the
 following remedies to enforce this chapter, its regulations and/or the terms and conditions
 of its permit:
 
@@ -3929,7 +3930,7 @@ become due.
 * (B) The DPW, Conservation Commission, or its agent may issue a written notice of violation to
 any person whom it determined is in violation of any of the requirements of this chapter,
 the regulations enacted by the Enforcing Agent or a permit and plan approved under this
-chapter. The notice of violation shall: 
+chapter. The notice of violation shall:
 
  1. Specify the actions, conditions or omissions which create the violation;
  2. Identify the necessary corrective actions;
@@ -3970,7 +3971,7 @@ system (MS4);
 discharges;
 
  5. And to establish the legal authority to ensure compliance with the provisions of this
-bylaw through inspection, monitoring, and enforcement. 
+bylaw through inspection, monitoring, and enforcement.
 
 ### SECTION 2 DEFINITIONS
 For the purposes of this bylaw, the following shall mean:
@@ -4015,7 +4016,7 @@ Westborough.
 
 “National Pollutant Discharge Elimination System (NPDES) Storm Water Discharge Permit” – A
 permit issued by United States Environmental Protection Agency or jointly with the State that
-authorizes the discharge of pollutants to waters of the United States. 
+authorizes the discharge of pollutants to waters of the United States.
 
 “Non–Stormwater Discharge” – Discharge to the municipal storm drain system not composed
 entirely of stormwater.
@@ -4074,7 +4075,7 @@ a present or potential threat to human health, safety, welfare, or to the enviro
 hazardous materials include without limitation any synthetic organic chemical, petroleum product,
 heavy metal, radioactive or infectious waste, acid and alkali, and any substance defined as Toxic
 or Hazardous under G.L. Ch.21C and Ch.21E, and the regulations at 310 CMR 30.000 and 310
-CMR 40.0000. 
+CMR 40.0000.
 
 “Watercourse” – A natural or man-made channel through which water flows or a stream of water,
 including a river, brook or underground stream.
@@ -4113,7 +4114,7 @@ waters of the Commonwealth or the United States.
 
 Illicit Connections – No person shall construct, use, allow, maintain or continue any illicit
 connection to the municipal storm drain system, regardless of whether the connection was
-permissible under applicable law, regulation or custom at the time of connection. 
+permissible under applicable law, regulation or custom at the time of connection.
 
 Obstruction of Municipal Storm Drain System – No person shall obstruct or interfere with the
 normal flow of stormwater into or out of the municipal storm drain system without prior written
@@ -4168,7 +4169,7 @@ regulations; and
 
  15. Discharge for which advanced written approval is received from the DPW Manager
 or its agent as necessary to protect public health, safety, welfare or the
-environment. 
+environment.
 
 ### SECTION 9 EMERGENCY SUSPENSION OF STORM DRAINAGE SYSTEM ACCESS
 The DPW Manager or its agent may suspend municipal storm drain system access to any person
@@ -4210,7 +4211,7 @@ in connection therewith.
 
 If the enforcing person determines that abatement or remediation of contamination is required,
 the order shall set forth a deadline by which such abatement or remediation must be completed.
-Said order shall further advise that, should the violator or property owner fail to abate or perform 
+Said order shall further advise that, should the violator or property owner fail to abate or perform
 remediation within the specified deadline, the Town of Westborough may, at its option, undertake
 such work, and expenses thereof shall be charged to the violator.
 
@@ -4252,7 +4253,7 @@ remedies available under any applicable federal, state or local law.
 The provisions of this bylaw are hereby declared to be severable. If any provision, paragraph,
 sentence, or clause, of this bylaw or the application thereof to any person, establishment, or
 circumstances shall be held invalid, such invalidity shall not affect the other provisions or
-application of this bylaw. 
+application of this bylaw.
 
 ### SECTION 13 TRANSITIONAL PROVISIONS
 Residential property owners shall have 30 days from the effective date of the bylaw to comply with
@@ -4294,7 +4295,7 @@ conservation and planting of shade trees.
 especially in the Downtown District, in anticipation of tree removal.
 
 * (G) These rules and procedures shall not take precedence over any General Laws.
-(STM2009) 
+(STM2009)
 
 ## ARTICLE 57 – RESERVED
 
@@ -4324,7 +4325,7 @@ The Inspector of Buildings may also act as the Zoning Enforcement Officer.
 
 ### SECTION 3 COMPENSATION
 The Inspectors shall receive such compensation as the Town vote under the Salary and Wage
-Administration Plan. 
+Administration Plan.
 
 ### SECTION 4 FEES
 Fees for Inspections and/or permits issued by the Department shall be determined from time to
@@ -4362,7 +4363,7 @@ shall comply with 780 CMR 115.AA, as indicated.
 ***
 The Stretch Code, as codified by the Board of Building Regulations and Standards as 780 CMR
 Appendix 115.AA, including any future editions, amendments or modifications, is herein
-incorporated by reference into the Town of Westborough General Bylaws, Article 63. 
+incorporated by reference into the Town of Westborough General Bylaws, Article 63.
 
 The Stretch Code is enforceable by the inspector of buildings or building commissioner and
 effective as of January 1, 2019.
@@ -4397,7 +4398,7 @@ Historic District.
 
 * (B) Any Building researched and found by the Commission to be historically significant, or
 architecturally significant in terms of construction, or association with a famous architect or
-builder. 
+builder.
 
 ### SECTION 3 PROCEDURE
 * (A) Within seven (7) days of receipt of an application for a demolition permit for a structure
@@ -4437,7 +4438,7 @@ adjacent properties.
 
 ### SECTION 4 EMERGENCY DEMOLITION.
 Nothing in this Bylaw shall restrict the Building Commissioner from immediately ordering the
-demolition of any building in the event of an imminent danger to the safety of the public. 
+demolition of any building in the event of an imminent danger to the safety of the public.
 
 ### SECTION 5 ENFORCEMENT AND REMEDIES
 * (A) The Building Commissioner and/or the commission are authorized to institute any and all
@@ -4472,7 +4473,7 @@ The Disability Affairs Committee is directed to monitor compliance with this Byl
 directed to report at each Annual Town Meeting regarding compliance and recommended
 changes in this Bylaw, if indicated. (ATM 1991)
 
-## ARTICLE 66 – CONSTRUCTION ACTIVITY 
+## ARTICLE 66 – CONSTRUCTION ACTIVITY
 ### SECTION 1 DAY AND TIME LIMITS
 In residential areas or in areas adjacent to residential areas of the Town, construction operations
 shall only be allowed six (6) days per week, Monday through Saturday (excluding State and
@@ -4507,7 +4508,7 @@ not cause or contribute to its release. Agreements must specify the details agre
 payment of any outstanding obligations, including the amount owed, rate of interest to accrue, if
 any, amount of monthly payments, payment schedule, late penalties and other terms. These
 obligations may consist of outstanding real estate taxes or other financing packages negotiated
-with the Town. 
+with the Town.
 
 Agreements must be signed by the Select Board and property owner and must be
 notarized and attested to by the Town Clerk. Copies must be provided to the Massachusetts
