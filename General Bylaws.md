@@ -189,7 +189,7 @@ __2021 Special Town Meeting__
      * Section 13 Appeals .............................................................................................................. 47
      * Section 14 Relation to the Wetlands Protection Act ............................................................ 48
      * Section 15 Severability ........................................................................................................ 48
-* [__ARTICLE 33 – Plastic Bag Reduction__](#article-33--plastic-bag-reduction) ..................................................................................... 48
+* [__ARTICLE 33 – Plastic Reduction__](#article-33--plastic-bag-reduction) ..................................................................................... 48
      * Section 1 Purpose and Intent ............................................................................................... 48
      * Section 2 Definitions ............................................................................................................. 48
      * Section 3 Use Regulations ................................................................................................... 49
@@ -1834,7 +1834,7 @@ removed.
 * (C) Town Bylaws
  * Article 23 – Hawkers and Peddlers: A violation shall be $100.
 
- * Article 33 Violation of the Plastic Bag Reduction Bylaw – first offense – written warning;
+ * Article 33 Violation of the Plastic Reduction Bylaw – first offense – written warning;
 2nd offense $50; 3rd and subsequent offenses - $100 per offense.
 
  * Article 52, Section 4 – Sewer Regulations: A violation shall be a maximum of $5,000.00.
@@ -2289,17 +2289,17 @@ The invalidity of any Section or provision of this bylaw shall not invalidate an
 provision thereof, nor shall it invalidate any permit, approval or determination which previously
 has been issued. (ATM 2008)
 
-## ARTICLE 33 – PLASTIC BAG REDUCTION
-This bylaw shall be known as the Plastic Bag Reduction Bylaw.
+## ARTICLE 33 – PLASTIC REDUCTION
+This bylaw shall be known as the Plastic Reduction Bylaw.
 
 ### SECTION 1 PURPOSE AND INTENT
-The production and use of thin-film single-use plastic checkout bags have significant impacts on
+The production and use of single-use plastics have significant impacts on
 the environment, including, but not limited to contributing to the potential death of aquatic and land
 animals through ingestion and entanglement; contributing to pollution of the natural environment;
 creating a burden to solid waste collection and recycling facilities; clogging storm drainage
 systems; and requiring the use of millions of barrels of crude oil nationally for their manufacture.
 The purpose of this bylaw is to protect the Town’s unique natural beauty and its water and natural
-resources by eliminating single-use plastic checkout bags that are distributed in the Town of
+resources by eliminating single-use plastics that are distributed in the Town of
 Westborough and to promote the use of reusable bags.
 
 ### SECTION 2 DEFINITIONS
@@ -2314,6 +2314,12 @@ typically also offers home care and personal care products.
 “Retail Store” – means any business facility that sells goods directly to the consumer whether for
 or not for profit, including, but not limited to, retail stores, restaurants, pharmacies, convenience
 and grocery stores, liquor stores, seasonal and temporary businesses.
+
+“Restaurant” – an entity that prepares and sells food directly to consumers for immediate
+consumption, as defined by Food and Drugs Administration<sup>1</sup>.
+
+“Biodegradable” – toxin free and capable of being decomposed by bacteria or other living
+organisms.
 
 “Reusable checkout bag” – means a bag with handles that is specifically designed and
 manufactured for multiple reuse and is either polyester, polypropylene, cotton or other durable
@@ -2333,7 +2339,7 @@ post-consumer recycled content” in a visible manner on the outside of the bag.
 * (A) Thin-film single-use plastic bags shall not be distributed, used, or sold for checkout or
 other purposes at any retail store or grocery store within the Town of Westborough.
 
-* (B) If a grocery or retail store provides or sells checkout bags to customers, the bags must be
+* (B) If a grocery or retail store or restaurant provides or sells checkout bags to customers, the bags must be
 one of the following (1) recyclable paper bags, or (2) reusable checkout bags. The
 grocery or retail store may charge for said bags.
 
@@ -2341,13 +2347,17 @@ grocery or retail store may charge for said bags.
 foods, wet items and other similar merchandise, typically without handles, are still
 permissible.
 
+* (D) Restaurants must use biodegradable material for dine-out services when such an
+alternative exists. Examples include, but are not limited to, takeout-container, utensils,
+and sauce containers.
+
 ### SECTION 4 EFFECTIVE DATE
 This bylaw shall take effect six (6) months following Town Meeting approval of the bylaw. Upon
 application of the owner or the owner's representative, the Select Board or their designee
-may exempt a grocery retail store from the requirements of this section for a period of up to six (6)
+may exempt a grocery, retail store, or restaurant from the requirements of this section for a period of up to six (6)
 months upon a finding by the Select Board or their designee that (1) the requirements of
-this section would cause undue hardship; or (2) a grocery or retail store requires additional time in
-order to draw down an existing inventory of checkout bags.
+this section would cause undue hardship; or (2) a grocery, restaurant, or retail store requires additional time in
+order to draw down an existing inventory.
 
 ### SECTION 5 ENFORCEMENT
 Enforcement of this bylaw shall be the responsibility of the Select Board or their designee.
@@ -2355,7 +2365,7 @@ The Select Board or their designee shall determine the monitoring process to be 
 which may be limited to responding to citizen reports, incorporating the process into other town
 duties as appropriate.
 
-Any grocery or retail store distributing plastic checkout bags in violation of this bylaw shall be
+Any grocery or retail store orr restaurant distributing plastic checkout bags in violation of this bylaw shall be
 subject to a noncriminal disposition fine as specified in Article 31 of the General Bylaws,
 
 Noncriminal Disposition of Certain Violations of Bylaws and Rules and Regulations. Any such
@@ -2365,6 +2375,10 @@ establishment with outstanding violations under this section.
 ### SECTION 6 SEVERABILITY
 If any provision of this bylaw is declared invalid or unenforceable the other provisions shall not be
 affected thereby.
+
+<sup>1</sup> **Pursuant to 21 CFR 1.328 [Title 21 – Food and Drugs; Chapter I – Food and Drug
+Administration, Department of Health and Human Services] by 21 CFR 1.328 [Title 21 –
+Food and Drugs; Chapter I.**
 
 ## ARTICLE 34 – RESERVED
 
