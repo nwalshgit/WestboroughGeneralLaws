@@ -8,11 +8,11 @@ All other rights are reserved.
 -->
 __Town of Westborough General Bylaws__
 
-![town seal](TownSeal.png)
+![town seal](TownSeal_1913.png)
 
 __As Amended__
 
-__2022 Annual Town Meeting__
+__2022 Special October Town Meeting__
 
 ## CONTENTS
 * [__ORGANIZATIONAL__](#organizational) ..................................................................................................................... 1
@@ -189,7 +189,7 @@ __2022 Annual Town Meeting__
      * Section 13 Appeals .............................................................................................................. 47
      * Section 14 Relation to the Wetlands Protection Act ............................................................ 48
      * Section 15 Severability ........................................................................................................ 48
-* [__ARTICLE 33 – Plastic Bag Reduction__](#article-33--plastic-bag-reduction) ..................................................................................... 48
+* [__ARTICLE 33 – Plastic Reduction__](#article-33--plastic-reduction) ..................................................................................... 48
      * Section 1 Purpose and Intent ............................................................................................... 48
      * Section 2 Definitions ............................................................................................................. 48
      * Section 3 Use Regulations ................................................................................................... 49
@@ -359,7 +359,7 @@ __2022 Annual Town Meeting__
 
 ## GENERAL BYLAWS
 ## ADOPTED MARCH 18, 1946
-## WITH AMENDMENTS THROUGH ANNUAL TOWN MEETING 2022
+## WITH AMENDMENTS THROUGH SPECIAL TOWN MEETING 2022 OCT
 
 # ORGANIZATIONAL
 
@@ -872,6 +872,7 @@ the acceptance of corresponding earlier laws.
 | Ch.136, § 21-25 | Games/Sports on the Lords Day | 1935
 | Ch.138, § 12B | Liquor License Establishments – Nudity | 1983
 | Ch.138, § 17A | Seasonal Alcoholic Beverages Lic. | 1985 | 1984, Ch 491
+| Ch.138, § 33b | Alcoholic Beverages Sunday Sales |  | 2022 Oct STM
 | Ch.139, § 1-2-3 | Power to Remove Dangerous Bldg. | 1964
 | Ch.140, § 147A | Dog Licensing Control & Regs. | 1986
 | Ch.143, § 3 | Permitting Bylaw for Bldg. Inspection | 1916 | RL, Ch. 104 §1
@@ -1016,7 +1017,7 @@ The Town of Westborough shall authorize the following Revolving Funds:
 | Local Emergency Planning Committee          | To address hazardous materials spills and provide the Fire Department the means to bill insurance companies and refurbish supplies used in HazMat spills | Insurance and other Proceeds for Services | Local Emergency Planning Committee | $100,000
 | Council on Aging                            | To Provide Programs for Seniors                  | Program Fees                      | Council on Aging               | $30,000             |
 | Recreation                                  | To Provide Recreation Programs                   | Program Fees                      | Recreation Commission          | $500,000            |
-| Economic Development Small Business Grant   | To Provide grant assistance for small businesses | Billboard Fees                    | Economic Development Committee | $40,000             |
+| Economic Development Small Business Grant   | To Provide grant assistance for small businesses | Billboard Fees                    | Economic Development Committee | $60,000             |
 | Town Facility Rental                        | Town Facility Maintenance                        | Rental Fees                       | DPW Director                   | $25,000             |
 | Hometown Hero Banner Program                | Hometown Hero Banner Program                     | Hometown Hero Banner Program      | Veterans Advisory Board        | $25,000             |
 
@@ -1835,7 +1836,7 @@ removed.
 * (C) Town Bylaws
  * Article 23 – Hawkers and Peddlers: A violation shall be $100.
 
- * Article 33 Violation of the Plastic Bag Reduction Bylaw – first offense – written warning;
+ * Article 33 Violation of the Plastic Reduction Bylaw – first offense – written warning;
 2nd offense $50; 3rd and subsequent offenses - $100 per offense.
 
  * Article 52, Section 4 – Sewer Regulations: A violation shall be a maximum of $5,000.00.
@@ -2290,17 +2291,17 @@ The invalidity of any Section or provision of this bylaw shall not invalidate an
 provision thereof, nor shall it invalidate any permit, approval or determination which previously
 has been issued. (ATM 2008)
 
-## ARTICLE 33 – PLASTIC BAG REDUCTION
-This bylaw shall be known as the Plastic Bag Reduction Bylaw.
+## ARTICLE 33 – PLASTIC REDUCTION
+This bylaw shall be known as the Plastic Reduction Bylaw.
 
 ### SECTION 1 PURPOSE AND INTENT
-The production and use of thin-film single-use plastic checkout bags have significant impacts on
+The production and use of single-use plastics have significant impacts on
 the environment, including, but not limited to contributing to the potential death of aquatic and land
 animals through ingestion and entanglement; contributing to pollution of the natural environment;
 creating a burden to solid waste collection and recycling facilities; clogging storm drainage
 systems; and requiring the use of millions of barrels of crude oil nationally for their manufacture.
 The purpose of this bylaw is to protect the Town’s unique natural beauty and its water and natural
-resources by eliminating single-use plastic checkout bags that are distributed in the Town of
+resources by eliminating single-use plastics that are distributed in the Town of
 Westborough and to promote the use of reusable bags.
 
 ### SECTION 2 DEFINITIONS
@@ -2344,17 +2345,18 @@ one of the following (1) recyclable paper bags, or (2) reusable checkout bags.
 foods, wet items and other similar merchandise, typically without handles, are still
 permissible.
 
-* (D) All checkout bags offered at retail and grocery stores must have a charge of at least ten
-cents. No checkout bags, whether reusable or paper, are allowed to be given out for
-free.
+* (D) Grocery stores or retail stores must use biodegradable
+material for dine-out services when such an alternative
+exists. Examples include, but are not limited to, takeout-
+container, utensils, sauce containers.
 
 ### SECTION 4 EFFECTIVE DATE
 This bylaw shall take effect six (6) months following Town Meeting approval of the bylaw. Upon
 application of the owner or the owner's representative, the Select Board or their designee
-may exempt a grocery retail store from the requirements of this section for a period of up to six (6)
+may exempt a grocery store or retail store from the requirements of this section for a period of up to six (6)
 months upon a finding by the Select Board or their designee that (1) the requirements of
 this section would cause undue hardship; or (2) a grocery or retail store requires additional time in
-order to draw down an existing inventory of checkout bags.
+order to draw down an existing inventory.
 
 ### SECTION 5 ENFORCEMENT
 Enforcement of this bylaw shall be the responsibility of the Select Board or their designee.
@@ -2362,7 +2364,7 @@ The Select Board or their designee shall determine the monitoring process to be 
 which may be limited to responding to citizen reports, incorporating the process into other town
 duties as appropriate.
 
-Any grocery or retail store distributing plastic checkout bags in violation of this bylaw shall be
+Any grocery or retail store distributing single-use plastics in violation of this bylaw shall be
 subject to a noncriminal disposition fine as specified in Article 31 of the General Bylaws,
 
 Noncriminal Disposition of Certain Violations of Bylaws and Rules and Regulations. Any such
