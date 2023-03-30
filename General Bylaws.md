@@ -12,7 +12,7 @@ __Town of Westborough General Bylaws__
 
 __As Amended__
 
-__2021 Special Town Meeting__
+__2022 Annual Town Meeting__
 
 ## CONTENTS
 * [__ORGANIZATIONAL__](#organizational) ..................................................................................................................... 1
@@ -359,7 +359,7 @@ __2021 Special Town Meeting__
 
 ## GENERAL BYLAWS
 ## ADOPTED MARCH 18, 1946
-## WITH AMENDMENTS THROUGH SPECIAL TOWN MEETING 2021
+## WITH AMENDMENTS THROUGH ANNUAL TOWN MEETING 2022
 
 # ORGANIZATIONAL
 
@@ -1018,6 +1018,7 @@ The Town of Westborough shall authorize the following Revolving Funds:
 | Recreation                                  | To Provide Recreation Programs                   | Program Fees                      | Recreation Commission          | $500,000            |
 | Economic Development Small Business Grant   | To Provide grant assistance for small businesses | Billboard Fees                    | Economic Development Committee | $40,000             |
 | Town Facility Rental                        | Town Facility Maintenance                        | Rental Fees                       | DPW Director                   | $25,000             |
+| Hometown Hero Banner Program                | Hometown Hero Banner Program                     | Hometown Hero Banner Program      | Veterans Advisory Board        | $25,000             |
 
 ## ARTICLE 16 – MARIJUANA NOT MEDICALLY PRESCRIBED
 Consistent with MGL Ch. 94G, Section 3(a)(2), all types of marijuana establishments as defined in
@@ -1232,7 +1233,7 @@ the assets in kind. The powers of the Trustees shall continue until the affairs 
 ## ARTICLE 18 – COMMUNITY DEVELOPMENT DEPARTMENT
 ### Section 1 Community Development Department and Community Development Director
 There shall be a Community Development Department, to include the functions and departments
-of the Building, Economic Development, and Conservation, to be headed by and under the
+of the Building, Economic Development, Sustainability, and Conservation, to be headed by and under the
 supervision of a Community Development Director. The office of Community Development
 Director shall be filled by appointment of the Town Manager.
 
@@ -2317,7 +2318,10 @@ and grocery stores, liquor stores, seasonal and temporary businesses.
 
 “Reusable checkout bag” – means a bag with handles that is specifically designed and
 manufactured for multiple reuse and is either polyester, polypropylene, cotton or other durable
-material, or durable plastic that is at least 4.0 Mils in thickness.
+material, or durable plastic that is 100% post-consumer material or biodegradable.
+
+“Biodegradable” – toxin free and capable of being decomposed by bacteria or other living
+organisms.
 
 “Thin-film single -use plastic bags” – are those bags typically with handles, constructed of
 high-density polyethylene (HDPE), low density polyethylene (LDPE), linear low density
@@ -2334,12 +2338,15 @@ post-consumer recycled content” in a visible manner on the outside of the bag.
 other purposes at any retail store or grocery store within the Town of Westborough.
 
 * (B) If a grocery or retail store provides or sells checkout bags to customers, the bags must be
-one of the following (1) recyclable paper bags, or (2) reusable checkout bags. The
-grocery or retail store may charge for said bags.
+one of the following (1) recyclable paper bags, or (2) reusable checkout bags.
 
 * (C) Thin-film plastic bags used to contain dry cleaning, newspapers, produce, meat, bulk
 foods, wet items and other similar merchandise, typically without handles, are still
 permissible.
+
+* (D) All checkout bags offered at retail and grocery stores must have a charge of at least ten
+cents. No checkout bags, whether reusable or paper, are allowed to be given out for
+free.
 
 ### SECTION 4 EFFECTIVE DATE
 This bylaw shall take effect six (6) months following Town Meeting approval of the bylaw. Upon
