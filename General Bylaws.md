@@ -872,6 +872,7 @@ the acceptance of corresponding earlier laws.
 | Ch.136, § 21-25 | Games/Sports on the Lords Day | 1935
 | Ch.138, § 12B | Liquor License Establishments – Nudity | 1983
 | Ch.138, § 17A | Seasonal Alcoholic Beverages Lic. | 1985 | 1984, Ch 491
+| Ch.138, § 33b | Alcoholic Beverages Sunday Sales |  | 2022 Oct STM
 | Ch.139, § 1-2-3 | Power to Remove Dangerous Bldg. | 1964
 | Ch.140, § 147A | Dog Licensing Control & Regs. | 1986
 | Ch.143, § 3 | Permitting Bylaw for Bldg. Inspection | 1916 | RL, Ch. 104 §1
