@@ -1232,7 +1232,7 @@ the assets in kind. The powers of the Trustees shall continue until the affairs 
 ## ARTICLE 18 – COMMUNITY DEVELOPMENT DEPARTMENT
 ### Section 1 Community Development Department and Community Development Director
 There shall be a Community Development Department, to include the functions and departments
-of the Building, Economic Development, and Conservation, to be headed by and under the
+of the Building, Economic Development, Sustainability, and Conservation, to be headed by and under the
 supervision of a Community Development Director. The office of Community Development
 Director shall be filled by appointment of the Town Manager.
 
