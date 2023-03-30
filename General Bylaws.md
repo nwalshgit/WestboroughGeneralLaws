@@ -2317,7 +2317,10 @@ and grocery stores, liquor stores, seasonal and temporary businesses.
 
 “Reusable checkout bag” – means a bag with handles that is specifically designed and
 manufactured for multiple reuse and is either polyester, polypropylene, cotton or other durable
-material, or durable plastic that is at least 4.0 Mils in thickness.
+material, or durable plastic that is 100% post-consumer material or biodegradable.
+
+“Biodegradable” – toxin free and capable of being decomposed by bacteria or other living
+organisms.
 
 “Thin-film single -use plastic bags” – are those bags typically with handles, constructed of
 high-density polyethylene (HDPE), low density polyethylene (LDPE), linear low density
@@ -2334,12 +2337,15 @@ post-consumer recycled content” in a visible manner on the outside of the bag.
 other purposes at any retail store or grocery store within the Town of Westborough.
 
 * (B) If a grocery or retail store provides or sells checkout bags to customers, the bags must be
-one of the following (1) recyclable paper bags, or (2) reusable checkout bags. The
-grocery or retail store may charge for said bags.
+one of the following (1) recyclable paper bags, or (2) reusable checkout bags.
 
 * (C) Thin-film plastic bags used to contain dry cleaning, newspapers, produce, meat, bulk
 foods, wet items and other similar merchandise, typically without handles, are still
 permissible.
+
+* (D) All checkout bags offered at retail and grocery stores must have a charge of at least ten
+cents. No checkout bags, whether reusable or paper, are allowed to be given out for
+free.
 
 ### SECTION 4 EFFECTIVE DATE
 This bylaw shall take effect six (6) months following Town Meeting approval of the bylaw. Upon
