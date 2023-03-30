@@ -8,7 +8,7 @@ All other rights are reserved.
 -->
 __Town of Westborough General Bylaws__
 
-![town seal](TownSeal.png)
+![town seal](TownSeal_1913_.png)
 
 __As Amended__
 
