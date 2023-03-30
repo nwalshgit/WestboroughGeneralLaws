@@ -1018,6 +1018,7 @@ The Town of Westborough shall authorize the following Revolving Funds:
 | Recreation                                  | To Provide Recreation Programs                   | Program Fees                      | Recreation Commission          | $500,000            |
 | Economic Development Small Business Grant   | To Provide grant assistance for small businesses | Billboard Fees                    | Economic Development Committee | $40,000             |
 | Town Facility Rental                        | Town Facility Maintenance                        | Rental Fees                       | DPW Director                   | $25,000             |
+| Hometown Hero Banner Program                | Hometown Hero Banner Program                     | Hometown Hero Banner Program      | Veterans Advisory Board        | $25,000             |
 
 ## ARTICLE 16 – MARIJUANA NOT MEDICALLY PRESCRIBED
 Consistent with MGL Ch. 94G, Section 3(a)(2), all types of marijuana establishments as defined in
