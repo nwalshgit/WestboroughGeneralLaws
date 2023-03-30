@@ -1017,7 +1017,7 @@ The Town of Westborough shall authorize the following Revolving Funds:
 | Local Emergency Planning Committee          | To address hazardous materials spills and provide the Fire Department the means to bill insurance companies and refurbish supplies used in HazMat spills | Insurance and other Proceeds for Services | Local Emergency Planning Committee | $100,000
 | Council on Aging                            | To Provide Programs for Seniors                  | Program Fees                      | Council on Aging               | $30,000             |
 | Recreation                                  | To Provide Recreation Programs                   | Program Fees                      | Recreation Commission          | $500,000            |
-| Economic Development Small Business Grant   | To Provide grant assistance for small businesses | Billboard Fees                    | Economic Development Committee | $40,000             |
+| Economic Development Small Business Grant   | To Provide grant assistance for small businesses | Billboard Fees                    | Economic Development Committee | $60,000             |
 | Town Facility Rental                        | Town Facility Maintenance                        | Rental Fees                       | DPW Director                   | $25,000             |
 | Hometown Hero Banner Program                | Hometown Hero Banner Program                     | Hometown Hero Banner Program      | Veterans Advisory Board        | $25,000             |
 
