@@ -249,9 +249,13 @@ Amended October 16, 2001.
 The Board of Health may enforce this regulation through periodic inspections conducted by the Board of Health or its enforcement officer(s) or designee(s). Inspections may be conducted each quarter or more frequently at the discretion of the Board of Health.
 
 ___________________ Jane Whitney Chairman
+
 ___________________ Dr. Donald Cutone Member
+
 ___________________ Donna Harris Member
+
 October 16, 2001
+
 Board of Health
+
 Westborough, Massachusetts
- 
