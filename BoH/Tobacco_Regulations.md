@@ -8,7 +8,7 @@ All other rights are reserved.
 -->
 # TOWN OF WESTBOROUGH MASSACHUSETTS
 
-<img src="TownSeal.png" alt="town seal" width="10%"/>
+<img src="../TownSeal.png" alt="town seal" width="10%"/>
 BOARD OF HEALTH 
 
 Forbes Municipal Building
