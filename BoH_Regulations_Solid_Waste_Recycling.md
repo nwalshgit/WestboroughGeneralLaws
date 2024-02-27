@@ -7,8 +7,7 @@ copyright message is kept.
 All other rights are reserved.
 -->
 # Town of Westborough Massachusetts
-
-![town seal](TownSeal_1913.png){width=10% height=10%}
+<img src="TownSeal_1913.png" alt="town seal" width="10%"/>
 
 Board of Health
 
