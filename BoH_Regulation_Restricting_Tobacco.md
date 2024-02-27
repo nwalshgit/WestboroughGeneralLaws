@@ -42,30 +42,22 @@ grade males this rate was nearly 30 percent[^7];
 Whereas cigars and cigarillos, can be sold in a single “dose”; enjoy a relatively low tax as compared to
 cigarettes; are available in fruit, candy and alcohol flavors; and are popular among youth[^8];
 
-[^1]: Center for Disease Control and Prevention, (CDC) (2012), _Health Effects of Cigarette Smoking Fact Sheet_. Retrieved from:
-http://www.cdc.gov/tobacco/data_statistics/fact_sheets/health_effects/effects_cig_smoking/index.htm.
+[^1]: Center for Disease Control and Prevention, (CDC) (2012), _Health Effects of Cigarette Smoking Fact Sheet_. Retrieved from: http://www.cdc.gov/tobacco/data_statistics/fact_sheets/health_effects/effects_cig_smoking/index.htm.
 
-[^2]: CDC (2010), _How Tobacco Smoke Causes Disease: The Biology and Behavioral Basis for Smoking-Attributable Disease_.
-Retrieved from: http://www.cdc.gov/tobacco/data_statistics/sgr/2010/.
+[^2]: CDC (2010), _How Tobacco Smoke Causes Disease: The Biology and Behavioral Basis for Smoking-Attributable Disease_. Retrieved from: http://www.cdc.gov/tobacco/data_statistics/sgr/2010/.
 
-[^3]: U.S. Department of Health and Human Services. 2014. _The Health Consequences of Smoking — 50 Years of Progress: A Report
-of the Surgeon General_. Atlanta: U.S. National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking
-and Health, p. 122. Retrieved from: http://www.surgeongeneral.gov/library/reports/50-years-of-progress/full-report.pdf.
+[^3]: U.S. Department of Health and Human Services. 2014. _The Health Consequences of Smoking — 50 Years of Progress: A Report of the Surgeon General_. Atlanta: U.S. National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking and Health, p. 122. Retrieved from: http://www.surgeongeneral.gov/library/reports/50-years-of-progress/full-report.pdf.
 
-[^4]: <ins>Id</ins>. _at_ Executive Summary p. 13. Retrieved from: http://www.surgeongeneral. gov/library/reporis/50-years-of-progress/exec-
-summary.pdf
+[^4]: <ins>Id</ins>. _at_ Executive Summary p. 13. Retrieved from: http://www.surgeongeneral. gov/library/reporis/50-years-of-progress/exec-summary.pdf
 
-[^5]: <ins>United States v. Phillip Morris, Inc., RJ Reynolds Tobacco Co., et al.</ins>, 449 F.Supp.2d 1 (D.D.C. 2006) at Par. 3301 and Pp. 1605-
-07.
+[^5]: <ins>United States v. Phillip Morris, Inc., RJ Reynolds Tobacco Co., et al.</ins>, 449 F.Supp.2d 1 (D.D.C. 2006) at Par. 3301 and Pp. 1605-07.
 
-[^6]: SAMHSA, Calculated based on data in 2011 National Survey on Drug Use and Health and U. S. Department of Health and
-Human services (HHA).
+[^6]: SAMHSA, Calculated based on data in 2011 National Survey on Drug Use and Health and U. S. Department of Health and Human services (HHA).
 
 [^7]: CDC (2013) _Youth Risk Behavior, Surveillance Summaries_ (MMWR 2014: 63 (No SS-04)). Retrieved from: www.cdc.gov.
 
 
-[^8]: CDC (2009), _Youth Risk Behavior, Surveillance Summaries_ (MMWR 2010: 59, 12, note 5). Retrieved from:
-http://www.cdc.gov/mmwr/pdf/ss/ss5905.pdf.
+[^8]: CDC (2009), _Youth Risk Behavior, Surveillance Summaries_ (MMWR 2010: 59, 12, note 5). Retrieved from: http://www.cdc.gov/mmwr/pdf/ss/ss5905.pdf.
 
 Whereas 59% of high school smokers in Massachusetts have tried flavored cigarettes or flavored cigars and
 25.6% of them are current flavored tobacco product users; 95.1 % of 12-17 year olds who smoked cigars
@@ -95,37 +87,23 @@ Whereas 5.8% of Massachusetts youth currently use e-cigarettes and 15.9% have tr
 Whereas the Massachusetts Department of Environmental Protection has classified liquid nicotine in any
 amount as an “acutely hazardous waste”:[^17]
 
-[^9]: Massachusetts Department of Public Health, 2015 Massachusetts Youth Health Survey (MYHS); Delneve CD et al., Tob
-Control, March 2014: Preference for flavored cigar brands among youth, young adults and adults in the USA.
+[^9]: Massachusetts Department of Public Health, 2015 Massachusetts Youth Health Survey (MYHS); Delneve CD et al., Tob Control, March 2014: Preference for flavored cigar brands among youth, young adults and adults in the USA.
 
 [^10]: 21 U.S.C. § 387g.
 
-[^11]: Carpenter CM, Wayne GF, Pauly JL, et al. 2005. “New Cigarette Brands with Flavors that Appeal to Youth: Tobacco Marketing
-Strategies.” _Health Affairs_. 24(6): 1601-1610; Lewis M and Wackowski O. 2006. “Dealing with an Innovative Industry: A Look at
-Flavored Cigarettes Promoted by Mainstream Brands.” _American Journal of Public Health_. 96(2): 244-251; Connolly GN. 2004.
-“Sweet and Spicy Flavours: New Brands for Minorities and Youth.” _Tobacco Control_. 13(3): 211-212; U.S. Department of Health
-and Human Services. 2012. _Preventing Tobacco Use Among Youth and Young Adults: A Report of the Surgeon General_. Atlanta:
-U.S. National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking and Health, p. 537,
-https://www.surgeongeneral gov/library/reports/preventing-youth-tobacco-use/full-report.pdf.
+[^11]: Carpenter CM, Wayne GF, Pauly JL, et al. 2005. “New Cigarette Brands with Flavors that Appeal to Youth: Tobacco Marketing Strategies.” _Health Affairs_. 24(6): 1601-1610; Lewis M and Wackowski O. 2006. “Dealing with an Innovative Industry: A Look at Flavored Cigarettes Promoted by Mainstream Brands.” _American Journal of Public Health_. 96(2): 244-251; Connolly GN. 2004. “Sweet and Spicy Flavours: New Brands for Minorities and Youth.” _Tobacco Control_. 13(3): 211-212; U.S. Department of Health and Human Services. 2012. _Preventing Tobacco Use Among Youth and Young Adults: A Report of the Surgeon General_. Atlanta: U.S. National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking and Health, p. 537, https://www.surgeongeneral gov/library/reports/preventing-youth-tobacco-use/full-report.pdf.
 
-[^12]: U.S. Department of Health and Human Services. 2012. _Preventing Tobacco Use Among Youth and Young Adults: A Report of
-the Surgeon General_. Atlanta: U.S. National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking and
-Health, p. 539, https://www.surgeongeneral.gov/librarv/reports/preventing-youth-tobacco-use/full-report.pdf.
+[^12]: U.S. Department of Health and Human Services. 2012. _Preventing Tobacco Use Among Youth and Young Adults: A Report of the Surgeon General_. Atlanta: U.S. National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking and Health, p. 539, https://www.surgeongeneral.gov/librarv/reports/preventing-youth-tobacco-use/full-report.pdf.
 
- [^13]: Food and Drug Administration. 2011. _Fact Sheet: Flavored Tobacco Products_,
-https://www.fda.gov/downloads/TobaccoProducts/ProtectingKidsfromTobacco/FlavoredTobacco/UCM183214.pdf; U.S. Department of
-Health and Human Services. 2012. _Preventing Tobacco Use Among Youth and Young Adults: A Report of the Surgeon General_.
-Atlanta: U.S. National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking and Health, p. 539,
-https://www.surgeongeneral.gov/library/reports/preventing-youth-tobacco-use/full-report.pdf.
+ [^13]: Food and Drug Administration. 2011. _Fact Sheet: Flavored Tobacco Products_, https://www.fda.gov/downloads/TobaccoProducts/ProtectingKidsfromTobacco/FlavoredTobacco/UCM183214.pdf; U.S. Department of Health and Human Services. 2012. _Preventing Tobacco Use Among Youth and Young Adults: A Report of the Surgeon General_. Atlanta: U.S. National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking and Health, p. 539, https://www.surgeongeneral.gov/library/reports/preventing-youth-tobacco-use/full-report.pdf.
 
 [^14]: _See_ fn. 3 at p. 85.
 
-[^15]: Centers for Disease Control & Prevention. 2015. “Tobacco Use Among Middle and High School Students — United States,
-2011-2014,” _Morbidity and Mortality Weekly Report (MMWR)_ 64(14): 381-385;
+[^15]: Centers for Disease Control & Prevention. 2015. “Tobacco Use Among Middle and High School Students — United States, 2011-2014,” _Morbidity and Mortality Weekly Report (MMWR)_ 64(14): 381-385;
 
 [^16]: Massachusetts Department of Public Health, 2015 Massachusetts Youth Health Survey (MYHS)
-[^17]: 310 CMR 30.136
 
+[^17]: 310 CMR 30.136
 
 Whereas in a lab analysis conducted by the FDA, electronic cigarette cartridges that were labeled as
 containing no nicotine actually had low levels of nicotine present in all cartridges tested, except for one[^18];
@@ -169,15 +147,11 @@ fillers regardless of any content.
 Business Agent: An individual who has been designated by the owner or operator of any establishment to be
 the manager or otherwise in charge of said establishment.
 
-[^18]: Food and Drug Administration, _Summary of Results: Laboratory Analysis of Electronic Cigarettes Conducted by FDA_, available
-at: http://www.fda.gov/newsevents/publichealthfocus/ucm173146.htm.
+[^18]: Food and Drug Administration, _Summary of Results: Laboratory Analysis of Electronic Cigarettes Conducted by FDA_, available at: http://www.fda.gov/newsevents/publichealthfocus/ucm173146.htm.
 
-[^19] King BA, Tynan MA, Dube SR, et al. 2013. “Flavored-Little-Cigar and Flavored-Cigarette Use Among U.S. Middle and High
-School Students.” _Journal of Adolescent Health_. \[Article in press\], https://www.jahonline.org/article/S1054-139X%2813%2900415-
-1/abstract.
+[^19]: King BA, Tynan MA, Dube SR, et al. 2013. “Flavored-Little-Cigar and Flavored-Cigarette Use Among U.S. Middle and High School Students.” _Journal of Adolescent Health_. \[Article in press\], https://www.jahonline.org/article/S1054-139X%2813%2900415-1/abstract.
 
 [^20]: <ins>Druzik et al v. Board of Health of Haverhill</ins>, 324 Mass.129 (1949).
-
 
 Characterizing flavor: A distinguishable taste or aroma, other than the taste or aroma of tobacco, menthol,
 mint or wintergreen, imparted or detectable either prior to or during consumption of a tobacco product or
