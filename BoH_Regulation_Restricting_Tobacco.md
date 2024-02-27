@@ -1,7 +1,16 @@
+<!--
+Copyright Nathan Walsh 2023
+Initial conversion began March 26, 2023
+Permission is given to the Town of Westborough to use this to generate printed or electronic
+copies of the Bylaws and to correct or add information to this repositiory as long as this
+copyright message is kept.
+All other rights are reserved.
+-->
 TOWN OF WESTBOROUGH
 
 MASSACHUSETTS
 
+<img src="TownSeal.png" alt="town seal" width="10%"/>
 BOARD OF HEALTH 
 
 TOWN HALL
@@ -14,8 +23,7 @@ TEL. (508) 366-3045
 
 FAX (508) 366-3047
 
-Regulation of the Westborough Board of Health
-Restricting the Sale of Tobacco Products
+# Regulation of the Westborough Board of Health Restricting the Sale of Tobacco Products
 
 A. __Statement of Purpose__:
 
