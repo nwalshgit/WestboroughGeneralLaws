@@ -1,20 +1,23 @@
 TOWN OF WESTBOROUGH
+
 MASSACHUSETTS
 
- 
-
 BOARD OF HEALTH 
+
 TOWN HALL
+
 34 WEST MAIN STREET
+
 WESTBOROUGH, MA 01581-1916
 
 TEL. (508) 366-3045
+
 FAX (508) 366-3047
 
 Regulation of the Westborough Board of Health
 Restricting the Sale of Tobacco Products
 
-A. _Statement of Purpose_:
+A. __Statement of Purpose__:
 
 Whereas there exists conclusive evidence that tobacco smoking causes cancer, respiratory and cardiac
 diseases, negative birth outcomes, irritations to the eyes, nose and throat[^1];
@@ -32,100 +35,103 @@ smokers they need to survive” and that these companies were likely to continue
 Whereas more than 80 percent of all adult smokers begin smoking before the age of 18, more than 90 percent
 do so before leaving their teens, and more than 3.5 million middle and high school students smoke[^6];
 
-Whereas 18.1 percent of current smokers aged <18 years reported that they usually directly purchased their
-cigarettes from stores (i.e. convenience store, supermarket, or discount store) or gas stations, and among 11^th^
+Whereas 18.1 percent of current smokers aged <18 years reported that they _usually_ directly purchased their
+cigarettes from stores (i.e. convenience store, supermarket, or discount store) or gas stations, and among 11<sup>th</sup>
 grade males this rate was nearly 30 percent[^7];
 
 Whereas cigars and cigarillos, can be sold in a single “dose”; enjoy a relatively low tax as compared to
 cigarettes; are available in fruit, candy and alcohol flavors; and are popular among youth[^8];
 
-[^1]: Center for Disease Control and Prevention, (CDC) (2012), Health Effects of Cigarette Smoking Fact Sheet. Retrieved from:
-http://www.cdc.gov/iobacco/data_statistice/fact_sheets/heaith_effecis/effects_cig_smoking/index. htm.
+[^1]: Center for Disease Control and Prevention, (CDC) (2012), _Health Effects of Cigarette Smoking Fact Sheet_. Retrieved from:
+http://www.cdc.gov/tobacco/data_statistics/fact_sheets/health_effects/effects_cig_smoking/index.htm.
 
-[^2]: CDC (2010), Haw Tobacco Smoke Causes Disease: The Biology and Behavioral Basis for Smoking-Attributable Disease.
+[^2]: CDC (2010), _How Tobacco Smoke Causes Disease: The Biology and Behavioral Basis for Smoking-Attributable Disease_.
 Retrieved from: http://www.cdc.gov/tobacco/data_statistics/sgr/2010/.
 
-[^3]: U.S. Department of Health and Human Services. 2014. The Health Consequences of Smoking — 50 Years of Progress: A Report
-of the Surgeon General. Atlanta: U.S. National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking
-and Health, p. 122. Retrieved from: http://www.surgeongeneral.gov/library/ reports/ 50-years-of-progress/full-report.pdf.
+[^3]: U.S. Department of Health and Human Services. 2014. _The Health Consequences of Smoking — 50 Years of Progress: A Report
+of the Surgeon General_. Atlanta: U.S. National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking
+and Health, p. 122. Retrieved from: http://www.surgeongeneral.gov/library/reports/50-years-of-progress/full-report.pdf.
 
-[^4]: Id. at Executive Summary p. 13. Retrieved from: http://www.surgeongeneral. gov/library/reporis/50-years-of-progress/exec-
+[^4]: <ins>Id</ins>. _at_ Executive Summary p. 13. Retrieved from: http://www.surgeongeneral. gov/library/reporis/50-years-of-progress/exec-
 summary.pdf
 
-[^5]: United States v. Phillip Morris, Inc., RJ Reynolds Tobacco Co., et al., 449 F.Supp.2d 1 (D.D.C. 2006) at Par. 3301 and Pp. 1605-
+[^5]: <ins>United States v. Phillip Morris, Inc., RJ Reynolds Tobacco Co., et al.</ins>, 449 F.Supp.2d 1 (D.D.C. 2006) at Par. 3301 and Pp. 1605-
 07.
 
 [^6]: SAMHSA, Calculated based on data in 2011 National Survey on Drug Use and Health and U. S. Department of Health and
 Human services (HHA).
 
-[^7]: CDC (2013) Youth Risk Behavior, Surveillance Summaries (MMWR 2014: 63 (No SS-04)). Retrieved from: www.cdc.gov.
+[^7]: CDC (2013) _Youth Risk Behavior, Surveillance Summaries_ (MMWR 2014: 63 (No SS-04)). Retrieved from: www.cdc.gov.
 
 
-[^8]: CDC (2009), Youth Risk Behavior, Surveillance Summaries (MMWR 2010: 59, 12, note 5). Retrieved from:
-http:www.cdc.gov/mmwr/pdf/ss/ss5905.pdf.
+[^8]: CDC (2009), _Youth Risk Behavior, Surveillance Summaries_ (MMWR 2010: 59, 12, note 5). Retrieved from:
+http://www.cdc.gov/mmwr/pdf/ss/ss5905.pdf.
 
 Whereas 59% of high school smokers in Massachusetts have tried flavored cigarettes or flavored cigars and
 25.6% of them are current flavored tobacco product users; 95.1 % of 12-17 year olds who smoked cigars
-reported smoking cigar brands that were flavored:?
+reported smoking cigar brands that were flavored[^9]:
 
 Whereas the federal Family Smoking Prevention and Tobacco Control Act (FSPTCA), enacted in 2009,
-prohibited candy- and fruit-flavored cigarettes,’° largely because these flavored products were marketed to
-youth and young aduits,"! and younger smokers were more likely to have tried these products than older
-smokers!”, neither federal nor Massachusetts laws restrict sales of flavored non-cigarette tobacco products,
+prohibited candy- and fruit-flavored cigarettes,[^10] largely because these flavored products were marketed to
+youth and young aduits,[^11] and younger smokers were more likely to have tried these products than older
+smokers[^12], neither federal nor Massachusetts laws restrict sales of flavored non-cigarette tobacco products,
 such as cigars, cigarillos, smokeless tobacco, hookah tobacco, and electronic devices and the nicotine
 solutions used in these devices;
 
 Whereas the U.S. Food and Drug Administration and the U.S. Surgeon General have stated that flavored
 tobacco products are considered to be “starter” products that help establish smoking habits that can lead to
-long-term addiction;?
+long-term addiction[^13];
 
 Whereas the U.S. Surgeon General recognized in his 2014 report that a complementary strategy to assist in
 eradicating tobacco related death and disease is for local governments to ban categories of products from
-retail sale;
+retail sale[^14];
 
 Whereas the U.S. Centers for Disease Control and Prevention has reported that the current use of electronic
 cigarettes, a product sold in dozens of flavors that appeal to youth, among middle and high school students
-tripled from 2013 to 2014;5
+tripled from 2013 to 2014;[^15]
 
-Whereas 5.8% of Massachusetts youth currently use e-cigarettes and 15.9% have tried them;’°
+Whereas 5.8% of Massachusetts youth currently use e-cigarettes and 15.9% have tried them;[^16]
 
 Whereas the Massachusetts Department of Environmental Protection has classified liquid nicotine in any
-
-amount as an “acutely hazardous waste”:!”
+amount as an “acutely hazardous waste”:[^17]
 
 [^9]: Massachusetts Department of Public Health, 2015 Massachusetts Youth Health Survey (MYHS); Delneve CD et al., Tob
 Control, March 2014: Preference for flavored cigar brands among youth, young adults and adults in the USA.
+
 [^10]: 21 U.S.C. § 387g.
-" Carpenter CM, Wayne GF, Pauly JL, et al. 2005. “New Cigarette Brands with Flavors that Appeal to Youth: Tobacco Marketing
-Strategies.” Health Affairs. 24(6): 1601-1610; Lewis M and Wackowski O. 2006. “Dealing with an Innovative Industry: A Look at
-Flavored Cigarettes Promoted by Mainstream Brands.” American Journal of Public Health. 96(2): 244-251; Connolly GN. 2004.
-“Sweet and Spicy Flavours: New Brands for Minorities and Youth.” Tobacco Control. 13(3): 211-212; U.S. Department of Health
-and Human Services. 2012. Preventing Tobacco Use Among Youth and Young Adults: A Report of the Surgeon General. Atlanta:
+
+[^11]: Carpenter CM, Wayne GF, Pauly JL, et al. 2005. “New Cigarette Brands with Flavors that Appeal to Youth: Tobacco Marketing
+Strategies.” _Health Affairs_. 24(6): 1601-1610; Lewis M and Wackowski O. 2006. “Dealing with an Innovative Industry: A Look at
+Flavored Cigarettes Promoted by Mainstream Brands.” _American Journal of Public Health_. 96(2): 244-251; Connolly GN. 2004.
+“Sweet and Spicy Flavours: New Brands for Minorities and Youth.” _Tobacco Control_. 13(3): 211-212; U.S. Department of Health
+and Human Services. 2012. _Preventing Tobacco Use Among Youth and Young Adults: A Report of the Surgeon General_. Atlanta:
 U.S. National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking and Health, p. 537,
-www.surgeongeneral gov/library/reports/preventing-youth-tobacco-use/full-report.pdf.
-"U.S. Department of Health and Human Services. 2012. Preventing Tobacco Use Among Youth and Young Adults: A Report of
-the Surgeon General. Atlanta: U.S. National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking and
-Health, p. 539, www.surgeongeneral.gov/librarv/reports/preventing-youth-tobacco-use/full-report.pdf.
-* Food and Drug Administration. 2011. Fact Sheet: Flavored Tobacco Products,
-www.fda. gov/downloads/TobaccoProducts/ProtectingKidsfromTobacco/F lavoredTobacco/UCM183214.pdf; U.S. Department of
-Health and Human Services. 2012. Preventing Tobacco Use Among Youth and Young Adults: A Report of the Surgeon General.
+https://www.surgeongeneral gov/library/reports/preventing-youth-tobacco-use/full-report.pdf.
+
+[^12]: U.S. Department of Health and Human Services. 2012. _Preventing Tobacco Use Among Youth and Young Adults: A Report of
+the Surgeon General_. Atlanta: U.S. National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking and
+Health, p. 539, https://www.surgeongeneral.gov/librarv/reports/preventing-youth-tobacco-use/full-report.pdf.
+
+ [^13]: Food and Drug Administration. 2011. _Fact Sheet: Flavored Tobacco Products_,
+https://www.fda.gov/downloads/TobaccoProducts/ProtectingKidsfromTobacco/FlavoredTobacco/UCM183214.pdf; U.S. Department of
+Health and Human Services. 2012. _Preventing Tobacco Use Among Youth and Young Adults: A Report of the Surgeon General_.
 Atlanta: U.S. National Center for Chronic Disease Prevention and Health Promotion, Office on Smoking and Health, p. 539,
-www. surgeongeneral, gov/library/reports/preventing-youth-tobacco-use/full-report.pdf.
-4 See fn. 3 at p. 85.
-'S Centers for Disease Control & Prevention. 2015. “Tobacco Use Among Middle and High School Students — United States,
-2011-2014,” Morbidity and Mortality Weekly Report (MMWR) 64(14): 381-385;
-16 Massachusetts Department of Public Health, 2015 Massachusetts Youth Health Survey (MYHS)
-*7310 CMR 30.136
+https://www.surgeongeneral.gov/library/reports/preventing-youth-tobacco-use/full-report.pdf.
 
-2
-
+[^14]: _See_ fn. 3 at p. 85.
 
-Page # 3
+[^15]: Centers for Disease Control & Prevention. 2015. “Tobacco Use Among Middle and High School Students — United States,
+2011-2014,” _Morbidity and Mortality Weekly Report (MMWR)_ 64(14): 381-385;
+
+[^16]: Massachusetts Department of Public Health, 2015 Massachusetts Youth Health Survey (MYHS)
+[^17]: 310 CMR 30.136
+
+
 Whereas in a lab analysis conducted by the FDA, electronic cigarette cartridges that were labeled as
-containing no nicotine actually had low levels of nicotine present in all cartridges tested, except for one'®;
+containing no nicotine actually had low levels of nicotine present in all cartridges tested, except for one[^18];
 
 Whereas data from the National Youth Tobacco Survey indicate that more than two-fifths of U.S. middle and
-high school smokers report using flavored little cigars or flavored cigarettes;
+high school smokers report using flavored little cigars or flavored cigarettes[^19];
 
 Whereas the sale of tobacco products is incompatible with the mission of health care institutions because
 these products are detrimental to the public health and their presence in health care institutions undermine
@@ -136,18 +142,18 @@ becoming smokers and such sale of tobacco products is incompatible with the miss
 institutions that educate a younger population about social, environmental and health risks and harms;
 
 Whereas the Massachusetts Supreme Judicial Court has held that “. . . [t]he right to engage in business must
-yield to the paramount right of government to protect the public health by any rational means””°,
+yield to the paramount right of government to protect the public health by any rational means”[^20],
 
 Now, therefore it is the intention of the Westborough Board of Health to regulate the sale of tobacco
 products.
 
-B. Authority:
+B. __Authority__:
 
 This regulation is promulgated pursuant to the authority granted to the Westborough Board of Health by
 Massachusetts General Laws Chapter 111, Section 31 which states "Boards of health may make reasonable
 health regulations".
 
-C. Definitions:
+C. __Definitions__:
 For the purpose of this regulation, the following words shall have the following meanings:
 
 Adult-only retail tobacco store: An establishment that is not required to possess a retail food permit whose
@@ -163,17 +169,16 @@ fillers regardless of any content.
 Business Agent: An individual who has been designated by the owner or operator of any establishment to be
 the manager or otherwise in charge of said establishment.
 
-18 Food and Drug Administration, Summary of Results: Laboratory Analysis of Electronic Cigarettes Conducted by FDA, available
-at: http://www. fda.gov/newsevents/publichealthfocus/ucm]73146.htm.
-7 King BA, Tynan MA, Dube SR, et al. 2013. “Flavored-Little-Cigar and Flavored-Cigarette Use Among U.S. Middle and High
-School Students.” Journal of Adolescent Health. [Article in press], www.jahonline.org/article/S1054-139X%2813%2900415-
-L/abstract.
- Druzik et al v. Board of Health of Haverhill, 324 Mass.129 (1949).
+[^18]: Food and Drug Administration, _Summary of Results: Laboratory Analysis of Electronic Cigarettes Conducted by FDA_, available
+at: http://www.fda.gov/newsevents/publichealthfocus/ucm173146.htm.
 
-3
-
+[^19] King BA, Tynan MA, Dube SR, et al. 2013. “Flavored-Little-Cigar and Flavored-Cigarette Use Among U.S. Middle and High
+School Students.” _Journal of Adolescent Health_. \[Article in press\], https://www.jahonline.org/article/S1054-139X%2813%2900415-
+1/abstract.
 
-Page # 4
+[^20]: <ins>Druzik et al v. Board of Health of Haverhill</ins>, 324 Mass.129 (1949).
+
+
 Characterizing flavor: A distinguishable taste or aroma, other than the taste or aroma of tobacco, menthol,
 mint or wintergreen, imparted or detectable either prior to or during consumption of a tobacco product or
 component part thereof, including, but not limited to, tastes or aromas relating to any fruit, chocolate, vanilla,
@@ -191,14 +196,15 @@ paper, but not including any constituent.
 
 Constituent: Any ingredient, substance, chemical or compound, other than tobacco, water or reconstituted
 tobacco sheet, that is added by the manufacturer to a tobacco product during the processing, manufacturing
-or packaging of the tobacco product.. Such term shall include a smoke constituent.
+or packaging of the tobacco product. Such term shall include a smoke constituent.
 
 Coupon: Any card, paper, note, form, statement, ticket or other issue distributed for commercial or
 promotional purposes to be later surrendered by the bearer so as to receive an article, service or
 accommodation without charge or at a discount price.
 
 Distinguishable: Perceivable by either the sense of smell or taste.
-Distribute; Provide a tobacco product from a retailer to a consumer.
+
+Distribute: Provide a tobacco product from a retailer to a consumer.
 
 Educational Institution: Any public or private college, school, professional school, scientific or technical
 institution, university or other institution furnishing a program of higher education.
@@ -223,7 +229,7 @@ care institutions include, but are not limited to, hospitals, clinics, health ce
 doctor offices, optician/optometrist offices and dentist offices.
 
 
-Page # 5
+
 Liquid Nicotine Container: A bottie or other vessel which contains nicotine in liquid or gel form, whether
 or not combined with another substance or substances, for use in a tobacco product, as defined herein. The
 term does not include a container containing nicotine in a cartridge that is sold, marketed, or intended for use
@@ -239,7 +245,6 @@ Minimum Legal Sales Age (MLSA): The age an individual must be before that indivi
 tobacco product in the municipality.
 
 Non-Residential Roll-Your-Own (RYO) Machine: A mechanical device made available tor use (including
-
 to an individual who produces cigars, cigarettes, smokeless tobacco, pipe tobacco, or roll-your-own tobacco
 solely for the individual's own personal consumption or use) that is capable of making cigarettes, cigars or
 other tobacco products. RYO machines located in private homes used for solely personal consumption are
@@ -275,11 +280,6 @@ snuff; or electronic cigarettes, electronic cigars, electronic pipes, electronic
 liquids” or other similar products, regardless of nicotine content, that rely on vaporization or aerosolization.
 “Tobacco product” includes any component or part of a tobacco product. “Tobacco product” does not
 include any product that has been approved by the United States Food and Drug Administration either as a
-
-5
-
-
-Page # 6
 tobacco use cessation product or for other medical purposes and which is being marketed and sold or
 prescribed solely for the approved purpose.
 
@@ -287,7 +287,7 @@ Vending Machine: Any automated or mechanical self-service device, which upon ins
 tokens or any other form of payment, dispenses or makes cigarettes or any other tobacco products, as defined
 herein.
 
-D. Tobacco Sales to Persons Under the Minimum Legal Sales Age Prohibited:
+D. __Tobacco Sales to Persons Under the Minimum Legal Sales Age Prohibited__:
 
 1. No person shall sell tobacco products or permit tobacco products, as defined herein, to be sold to a person
 under the minimum legal sales age; or not being the individual's parent or legal guardian, give tobacco
@@ -332,8 +332,7 @@ of 27.
 buyer and occur at the permitted location.
 
 
-Page # 7
-E. Tobacco Product Sales Permit:
+E. __Tobacco Product Sales Permit__:
 
 1. No person shall sell or otherwise distribute tobacco products, as defined herein, within the Town of
 Westborough without first obtaining a Tobacco Product Sales Permit issued annually by the Westborough
@@ -375,102 +374,94 @@ Tobacco Product Sales Permit at the time of the sale or acquisition of said busi
 (60) days of such sale or acquisition for the permit held by the Current Permit Holder if the Applicant intends
 to sell tobacco products, as defined herein.
 
-F. Sale of Flavored Tobacco Products Prohibited:
+F. __Sale of Flavored Tobacco Products Prohibited__:
 
 No person shall sell or distribute or cause to be sold or distributed any flavored tobacco product, except in
 smoking bars and adult-only retail tobacco stores.
 
 
-Page # 8
-G. Prohibition of the Sale of Blunt Wraps:
+G. __Prohibition of the Sale of Blunt Wraps__:
 
 No person or entity shall sell or distribute blunt wraps in Westborough.
 
-H. Free Distribution and Coupon Redemption: No person shall:
+H. __Free Distribution and Coupon Redemption__: 
+No person shall:
 
-1.
+1. Distribute or cause to be distributed, any free samples of tobacco products, as defined herein;
 
-Distribute or cause to be distributed, any free samples of tobacco products, as defined herein;
-
-Accept or redeem, offer to accept or redeem, or cause or hire any person to accept or redeem or offer
+2. Accept or redeem, offer to accept or redeem, or cause or hire any person to accept or redeem or offer
 to accept or redeem any coupon that provides any tobacco product, as defined herein, without charge or
 for less than the listed or non-discounted price; or
 
-Sell a tobacco product, as defined herein, to consumers through any multi-pack discounts (e.g., "buy-
+3. Sell a tobacco product, as defined herein, to consumers through any multi-pack discounts (e.g., "buy-
 two-get-one-free") or otherwise provide or distribute to consumers any tobacco product, as defined
 herein, without charge or for less than the listed or non-discounted price in exchange for the purchase of
 any other tobacco product.
 
-Sections 2 and 3 shall not apply to products, such as cigarettes, for which there is a state law prohibiting
+4. Sections 2 and 3 shall not apply to products, such as cigarettes, for which there is a state law prohibiting
 them from being sold as loss leaders and for which a minimum retail price is required by state law.
 
-I. Out-of-Package Sales:
+I. __Out-of-Package Sales__:
 
-1.
-
-The sale or distribution of tobacco products, as defined herein, in any form other than an original factory-
+1. The sale or distribution of tobacco products, as defined herein, in any form other than an original factory-
 wrapped package is prohibited, including the repackaging or dispensing of any tobacco product, as
 defined herein, for retail sale. No person may sell or cause to be sold or distribute or cause to be
 distributed any cigarette package that contains fewer than twenty (20) cigarettes, including single
 cigarettes.
 
-A retailer of Liquid Nicotine Containers must comply with the provisions of 310 CMR 30.000, and must
+2. A retailer of Liquid Nicotine Containers must comply with the provisions of 310 CMR 30.000, and must
 provide the Westborough Board of Health with a written plan for disposal of said product, including
 disposal plans for any breakage, spillage or expiration of the product.
 
-All retailers must comply with 940 CMR 21.05 which reads: “It shall be an unfair or deceptive act or
+3. All retailers must comply with 940 CMR 21.05 which reads: “It shall be an unfair or deceptive act or
 practice for any person to sell or distribute nicotine in a liquid or gel substance in Massachusetts after
 March 15, 2016 unless the liquid or gel product is contained in a child-resistant package that, at a
 minimum, meets the standard for special packaging as set forth in 15 U.S. C.§§1471 through 1476 and 16
-CFR $1700 et. Seq.”
+CFR §1700 et. Seq.”
 
-J. Self-Service Displays:
+J. __Self-Service Displays__:
 
 All self-service displays of tobacco products, as defined herein, are prohibited. All humidors including, but
 not limited to, walk-in humidors must be locked.
 
-K. Vending Machines:
+K. __Vending Machines__:
 
 All vending machines containing tobacco products, as defined herein, are prohibited.
 
-8
-
-
-Page # 9
-L. Non-Residential Roll-Your-Own Machines:
+L. __Non-Residential Roll-Your-Own Machines__:
 
 All Non-Residential Roll-Your-Own machines are prohibited.
 
-M. Prohibition of the Sale of Tobacco Products by Health Care Institutions:
+M. __Prohibition of the Sale of Tobacco Products by Health Care Institutions__:
 
 No health care institution located in Westborough shall sell or cause to be sold tobacco products, as defined
 herein. No retail establishment that operates or has a health care institution within it, such as a pharmacy,
 optician/optometrist or drug store, shall sell or cause to be sold tobacco products, as defined herein.
 
-N. Prohibition of the Sale of Tobacco Products by Educational Institutions:
+N. __Prohibition of the Sale of Tobacco Products by Educational Institutions__:
 
 No educational institution located in Westborough shall sell or cause to be sold tobacco products, as defined
 herein. This includes all educational institutions as well as any retail establishments that operate on the
 property of an educational institution.
 
-O. Incorporation of Attorney General Regulation 940 CMR 21.00:
+O. __Incorporation of Attorney General Regulation 940 CMR 21.00__:
 
 The sale or distribution of tobacco products, as defined herein, must comply with those provisions found at
 940 CMR 21.00 (“Sale and Distribution of Cigarettes, Smokeless Tobacco Products, and Electronic Smoking
 Devices in Massachusetts”).
 
-P. Violations:
+P. __Violations__:
 
 1. It shall be the responsibility of the establishment, permit holder and/or his or her business agent to ensure
 compliance with all sections of this regulation. The violator shall receive:
 
-a. Inthe case of a first violation, a fine of three hundred dollars ($300.00).
+a. In the case of a first violation, a fine of three hundred dollars ($300.00).
 
-b. Inthe case of a second violation within twenty-four (24) months of the date of the current violation, a
+b. In the case of a second violation within twenty-four (24) months of the date of the current violation, a
 fine of three hundred dollars ($300.00) and the Tobacco Product Sales Permit may be suspended for
 seven (7) consecutive business days.
 
-c. Inthe case of three or more violations within a twenty-four (24) month period, a fine of three hundred
+c. In the case of three or more violations within a twenty-four (24) month period, a fine of three hundred
 dollars ($300.00) and the Tobacco Product Sales Permit may be suspended for thirty (30) consecutive
 business days.
 
@@ -484,8 +475,6 @@ Tobacco Product Sales Permit for thirty (30) consecutive business days.
 3. In addition to the monetary fines set above, any permit holder who engages in the sale or distribution of
 tobacco products while his or her permit is suspended shall be subject to the suspension of all Board of
 
-
-Page # 10
 Health issued permits for thirty (30) consecutive business days. Multiple tobacco product sales permit
 suspensions shall not be served concurrently.
 
@@ -500,33 +489,33 @@ upon suspension or revocation of the Tobacco Product Sales Permit. Failure to re
 as defined herein, shall constitute a separate violation of this regulation and be punishable by a fine of one
 hundred dollars ($100.00) per day.
 
-Q. Non-Criminal Disposition:
+Q. __Non-Criminal Disposition__:
 
 Whoever violates any provision of this regulation may be penalized by the non-criminal method of
 disposition as provided in Massachusetts General Laws, Chapter 40, Section 21D.
 
-R. Separate Violations: Each day any violation exists shall be deemed to be a separate offense.
-S. Enforcement:
+R. __Separate Violations__: 
+
+Each day any violation exists shall be deemed to be a separate offense.
+
+S. __Enforcement__:
 Enforcement of this regulation shall be by the Westborough Board of Health or its designated agent(s).
 
 Any resident who desires to register a complaint pursuant to the regulation may do so by contacting the
-Westborough Board of Health or its designated agent(s) and the Board shal! investigate.
+Westborough Board of Health or its designated agent(s) and the Board shall investigate.
 
-T. Severability:
+T. __Severability__:
 
 If any provision of this regulation is declared invalid or unenforceable, the other provisions shall not be
 affected thereby but shall continue in full force and effect.
 
-U. Variances:
+U. __Variances__:
 
 The Board of Health may vary any provision of these regulations with respect to any particular case, when in
 its opinion, (1) the enforcement thereof would do manifest injustice, and (2) the applicant has proved that the
 same degree of protection can be achieved without strict application of the particular provision.
 
-V. Effective Date: Section D (1) of this regulation shall take effect on Degember 30, 2018. All other
-provisions shall take effect on January 15, 2019. |
+V. __Effective Date__: 
+Section D (1) of this regulation shall take effect on Degember 30, 2018. All other
+provisions shall take effect on January 15, 2019.
 
-Soe aoa eg Af i
-MLA ll
-Alan Ehrlich, M.D. Nathan Walsh, Ph.D.
-i Member
